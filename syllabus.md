@@ -90,10 +90,11 @@ Senior design enables you to focus on your own project, and push your technical 
 ### Final Package ###
  To complete the course, you must submit the Final package by the deadline May 10th. *Failure to submit the complete final package will result in no grade being assigned*
  You must submit the following:
-<b> 1. Code </b> Please check with instructor or your faculty mentor to see what your specific requirements are.
+<b> 1. Code </b> (Github repo) Please check with instructor or your faculty mentor to see what your specific requirements are.
    * The most recent working version of your project's code (on Github project repo)
    * A README file that explaints how to install all libraries needed, what paths need to be set up etc to get your project running.
-   * A simple test program that can be run at the command-line that will run only if everything is correctly installed
+   * README file should also contain instructions for follow-on projects (for future SD projects) if applicable. 
+   * (If applicable) A simple test program that can be run at the command-line that will run only if everything is correctly installed
   
 <b> 2. Equipment </b> (if applicable): If your project involved equipment bought by the Department, please return the equipment before noon on May 10th
 
@@ -101,21 +102,17 @@ Senior design enables you to focus on your own project, and push your technical 
    * Create a 3-5 minute  “promotional” video that is akin to a “sales pitch” (plan for a 3 minute video, and you should not exceed 5 minutes). It should provide a high level description of your project/product aimed at general tech savvy audiences (such as VCs, upper level management, etc.). It should describe what the product does and why is it useful - you don't need to describe how it is built.
    *  Create an 8-minute project video (it can be a screencast using the slides in your final presentation where you talk as you go from slide to slide). Think of this as a record of your final presentation that anyone can view and understand what the project does, as well as how it works (including technical components and solutions). We recommend including videos (or at least screenshots) showing your project at work.
  
-<b> 4. Poster </b> Create a standard-sized poster (typically 9 slides) of your project. Create a PDF but await instructions about printing and making the poster itself.
+<b> 4. Poster </b> Create a standard-sized poster (typically 6 slides) of your project. Create a PDF but await instructions about printing and making the poster itself.
 
-<b> 5. Project Webpage </b> Create a single page for yourself and your project with the following elements:
-  * A clear picture of yourself.
-  * A short (one paragraph) biosketch that says a little about you, your interests, dreams etc.
-  * Your screencasts of your final presentations.
+<b> 5. Project Webpage </b> Create a single page for your project with the following elements:
+  * Landing page (home page) - should have an "about" content which gives a concise description of your project; visitors to the website should get an idea of what your project does just by reading this.
+  * Team information - include photos and short (one paragraph) biosketch about each team member (interests, position etc.).
+  * What tools/librariea/APIs/hardware were used to build your project (this info should ideally be part of the landing page)
+  * (Links to) Your Two videos (promotional video and project description video).
   * Links to the following:
-   -- The executive summary (and elevator pitch) writing assignments from Fall.
+   -- The executive summary (elevator pitch) writing assignments from Fall.
+   -- Link to a page/document that describes your software architecture
    -- Your poster
-   --  Instructions for follow-on projects. Write a detailed set of instructions for the next group of SD students who will build on your project. For research projects, this is analogous to the Future work section in a research paper.
-   -- An explanation of your project (2 paragraphs)
-   -- How to download and get the projectg working (in cases where there is specific hardware involved, make sure you mention this)
-   -- What tools and libraries are needed.
-   -- What works, and what doesn't, what to be aware of (pitfalls, issues).
-   -- Ideas for next steps.
   
 ## Teamwork and Group Dynamics ##
 It can be difficult working in a team, but it is essential in SD that all group members are productive and work together toward the project’s goals. Here we discuss what to do if the group dynamics break down at all. (We are implementing two mechanisms - an optional group feedback action and a required teamwork survey form.)
