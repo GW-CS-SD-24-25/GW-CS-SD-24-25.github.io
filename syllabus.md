@@ -98,8 +98,8 @@ Senior design enables you to focus on your own project, and push your technical 
 <b> 2. Equipment </b> (if applicable): If your project involved equipment bought by the Department, please return the equipment before noon on May 10th
 
 <b> 3. Screencast (Project Videos) </b> You will need to submit two videos (on Github or your google drive which you must share with the instruction team and your mentor.
-   * Create a 5 minute  “commercial” video that is akin to a “sales pitch”. It should provide a high level description of your project/product aimed at general tech savvy audiences (such as VCs, upper level management, etc.).
-   *  Create an 8-minute screencast using the slides in your final presentation where you talk as you go from slide to slide. Think of this as a record of your final presentation that anyone can view and understand the contributions, as well as technical challenges and solutions.
+   * Create a 3-5 minute  “promotional” video that is akin to a “sales pitch” (plan for a 3 minute video, and you should not exceed 5 minutes). It should provide a high level description of your project/product aimed at general tech savvy audiences (such as VCs, upper level management, etc.). It should describe what the product does and why is it useful - you don't need to describe how it is built.
+   *  Create an 8-minute project video (it can be a screencast using the slides in your final presentation where you talk as you go from slide to slide). Think of this as a record of your final presentation that anyone can view and understand what the project does, as well as how it works (including technical components and solutions). We recommend including videos (or at least screenshots) showing your project at work.
  
 <b> 4. Poster </b> Create a standard-sized poster (typically 9 slides) of your project. Create a PDF but await instructions about printing and making the poster itself.
 
