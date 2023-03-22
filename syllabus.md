@@ -104,7 +104,7 @@ Senior design enables you to focus on your own project, and push your technical 
  
 <b> 4. Poster </b> Create a standard-sized poster (typically 6 slides) of your project. Create a PDF but await instructions about printing and making the poster itself.
 
-<b> 5. Project Webpage </b> Create one professional website for your project with the following elements:
+<b> 5. Project Webpage </b> Create one professional website for your project, hosted on github (see main course page for link to github pages)  with the following elements:
   * Landing page (home page) - should have an "about" content which gives a concise description of your project; visitors to the website should get an idea of what your project does just by reading this.
   * Team information - include photos and short (one paragraph) biosketch about each team member (interests, position etc.).
   * What tools/libraries/APIs/hardware were used to build your project (this info should ideally be part of the landing page)
