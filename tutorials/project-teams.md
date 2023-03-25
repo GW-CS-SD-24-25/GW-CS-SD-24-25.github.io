@@ -67,7 +67,7 @@ The project teams are listed below by lecture section number.
 - Ryan Hudson
 - Austin Theriault
 
-### Team CSJ - [Project: BookCyle](https://aboutbookcycle.my.canva.site/) ###
+### Team CSJ - [Project: BookCyle](https://corasula.github.io/) ###
 - Subin Heo
 - James Scott
 - Cora Sula
