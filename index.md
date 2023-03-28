@@ -54,7 +54,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Getting Started: Class Resources ##
 You should have received an email with a survey about project topics and teams. If you have not then contact the instructors immediately.
   - [Course Syllabus](syllabus.md)  for the complete syllabus, requirements including grading policies, submission policies, and explanations.
-  - [Current Project Teams](tutorials/project-teams.md) - these are the project teams for 2022-2023.
+  - [2022-23 Projects and Teams](tutorials/project-teams.md) - these are the project teams for 2022-2023.
   - [Project Criteria](Project-Criteria.pdf) Read this document very carefully as you develop and propose your project ideas. Your project must meet the criteria specified in the Criteria document. Please read that carefully and make sure you can describe how your project proposal meets the requirements. You should also include what each team member will be responsible for.
      + [Samples of Past Projects](https://capstone.cs.gwu.edu/) - examples of past senior design projects (some from waay back!). Browse through them to get an idea of the types of projects students have completed in the past (but these are all single person projects, so expect a larger scope for your projects since you are doing team projects).
      +  [Promotional Video of Class2021 Projects](https://youtu.be/-xHwWniwBz4)
