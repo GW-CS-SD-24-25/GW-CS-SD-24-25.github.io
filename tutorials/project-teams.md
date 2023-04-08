@@ -36,7 +36,7 @@ The project teams are listed below by lecture section number.
 - Samuel Frey
 - Karim Alami
 
-### Team EldenLords - [Project: Spark](https://joseduran15.github.io/Capstone-Design-Spark/) ###
+### Team EldenLords - [Project: Spark](https://axcleri.github.io/spark-website/) ###
 - Jose Duran
 - Jay Samaraweera
 - Alexandra Kazaglis
