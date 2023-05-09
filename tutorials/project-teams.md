@@ -10,7 +10,7 @@ These are the project teams for 2022-2023 Senior Design (and are subject to chan
 The project teams are listed below by lecture section number.
 
 ## Section 10 Instructor: Prof Pless ##
-### Team Supercode- [Project: CarCow](https://alzaabi2.github.io/carcow.github.io/) ###
+### Team Supercode- [Project: WheelDeal](https://wheeldealapp.github.io/)###
 - Abdullah Almayoof
 - Saif Alzaabi
 - Dakharai Murray
