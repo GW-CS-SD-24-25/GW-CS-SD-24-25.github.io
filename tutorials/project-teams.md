@@ -72,7 +72,7 @@ The project teams are listed below by lecture section number.
 - James Scott
 - Cora Sula
 
-### Team CodeVWade - Project CodeVWade ###
+### Team CodeVWade - [Project CodeVWade](https://olegault.github.io/SeniorDesignWebsite/) ###
 - Miles Grant
 - Rubin Roy
 - Olivia Legault
