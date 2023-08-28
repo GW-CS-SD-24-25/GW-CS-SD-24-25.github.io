@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SD Criteria
+title: Project Criteria
 permalink: /criteria/
 ---
 
