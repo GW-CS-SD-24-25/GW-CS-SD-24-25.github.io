@@ -4,6 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+> NOTE: This is out of date and will be updated soon!
 
 **Instructors:** Kate McNally, Bhagi Narahari, Robert Pless
 **Email:** katemcnally@gwu.edu narahari@gwu.edu pless@gwu.edu
