@@ -6,22 +6,24 @@ layout: home
 <div class="footer-col two-col-1">
     <ul class="contact-list">
         <li><b> Instructors </b> </li>
-        <li><b>Prof. Robert Pless - Lecture Section 10 </b> </li>
-        <li> pless@gwu.edu </li>
-        <li> Tuesday 3:45pm -- 5:00pm, Tompkins 208 </li>
-        <li><b>Prof. Bhagi Narahari - Lecture Section 11 </b></li>
-        <li> narahari@gwu.edu </li>
-        <li> Tuesday 3:45pm -- 5:00pm , Tompkins 201 </li>
-        <li><b> Kate McNally - Lab </b> </li>
-        <li> katemcnally@gwu.edu </li>
+        <li><b>Prof. Timothy Wood - Lecture Section 10 </b> </li>
+        <li> timwood@gwu.edu </li>
+        <li> Tuesday 2:00pm -- 3:05pm, Tompkins 201 </li>
+        <li><b>Prof. Xiaodong Qu - Lecture Section 11 </b></li>
+        <li> x.qu@gwu.edu </li>
+        <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1300 </li>
+        <li><b> Josh Shapiro - Lab </b> </li>
+        <li> jshapiro314@gwu.edu </li>
         <li> Wednesday 6:10--8:40pm, SEH 1300--1400 </li>
-        <li> <b> TA resources </b> TBD </li>
+        <li> <b>Sebastian Espinosa Panqueva - WID TA</b></li>
+        <li> sespinosap@gwmail.gwu.edu</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Technical Mentors </b> </li>
-        <li><b> Lucas Chaufournier, </b> Square </li>
+        <li><b> Coming soon...</b> </li>
+        <!-- <li><b> Lucas Chaufournier, </b> Square </li>
         <li><b> Pat Cody,</b> Facebook </li>
         <li><b> Aaron Coplan,</b> Facebook </li>
         <li><b> Kevin Deems,</b> Facebook </li>
@@ -30,7 +32,7 @@ layout: home
         <li> <b> Rian Shambaugh </b>, FINRA  </li>
         <li><b> Josh Shapiro </b>, AKASA  </li>
         <li><b> John Shepherd,</b> Toyota Research Inst.</li>
-        <li><b> Megan Wood </b>, Ridgeline </li>
+        <li><b> Megan Wood </b>, Ridgeline </li> -->
       </ul>
 </div>
 </div>
@@ -54,13 +56,13 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Getting Started: Class Resources ##
 You should have received an email with a survey about project topics and teams. If you have not then contact the instructors immediately.
   - [Course Syllabus](syllabus.md)  for the complete syllabus, requirements including grading policies, submission policies, and explanations.
-  - [2022-23 Projects and Teams](tutorials/project-teams.md) - these are the project teams for 2022-2023.
-  - [Project Criteria](Project-Criteria.pdf) Read this document very carefully as you develop and propose your project ideas. Your project must meet the criteria specified in the Criteria document. Please read that carefully and make sure you can describe how your project proposal meets the requirements. You should also include what each team member will be responsible for.
+  <!-- - [2022-23 Projects and Teams](tutorials/project-teams.md) - these are the project teams for 2022-2023. -->
+  - [Project Criteria](criteria.md) Read this document very carefully as you develop and propose your project ideas. Your project must meet the criteria specified in the Criteria document. Please read that carefully and make sure you can describe how your project proposal meets the requirements. You should also include what each team member will be responsible for.
      + [Samples of Past Projects](https://capstone.cs.gwu.edu/) - examples of past senior design projects (some from waay back!). Browse through them to get an idea of the types of projects students have completed in the past (but these are all single person projects, so expect a larger scope for your projects since you are doing team projects).
      +  [Promotional Video of Class2021 Projects](https://youtu.be/-xHwWniwBz4)
-  - [2022-23 Project Ideas from faculty](lectures/project-ideas.pdf) If you are looking for project ideas/topics, this is a list of ideas proposed by faculty.
+  - [2022-23 Project Ideas from faculty](lectures/project-ideas.pdf) If you are looking for project ideas/topics, this is a list of ideas previously proposed by faculty.
   - [Blackboard](https://blackboard.gwu.edu) Your place for major announcements. We will use this space for announcements that would change the outcomes, syllabus, or deadlines of the course, and to post your grades. Individual writing assignments will need to be submitted on blackboard.
-  - [Slack]() - [Join here]() Your place for adhoc and daily communication. We will use this space for communication between team members, teams, mentors and instructors. We will use the same public channel (the general channel) for any classwide communication/discussion but you will have a team channel to use for your team and mentor communications.  
+  - **Slack** - Your place for adhoc and daily communication. We will use this space for communication between team members, teams, mentors and instructors. We will use the same public channel (the general channel) for any classwide communication/discussion but you will have a team channel to use for your team and mentor communications.  
   - <b> Trello </b> Your place for task management. We will use this space for managing project tasks and details. Each team will have their own Workspace to manage their project. Project mentors will have access to the project workspace. *Sign up right away for your Trello account* and provide this in the Class Logistics survey (due first week).
   - <b> Github </b> Your place for code management. We will use this to manage your deployments, store your code, and monitor your commit progress
   - [Trello and Github Quickstart tutorial ](tutorials/Trello-Github.md)
@@ -74,29 +76,30 @@ You should have received an email with a survey about project topics and teams. 
 The class will have several types of meetings: lectures (in-person and online), standup meetings, sprint planning meeting, panel discussions, project presentations, mock interviews, tutorials, guest lectures (in-person and online), and demos.
 - <b> Lecture/Presentation/Demo/Interviews </b> will be held primarily during the regularly scheduled Wednesday (lab) classes.
 - <b> What is a standup meeting? </b> A Standup Meeting (Agile methodology) is a weekly high level project status meeting between the team and the project instructor/mentor. Each team will meet with their technical mentor and/or course instructor for their standup meeting; the meeting will be scheduled either during the class times or at a time arranged between the mentors and the team. During this meeting, we ask our team members, in order to most efficiently make progress on the project: 
--- 1. What have you done since we last met ?
--- 2. What will you do until we meet again ?
--- 3. Anything blocking your progress ?
+  - What have you done since we last met?
+  - What will you do until we meet again?
+  - Anything blocking your progress?
 - <b> What is a Sprint Planning Meeting (SPM)? </b> A Sprint Planning Meeting (Agile methodology) is a monthly meeting in which the team sets the goals and tasks they choose to commit to for the next month. The group determines which Backlog items will be handled in the next sprint.
 
 ## Topics ##
 Some of the topics covered in the course include:
-- SW Development Methdologies and Processes -- tooling walkthrough
+- SW Development Methdologies and Processes 
 - Project planning: Discovery and Research
 - Project Planning: planning in Practice
 - Developer tools
 - Development and delivery
 - Design and User Experience
 - Communication skills
--- a. Written reports (CS4243) is a WID course.
--- b. Oral presentation skills -- presenting to different audiences
+  - Written reports (CS4243) is a WID course.
+  - Oral presentation skills -- presenting to different audiences
 - Teams: Roles, Communication and Collaboration
 - Career planning, career paths, Mock interviews
 
+<!--
 ## Schedule  ##
 Lecture notes, when made available, are linked from the schedule below.
 
- 
+  
 ## Fall Semester CSCI 4243W ##
 
 <div style="font-size:90%">
@@ -118,13 +121,13 @@ Lecture notes, when made available, are linked from the schedule below.
 | Nov.28th | Sprint Planning Meeting  | Sprint review with mentors <br> Demo Prep | Code Review 3 |
 | Dec. 5 | Status updates on Demo1 | [Presentation 3:](lectures/presentations.md) <br>  <b> [Demo 1: Alpha Prototype](lectures/presentations.md)  </b> | Writing 4 draft |
 | Dec.12th |  | Team meetings if necessary | [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |  
-| <b> Winter Break </b> | end of CSCI 4243 |  |  |
+| <b> Winter Break </b> | end of CSCI 4243 |  |  | 
 
 
 </div>
+ -->
  
- 
-## Spring Semester CSCI 4244 ##
+<!-- ## Spring Semester CSCI 4244 ##
  
 <div style="font-size:90%">
 | Week of  | Lecture Session | Lab(Wednesday) | Work Deadlines 
@@ -150,4 +153,4 @@ Lecture notes, when made available, are linked from the schedule below.
 
 
 </div> 
- 
+  -->
