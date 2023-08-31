@@ -42,71 +42,18 @@ layout: home
 This is a two semester Computer Science capstone course culminating in a significant software project. 
 >Bulletin Description: Planning, design, and construction of the capstone project; economic analysis of the project; application of software engineering principles, including software requirements, specification, requirements engineering, reuse, documentation, verification/validation, testing, configuration management. Includes a significant engagement in writing as a form of critical inquiry and scholarly expression to satisfy the WID requirement. 
 
-## Learning Outcomes ##
-* Learn industry best practices, tools, and key elements in the software development process through a year-long computer science project: research and discovery, planning and design, development and launch.
-* Apply concepts from software engineering to the project: requirements, specifications, reuse, documentation, verification and validation, testing, configuration management.
-* Learn to communicate (written and oral) your work to stakeholders of the project: the case for launching the project, status reports, design, implementation plan, and demos.
-* Demonstrate an understanding of the concepts that you’ve learned in your Computer Science curriculum, and how knowledge and skill in Computer Science courses played a role in the project.
-* Explore local and global impact of computing, as well as social impact issues.
-* Demonstrate a working project.
-
-### Announcements ###
-  - <b>This website is under construction - all content subject to change!</b>
-
-## Getting Started: Class Resources ##
-You should have received an email with a survey about project topics and teams. If you have not then contact the instructors immediately.
-  - [Course Syllabus](syllabus.md)  for the complete syllabus, requirements including grading policies, submission policies, and explanations.
-  <!-- - [2022-23 Projects and Teams](tutorials/project-teams.md) - these are the project teams for 2022-2023. -->
-  - [Project Criteria](criteria.md) Read this document very carefully as you develop and propose your project ideas. Your project must meet the criteria specified in the Criteria document. Please read that carefully and make sure you can describe how your project proposal meets the requirements. You should also include what each team member will be responsible for.
-     + [Samples of Past Projects](https://capstone.cs.gwu.edu/) - examples of past senior design projects (some from waay back!). Browse through them to get an idea of the types of projects students have completed in the past (but these are all single person projects, so expect a larger scope for your projects since you are doing team projects).
-     +  [Promotional Video of Class2021 Projects](https://youtu.be/-xHwWniwBz4)
-  - [2022-23 Project Ideas from faculty](lectures/project-ideas.pdf) If you are looking for project ideas/topics, this is a list of ideas previously proposed by faculty.
-  - [Blackboard](https://blackboard.gwu.edu) Your place for major announcements. We will use this space for announcements that would change the outcomes, syllabus, or deadlines of the course, and to post your grades. Individual writing assignments will need to be submitted on blackboard.
-  - **[Slack](http://GW-CS-SD-23-24.slack.com)** - ([Join here](https://join.slack.com/t/gw-cs-sd-23-24/shared_invite/zt-228rdjkmr-bSlCVDmZtI26uplyQGbD0A)) Your place for adhoc and daily communication. We will use this space for communication between team members, teams, mentors and instructors. We will use the same public channel (the general channel) for any classwide communication/discussion but you will have a team channel to use for your team and mentor communications.  
-  - <b> Trello </b> Your place for task management. We will use this space for managing project tasks and details. Each team will have their own Workspace to manage their project. Project mentors will have access to the project workspace. *Sign up right away for your Trello account* and provide this in the Class Logistics survey (due first week).
-  - <b> Github </b> Your place for code management. We will use this to manage your deployments, store your code, and monitor your commit progress
-  - [Trello and Github Quickstart tutorial ](tutorials/Trello-Github.md)
-  - [Git Instructions](tutorials/git_tutorial.md) & [Video Demo](https://youtu.be/RvEgfSeEuB0) (provided by Ethan Baron, Cat Meadows).  
-  - [Visual Studio Code Instructions](tutorials/vscode_tutorial.md) & [Video Demo](https://youtu.be/WhppZrMvoBU) (provided by Ethan Baron, Cat Meadows)
-  - <b> Project Mentors </b> (Technical Mentors): Each team will have a technical mentor assigned to them, and is required to meet regularly with their mentor. We recommend a weekly meeting but bi-weekly meetings, and sprint planning meetings, are required. The mentors are a valuable resource and they will help teams develop, evaluate, design, implement and test the projects. Mentor feedback will be an important part of your assessment.
-  - <b> Project Webpage </b> You must have a webpage for your project. We are using [Github Pages](https://pages.github.com) - see the syllabus page for details on webpage and final package contents.
-   
-  
-## Meeting Types ##
-The class will have several types of meetings: lectures (in-person and online), standup meetings, sprint planning meeting, panel discussions, project presentations, mock interviews, tutorials, guest lectures (in-person and online), and demos.
-- <b> Lecture/Presentation/Demo/Interviews </b> will be held primarily during the regularly scheduled Wednesday (lab) classes.
-- <b> What is a standup meeting? </b> A Standup Meeting (Agile methodology) is a weekly high level project status meeting between the team and the project instructor/mentor. Each team will meet with their technical mentor and/or course instructor for their standup meeting; the meeting will be scheduled either during the class times or at a time arranged between the mentors and the team. During this meeting, we ask our team members, in order to most efficiently make progress on the project: 
-  - What have you done since we last met?
-  - What will you do until we meet again?
-  - Anything blocking your progress?
-- <b> What is a Sprint Planning Meeting (SPM)? </b> A Sprint Planning Meeting (Agile methodology) is a monthly meeting in which the team sets the goals and tasks they choose to commit to for the next month. The group determines which Backlog items will be handled in the next sprint.
-
-## Topics ##
-Some of the topics covered in the course include:
-- SW Development Methdologies and Processes 
-- Project planning: Discovery and Research
-- Project Planning: planning in Practice
-- Developer tools
-- Development and delivery
-- Design and User Experience
-- Communication skills
-  - Written reports (CS4243) is a WID course.
-  - Oral presentation skills -- presenting to different audiences
-- Teams: Roles, Communication and Collaboration
-- Career planning, career paths, Mock interviews
-
-<!--
-## Schedule  ##
-Lecture notes, when made available, are linked from the schedule below.
 
   
 ## Fall Semester CSCI 4243W ##
 
 <div style="font-size:90%">
-| Week  | Lecture Session | Lab(Wednesday) | Work Deadlines (Sunday) 
+| Week  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (Sunday) 
 | :--- |:---  |:--- |:--- |
-| Week 1 <br> Aug.29th | Introductions, Project planning and Teams <br> [Course Logistics](lectures/intro.pdf) | Introductions & Meet the Mentors <br> [Methodologies, Tooling walkthrough](lectures/methodologies.pdf) | 1.[Complete the Logistics Survey](https://forms.gle/bFhX52XR6u1TsbAU6) - Sept.6 Noon <br> 2. Form Team <br> 3. Read [Project Criteria](lectures/Project-Criteria.pdf) <br> 4. Create Trello Account |  
-| Sept.5th  | Meeting w/instructors: <br> project ideas | [Project Planning: Discovery and Research](lectures/project-planning1.pdf) <br> Standup meeting with mentors |  1. Propose Project ideas <br> 2. [Submit Resume](https://blackboard.gwu.edu) - by midnight, Sept.11|
+| Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>Methodologies, Tooling walkthrough | Look at sample ideas ([old], AI generated)<br>Complete team form (coming soon) |  
+
+</div>
+
+<!--| Sept.5th  | Meeting w/instructors: <br> project ideas | [Project Planning: Discovery and Research](lectures/project-planning1.pdf) <br> Standup meeting with mentors |  1. Propose Project ideas <br> 2. [Submit Resume](https://blackboard.gwu.edu) - by midnight, Sept.11|
 | Sept.12th | [Presentation Tips](lectures/how-to-present.pdf) & Practice <br> Meeting with instructors (project ideas) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Standup Meeting with mentors | Draft  project proposal (One page)  -Sept.18th (Post on team Slack channel ) <br>  discuss proposal draft with mentors & instructors  |
 | Sept.19th | Instructor meeting: <br> Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1.Project Proposal (blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.25th |
 | Sept.26th. | Team presentation practice <br> Sprint Planning Meeting prep | [Presentation Practice](lectures/Presentations_SprintReview.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart - Submit on your slack channel  <br> 2. Technical design discussions  <br> 3. Group feedback (optional) - email instructors |
@@ -154,3 +101,61 @@ Lecture notes, when made available, are linked from the schedule below.
 
 </div> 
   -->
+
+
+## Learning Outcomes ##
+* Learn industry best practices, tools, and key elements in the software development process through a year-long computer science project: research and discovery, planning and design, development and launch.
+* Apply concepts from software engineering to the project: requirements, specifications, reuse, documentation, verification and validation, testing, configuration management.
+* Learn to communicate (written and oral) your work to stakeholders of the project: the case for launching the project, status reports, design, implementation plan, and demos.
+* Demonstrate an understanding of the concepts that you’ve learned in your Computer Science curriculum, and how knowledge and skill in Computer Science courses played a role in the project.
+* Explore local and global impact of computing, as well as social impact issues.
+* Demonstrate a working project.
+
+### Announcements ###
+  - <b>This website is under construction - all content subject to change!</b>
+
+## Getting Started: Class Resources ##
+You should have received an email with a survey about project topics and teams. If you have not then contact the instructors immediately.
+  - [Course Syllabus](syllabus.md)  for the complete syllabus, requirements including grading policies, submission policies, and explanations.
+  <!-- - [2022-23 Projects and Teams](tutorials/project-teams.md) - these are the project teams for 2022-2023. -->
+  - [Project Criteria](criteria.md) Read this document very carefully as you develop and propose your project ideas. Your project must meet the criteria specified in the Criteria document. Please read that carefully and make sure you can describe how your project proposal meets the requirements. You should also include what each team member will be responsible for.
+     + [Samples of Past Projects](https://capstone.cs.gwu.edu/) - examples of past senior design projects (some from waay back!). Browse through them to get an idea of the types of projects students have completed in the past (but these are all single person projects, so expect a larger scope for your projects since you are doing team projects).
+     +  [Promotional Video of Class2021 Projects](https://youtu.be/-xHwWniwBz4)
+  - [Project Ideas from faculty](#) If you are looking for project ideas/topics, this is a list of ideas previously proposed by faculty. Or these [AI generated ideas](ai-ideas.md) migth not all be nonsense.
+  - [Blackboard](https://blackboard.gwu.edu) Your place for major announcements. We will use this space for announcements that would change the outcomes, syllabus, or deadlines of the course, and to post your grades. Individual writing assignments will need to be submitted on blackboard.
+  - **[Slack](http://GW-CS-SD-23-24.slack.com)** - ([Join here](https://join.slack.com/t/gw-cs-sd-23-24/shared_invite/zt-228rdjkmr-bSlCVDmZtI26uplyQGbD0A)) Your place for adhoc and daily communication. We will use this space for communication between team members, teams, mentors and instructors. We will use the same public channel (the general channel) for any classwide communication/discussion but you will have a team channel to use for your team and mentor communications.  
+  - <b> Trello </b> Your place for task management. We will use this space for managing project tasks and details. Each team will have their own Workspace to manage their project. Project mentors will have access to the project workspace. *Sign up right away for your Trello account* and provide this in the Class Logistics survey (due first week).
+  - <b> Github </b> Your place for code management. We will use this to manage your deployments, store your code, and monitor your commit progress
+  - [Trello and Github Quickstart tutorial ](tutorials/Trello-Github.md)
+  - [Git Instructions](tutorials/git_tutorial.md) & [Video Demo](https://youtu.be/RvEgfSeEuB0) (provided by Ethan Baron, Cat Meadows).  
+  - [Visual Studio Code Instructions](tutorials/vscode_tutorial.md) & [Video Demo](https://youtu.be/WhppZrMvoBU) (provided by Ethan Baron, Cat Meadows)
+  - <b> Project Mentors </b> (Technical Mentors): Each team will have a technical mentor assigned to them, and is required to meet regularly with their mentor. We recommend a weekly meeting but bi-weekly meetings, and sprint planning meetings, are required. The mentors are a valuable resource and they will help teams develop, evaluate, design, implement and test the projects. Mentor feedback will be an important part of your assessment.
+  - <b> Project Webpage </b> You must have a webpage for your project. We are using [Github Pages](https://pages.github.com) - see the syllabus page for details on webpage and final package contents.
+   
+  
+## Meeting Types ##
+The class will have several types of meetings: lectures (in-person and online), standup meetings, sprint planning meeting, panel discussions, project presentations, mock interviews, tutorials, guest lectures (in-person and online), and demos.
+- <b> Lecture/Presentation/Demo/Interviews </b> will be held primarily during the regularly scheduled Wednesday (lab) classes.
+- <b> What is a standup meeting? </b> A Standup Meeting (Agile methodology) is a weekly high level project status meeting between the team and the project instructor/mentor. Each team will meet with their technical mentor and/or course instructor for their standup meeting; the meeting will be scheduled either during the class times or at a time arranged between the mentors and the team. During this meeting, we ask our team members, in order to most efficiently make progress on the project: 
+  - What have you done since we last met?
+  - What will you do until we meet again?
+  - Anything blocking your progress?
+- <b> What is a Sprint Planning Meeting (SPM)? </b> A Sprint Planning Meeting (Agile methodology) is a monthly meeting in which the team sets the goals and tasks they choose to commit to for the next month. The group determines which Backlog items will be handled in the next sprint.
+
+## Topics ##
+Some of the topics covered in the course include:
+- SW Development Methdologies and Processes 
+- Project planning: Discovery and Research
+- Project Planning: planning in Practice
+- Developer tools
+- Development and delivery
+- Design and User Experience
+- Communication skills
+  - Written reports (CS4243) is a WID course.
+  - Oral presentation skills -- presenting to different audiences
+- Teams: Roles, Communication and Collaboration
+- Career planning, career paths, Mock interviews
+
+<!-- <!--
+## Schedule  ##
+Lecture notes, when made available, are linked from the schedule below. -->
