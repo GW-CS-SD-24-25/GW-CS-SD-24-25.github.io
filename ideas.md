@@ -15,7 +15,6 @@ Build a project with a cool toy:
 
 Use generative AI tools like chatGPT to:
  - Autogenerate children's books on a user specified topic with their child as the heroine
- - Provide 
 
 # Natural Language Processing Chatbot
 Build an advanced chatbot using natural language processing algorithms. The algorithm should understand and respond to user queries accurately. Implement the chatbot in a messaging application, considering user interface design and integration with backend services.
@@ -50,7 +49,7 @@ Develop a system that recognizes emotional states (e.g., happiness, sadness, ang
 Design and implement a research project that explores the application of transformer-based architectures and attention mechanisms to EEG data for tasks such as cognitive state recognition, emotion detection, or brain connectivity analysis.
 
 
-### Project ideas from 2021-2022
+## Project ideas from 2021-2022
 These ideas may still be available.
 
 # Mixed Reality UI for First Responders (AR/VR)
