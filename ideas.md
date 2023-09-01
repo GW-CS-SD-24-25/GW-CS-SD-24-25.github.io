@@ -17,6 +17,20 @@ Use generative AI tools like chatGPT to:
  - Autogenerate children's books on a user specified topic with their child as the heroine
  - Provide 
 
+## Natural Language Processing Chatbot
+Build an advanced chatbot using natural language processing algorithms. The algorithm should understand and respond to user queries accurately. Implement the chatbot in a messaging application, considering user interface design and integration with backend services.
+
+## Healthcare Data Analytics Platform
+Develop an algorithm for analyzing medical data to predict disease outcomes or suggest personalized treatments. Implement a web-based application that securely processes and visualizes patient data, taking into consideration data privacy and security measures.
+
+## Traffic Optimization System:
+Design an algorithm to optimize traffic flow in a city based on real-time data from various sources. Develop a software solution that integrates with traffic lights, cameras, and other infrastructure to implement the algorithm and manage traffic patterns.
+
+## Financial Portfolio Management Tool:
+Create an algorithm that optimizes investment portfolio allocations based on risk tolerance and market trends. Build a web or mobile application that allows users to manage their portfolios, leveraging the algorithmic insights.
+
+## Energy Consumption Monitoring System:
+Design an algorithm to analyze energy consumption patterns in a building. Implement the algorithm in a system that collects and visualizes energy usage data, aiding in energy efficiency improvements.
 
 
 # Project ideas from 2021-2022
