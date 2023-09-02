@@ -49,8 +49,8 @@ This is a two semester Computer Science capstone course culminating in a signifi
 <div style="font-size:90%">
 | Week  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (11:59pm) 
 | :--- |:---  |:--- |:--- |
-| Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](https://docs.google.com/presentation/d/1W0ccspsVOBV-VFuDaoj2tlrO_1FMEYgMFk91DmDTwu4/edit?usp=sharing) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
-| Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | Project Planning: Discovery and Research |  1. Propose Project ideas <br> 2. [Submit Resume](https://blackboard.gwu.edu) - by Sept. 10|
+| Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](https://docs.google.com/presentation/d/1W0ccspsVOBV-VFuDaoj2tlrO_1FMEYgMFk91DmDTwu4/edit?usp=sharing) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student Info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
+| Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | Project Planning: Discovery and Research |  1. Propose Project ideas - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
 
 </div>
 
