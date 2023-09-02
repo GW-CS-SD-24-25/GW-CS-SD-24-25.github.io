@@ -47,14 +47,15 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Fall Semester CSCI 4243W ##
 
 <div style="font-size:90%">
-| Week  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (Sunday) 
+| Week  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (11:59pm) 
 | :--- |:---  |:--- |:--- |
-| Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>Methodologies, Tooling walkthrough | Look at sample ideas ([old], AI generated)<br>Complete team form (coming soon) |  
+| Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](https://docs.google.com/presentation/d/1W0ccspsVOBV-VFuDaoj2tlrO_1FMEYgMFk91DmDTwu4/edit?usp=sharing) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
+| Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | Project Planning: Discovery and Research |  1. Propose Project ideas <br> 2. [Submit Resume](https://blackboard.gwu.edu) - by Sept. 10|
 
 </div>
 
-<!--| Sept.5th  | Meeting w/instructors: <br> project ideas | [Project Planning: Discovery and Research](lectures/project-planning1.pdf) <br> Standup meeting with mentors |  1. Propose Project ideas <br> 2. [Submit Resume](https://blackboard.gwu.edu) - by midnight, Sept.11|
-| Sept.12th | [Presentation Tips](lectures/how-to-present.pdf) & Practice <br> Meeting with instructors (project ideas) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Standup Meeting with mentors | Draft  project proposal (One page)  -Sept.18th (Post on team Slack channel ) <br>  discuss proposal draft with mentors & instructors  |
+
+<!-- | Sept.12th | [Presentation Tips](lectures/how-to-present.pdf) & Practice <br> Meeting with instructors (project ideas) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Standup Meeting with mentors | Draft  project proposal (One page)  -Sept.18th (Post on team Slack channel ) <br>  discuss proposal draft with mentors & instructors  |
 | Sept.19th | Instructor meeting: <br> Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1.Project Proposal (blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.25th |
 | Sept.26th. | Team presentation practice <br> Sprint Planning Meeting prep | [Presentation Practice](lectures/Presentations_SprintReview.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart - Submit on your slack channel  <br> 2. Technical design discussions  <br> 3. Group feedback (optional) - email instructors |
 | Oct.3rd | Presentation feedback | [Project Development and delivery](lectures/Development_Delivery.pdf) <br> Standup Meeting with mentors | 1. Start draft (individual) <br>  [Writing 1:  Executive Summary](lectures/writing.md)(Elevator pitch)- Individual Submission <br> 2. Updated (if applicable) Gantt Chart |
@@ -117,12 +118,11 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Getting Started: Class Resources ##
 You should have received an email with a survey about project topics and teams. If you have not then contact the instructors immediately.
   - [Course Syllabus](syllabus.md)  for the complete syllabus, requirements including grading policies, submission policies, and explanations.
-  <!-- - [2022-23 Projects and Teams](tutorials/project-teams.md) - these are the project teams for 2022-2023. -->
   - [Project Criteria](criteria.md) Read this document very carefully as you develop and propose your project ideas. Your project must meet the criteria specified in the Criteria document. Please read that carefully and make sure you can describe how your project proposal meets the requirements. You should also include what each team member will be responsible for.
      + [Project Examples from 2022-2023](https://gw-cs-sd-2022.github.io/tutorials/project-teams.html)
      + [Older Projects](https://capstone.cs.gwu.edu/) - examples of past senior design projects (some from waay back!). Browse through them to get an idea of the types of projects students have completed in the past (but these are all single person projects, so expect a larger scope for your projects since you are doing team projects).
      +  [Promotional Video of Class2021 Projects](https://youtu.be/-xHwWniwBz4)
-  - [Project Ideas from faculty](#) If you are looking for project ideas/topics, this is a list of ideas previously proposed by faculty. Or these [AI generated ideas](ai-ideas.md) migth not all be nonsense.
+  - [Project Ideas from faculty](ideas.md) If you are looking for project ideas/topics, this is a list of ideas previously proposed by faculty. Or these [AI generated ideas](ai-ideas.md) might not all be nonsense.
   - [Blackboard](https://blackboard.gwu.edu) Your place for major announcements. We will use this space for announcements that would change the outcomes, syllabus, or deadlines of the course, and to post your grades. Individual writing assignments will need to be submitted on blackboard.
   - **[Slack](http://GW-CS-SD-23-24.slack.com)** - ([Join here](https://join.slack.com/t/gw-cs-sd-23-24/shared_invite/zt-228rdjkmr-bSlCVDmZtI26uplyQGbD0A)) Your place for adhoc and daily communication. We will use this space for communication between team members, teams, mentors and instructors. We will use the same public channel (the general channel) for any classwide communication/discussion but you will have a team channel to use for your team and mentor communications.  
   - <b> Trello </b> Your place for task management. We will use this space for managing project tasks and details. Each team will have their own Workspace to manage their project. Project mentors will have access to the project workspace. *Sign up right away for your Trello account* and provide this in the Class Logistics survey (due first week).
