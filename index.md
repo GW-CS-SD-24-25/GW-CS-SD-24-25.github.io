@@ -51,12 +51,12 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | :--- |:---  |:--- |:--- |
 | Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](https://docs.google.com/presentation/d/1W0ccspsVOBV-VFuDaoj2tlrO_1FMEYgMFk91DmDTwu4/edit?usp=sharing) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student Info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
 | Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | Project Planning: Discovery and Research |  1. Propose Project ideas - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
-
+| Sept.12th | Meeting with instructors (out of class) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Initial Meeting with mentors | Draft  project proposal (3 slides)  -Sept.17th (Post on team Slack channel) <br>  discuss proposal draft with mentors & instructors  |
 </div>
 
 
-<!-- | Sept.12th | [Presentation Tips](lectures/how-to-present.pdf) & Practice <br> Meeting with instructors (project ideas) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Standup Meeting with mentors | Draft  project proposal (One page)  -Sept.18th (Post on team Slack channel ) <br>  discuss proposal draft with mentors & instructors  |
-| Sept.19th | Instructor meeting: <br> Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1.Project Proposal (blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.25th |
+<!-- 
+| Sept.19th | [Presentation Tips](lectures/how-to-present.pdf) <br> Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1. Project Proposal (blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.24th |
 | Sept.26th. | Team presentation practice <br> Sprint Planning Meeting prep | [Presentation Practice](lectures/Presentations_SprintReview.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart - Submit on your slack channel  <br> 2. Technical design discussions  <br> 3. Group feedback (optional) - email instructors |
 | Oct.3rd | Presentation feedback | [Project Development and delivery](lectures/Development_Delivery.pdf) <br> Standup Meeting with mentors | 1. Start draft (individual) <br>  [Writing 1:  Executive Summary](lectures/writing.md)(Elevator pitch)- Individual Submission <br> 2. Updated (if applicable) Gantt Chart |
 | Oct.10th | Presentations  | [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| 1. [Teamwork Survey (Required)](https://forms.gle/vMz7kZP3ds4N4P987)<br> 2. Project Website (landing page) <br> 3. [Writing 1](lectures/writing.md) <b> Due Oct.16, Blackboard. Individual submission </b>   |
