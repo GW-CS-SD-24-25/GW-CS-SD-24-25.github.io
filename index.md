@@ -50,7 +50,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Week  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (11:59pm) 
 | :--- |:---  |:--- |:--- |
 | Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](https://docs.google.com/presentation/d/1W0ccspsVOBV-VFuDaoj2tlrO_1FMEYgMFk91DmDTwu4/edit?usp=sharing) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student Info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
-| Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | Project Planning: Discovery and Research |  1. Propose Project ideas - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
+| Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | Project Planning: Discovery and Research |  1. [Propose Project ideas](https://forms.gle/a4sEPmJsjA8TqQk77) - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
 | Sept.12th | Meeting with instructors (out of class) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Initial Meeting with mentors | Draft  project proposal (3 slides)  -Sept.17th (Post on team Slack channel) <br>  discuss proposal draft with mentors & instructors  |
 
 </div>
