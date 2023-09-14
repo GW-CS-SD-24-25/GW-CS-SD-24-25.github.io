@@ -51,17 +51,17 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | :--- |:---  |:--- |:--- |
 | Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](https://docs.google.com/presentation/d/1W0ccspsVOBV-VFuDaoj2tlrO_1FMEYgMFk91DmDTwu4/edit?usp=sharing) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student Info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
 | Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | Project Planning: Discovery and Research |  1. [Propose Project ideas](https://forms.gle/a4sEPmJsjA8TqQk77) - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
-| Sept.12th | Meeting with instructors (out of class) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Initial Meeting with mentors | Draft  project proposal (3 slides)  -Sept.17th (Post on team Slack channel) <br>  discuss proposal draft with mentors & instructors  |
+| Sept.12th | Meeting with instructors (out of class) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Initial Meeting with mentors | Draft  project proposal (3 slides)  -Sept.17th (Blackboard) <br>  discuss proposal draft with mentors & instructors  |
+| Sept.19th | Meet with Mentor/Instructor <br> - Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1. Updated Project Proposal Slides (Blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.24th |
+| Sept.26th. | Sprint Planning Meeting prep | How to give a good presentation <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart (Blackboard) |
+| Oct.3rd | Progress Check | [Project Development and delivery](lectures/Development_Delivery.pdf) <br> Standup Meeting with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey (Required)|
+| Oct.10th <br>Fall Break: 12-13th | Progress Check  | [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| 1. Project Website (landing page)  |
+| Oct. 17th | Progress Check | Writing Feedback / Git CI/CD | 1. Start draft of [Writing 2: Technical summary](lectures/writing.md)  <br> (Individual submissions) <br> 2. Design review with mentors | 
 
 </div>
 
-
 <!-- 
-| Sept.19th | [Presentation Tips](lectures/how-to-present.pdf) <br> Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1. Project Proposal (blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.24th |
-| Sept.26th. | Team presentation practice <br> Sprint Planning Meeting prep | [Presentation Practice](lectures/Presentations_SprintReview.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart - Submit on your slack channel  <br> 2. Technical design discussions  <br> 3. Group feedback (optional) - email instructors |
-| Oct.3rd | Presentation feedback | [Project Development and delivery](lectures/Development_Delivery.pdf) <br> Standup Meeting with mentors | 1. Start draft (individual) <br>  [Writing 1:  Executive Summary](lectures/writing.md)(Elevator pitch)- Individual Submission <br> 2. Updated (if applicable) Gantt Chart |
-| Oct.10th | Presentations  | [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| 1. [Teamwork Survey (Required)](https://forms.gle/vMz7kZP3ds4N4P987)<br> 2. Project Website (landing page) <br> 3. [Writing 1](lectures/writing.md) <b> Due Oct.16, Blackboard. Individual submission </b>   |
-| Oct. 17th | Feedback | Feedback | 1. Start draft of [Writing 2: Technical summary](lectures/writing.md)  <br> (Individual submissions) <br> 2. Design review with mentors |  |
+
 | Oct.24th | Fall Break | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <b> Due Oct.30 Blackboard </b> <br> Code Review <br> with mentors |
 | Oct.31st | Sprint Planning Meeting prep | [Project Design and User Experience](lectures/ProjectUX_ArchDesign.pdf) <br> SPM with mentors| Discussion of User Interface |
 | Nov.7th | Demo Review plans <br> UI Design | <br> [Presentation and PRDs](lectures/PresentationsAndPRDs.pdf) <br> Standup meeting with mentors | Code Review 2 |
