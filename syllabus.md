@@ -4,8 +4,6 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-> NOTE: This is out of date and will be updated soon!
-
 **Instructors:** Timothy Wood, Xiaodong Qu, Josh Shapiro
 **Email:** timwood@gwu.edu x.qu@gwu.edu jshapiro314@gwu.edu
 **Prerequisites:** Senior status, CSCI 3212, CSCI 3411 
@@ -25,7 +23,7 @@ Check Slack for most updated ones.
 * Webpage - course slides, recordings, tutorials, links to software
 
 **Project (Technical) Mentors**
-Each team will have a technical mentor assigned to them, and is required to meet regularly with their mentor. We recommend a weekly meeting but bi-weekly meetings, and spring planning meetings, are required. The mentors are a valuable resource and they will help teams develop, evaluate, design, implement and test the projects. Mentor feedback will be an important part of your assessment. See the complete list of technical mentors list on [Course webpage](index.md).
+Each team will have a technical mentor assigned to them, and is required to meet regularly with their mentor. We recommend a weekly meeting but bi-weekly meetings, and sprint planning meetings, are required. The mentors are a valuable resource and they will help teams develop, evaluate, design, implement and test the projects. Mentor feedback will be an important part of your assessment. See the complete list of technical mentors list on [Course webpage](index.md).
 
   
 ## Course Description and Learning Outcomes  ##
