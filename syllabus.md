@@ -6,8 +6,8 @@ permalink: /syllabus/
 
 > NOTE: This is out of date and will be updated soon!
 
-**Instructors:** Kate McNally, Bhagi Narahari, Robert Pless
-**Email:** katemcnally@gwu.edu narahari@gwu.edu pless@gwu.edu
+**Instructors:** Timothy Wood, Xiaodong Qu, Josh Shapiro
+**Email:** timwood@gwu.edu x.qu@gwu.edu jshapiro314@gwu.edu
 **Prerequisites:** Senior status, CSCI 3212, CSCI 3411 
 
 **Time/Place:**
