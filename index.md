@@ -55,7 +55,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Sept.19th | Meet with Mentor/Instructor <br> - Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1. Updated Project Proposal Slides (Blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.24th |
 | Sept.26th. | Sprint Planning Meeting prep | [How to give a good presentation](lectures/how-to-present.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart (Blackboard) |
 | Oct.3rd | Progress Check | Project Development and delivery <br> Standup Meeting with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey (Required)|
-| Oct.10th <br>Fall Break: 12-13th | Progress Check  | Presentation 1: <br> Project elevator pitch <br> Presentations-Rubric <br> Standup meeting with mentors| 1. Project Website (landing page)  |
+| Oct.10th <br>Fall Break: 12-13th | Progress Check  | Presentation 1: <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| 1. Project Website (landing page)  |
 | Oct. 17th | Progress Check | Writing Feedback / Git CI/CD | 1. Start draft of [Writing 2: Technical summary](lectures/writing.md)  <br> (Individual submissions) <br> 2. Design review with mentors | 
 
 </div>
