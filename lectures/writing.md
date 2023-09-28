@@ -1,10 +1,10 @@
 
-> **This is last year's assignments -- they may be updated for 2023-2024
+> **IMPORTANT NOTE:** While we are encouraging you to use tools like chatGPT to generate code for your project, you **may not** use AI tools to generate text for your writing. We want you to practice your writing and communication skills on your own. Your submissions must be entirely your own text.
 
 # Writing Assignments
 Senior design enables you to focus on your own project, and push your technical capabilities through it. However, it is very important to learn how to successfully communicate what you’re doing, and why it is cool with the outside world. Thus, a significant component of this class is learning and practicing the non-technical skills of writing and presentation.
-An important aspect of Senior Design (SD) is gaining experience writing a document that holistically evaluates how your project relates to the world. This includes how the project should be presented to others, how it relates to the commercial and competitive landscape, and how it will impact the world. This document spells out the requirements for a series of writing assignments you must complete for SD.For each of these writing assignments, make sure to follow the submission rules on the main SD webpage (i.e., submit PDF on Blackboard or the team Github repo as specified).
-Two of the writing assignments are individual assignments - you are expected to write these on your own with NO collaboration. And you are expected to write about the project that was presented to the instruction team. The remainder are team writing assignments. The specifications and requirements for each of the Writing assignments are provided below. 
+An important aspect of Senior Design (SD) is gaining experience writing a document that holistically evaluates how your project relates to the world. This includes how the project should be presented to others, how it relates to the commercial and competitive landscape, and how it will impact the world. This page spells out the requirements for a series of writing assignments you must complete for SD.For each of these writing assignments, make sure to follow the submission rules on the main SD webpage (i.e., submit PDF on Blackboard or the team Github repo as specified).
+<!-- Two of the writing assignments are individual assignments - you are expected to write these on your own with NO collaboration. And you are expected to write about the project that was presented to the instruction team. The remainder are team writing assignments. The specifications and requirements for each of the Writing assignments are provided below.  -->
 
 ## Writing 1 (Individual) - Elevator Pitch Executive Summary ##
 Each student must complete this assignment individually (no collaboration) and submit on Blackboard. 
@@ -17,7 +17,7 @@ You should convince the (non-technical) reader that your project solves an impor
 - Broader societal impact: is there a broader societal need you are trying to address with this project?
 
 ## Writing 2 (Individual) - Technical Summary ##
-Each student must complete this assignment individually (no collaboration) and submit on Blackboard. <b> You are limited to 500 words.</b>
+Each student must complete this assignment individually (no collaboration) and submit on Blackboard. <b> You are limited to 1000 words.</b>
 Now that you have explained (in Writing 1) why your project is valuable and how it will be used, you need to convince the reader that it is technically feasible and innovative. While Writing 1 was written for a non-technical audience, this Technical summary is written for a technical manager – they have the technical savvy but does not want to see unnecessary details.
 The  technical summary should describe the innovation in sufficient technical depth for a technically knowledgeable reader to understand why it is innovative and how it can provide benefits in the target applications. Supplement this description with any necessary background information.
 To get started, you should refer to the project proposal (submitted earlier in the course) and the technical design that your team has developed (with the project mentors). We expect that you will need to refer (and use) some of the technical design that was developed in collaboration with your team members. However, <b> you should focus on the technical component that you are responsible for </b> when describing the innovations and technical plan. Specifically, some of the aspects that should be addressed in the technical summary are:
@@ -26,7 +26,7 @@ To get started, you should refer to the project proposal (submitted earlier in t
 - Technical Feasibility: What existing tools and technologies can you use to build your project? How can you be confident that it's do-able?
 - Costs, Risk and Risk Mitigation: What is the development cost in terms of hardware and software? How many lines of code do you estimate (and why)? A typical question is "What are the project milestones and a timeline for achieving these milestones?" and in this Writing assignment you can provide a few sentence summary based on the Gantt chart that you submitted.
 
-## Writing 3 (Team) - Project Description ##
+<!-- ## Writing 3 - Project Description ##
 <b>Product and Technical Specifications</b>
 Each team must complete this assignment together and submit it on Blackboard. 
 
@@ -51,4 +51,4 @@ Note: There is no length requirement but the assignment submission should includ
 Each team must complete this assignment and post to their webpage. 
 This is your (end of Fall) complete description of your project - elevator pitch, technical components, and use cases.
 Your starting point is to combine your first three documents into one document. Then you will edit accordingly so it flows as one document. If your design, at the end of your alpha demo, changed from your Writing 1 and Writing 2 then you would need to update the content in Writing 1 and 2. The goal of this writing assignment is to have one comprehensive document describing your project; we will then refer to this document as you progress through the Spring semester. 
-The grade for this assignment, for Fall semester, will be based only on completition of the assignment. As your project progresses during the Spring semester, you may need to edit this document. The final package that you submit in the Spring semester will include your final design document which will be graded.
+The grade for this assignment, for Fall semester, will be based only on completition of the assignment. As your project progresses during the Spring semester, you may need to edit this document. The final package that you submit in the Spring semester will include your final design document which will be graded. -->

@@ -47,7 +47,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Fall Semester CSCI 4243W ##
 
 <div style="font-size:90%">
-| Week  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (11:59pm) 
+| Week  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (Sunday 11:59pm) 
 | :--- |:---  |:--- |:--- |
 | Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](lectures/lecture_1.pdf) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student Info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
 | Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | [Project Planning: Discovery and Research](lectures/lecture_2.pdf) |  1. [Propose Project ideas](https://forms.gle/a4sEPmJsjA8TqQk77) - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
@@ -56,14 +56,14 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Sept.26th. | Sprint Planning Meeting prep | [How to give a good presentation](lectures/how-to-present.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart (Blackboard) |
 | Oct.3rd | Progress Check | Project Development and delivery <br> Standup Meeting with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey (Required)|
 | Oct.10th <br>Fall Break: 12-13th | Progress Check  | Presentation 1: <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| 1. Project Website (landing page)  |
-| Oct. 17th | Progress Check | Writing Feedback / Git CI/CD | 1. Start draft of [Writing 2: Technical summary](lectures/writing.md)  <br> (Individual submissions) <br> 2. Design review with mentors | 
+| Oct. 17th | Progress Check | Writing Feedback / Git CI/CD <br> Standup meeting with mentors |  | 
+| Oct.24th | Progress Check | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <br> Code Review <br> with mentors |
+| Oct.31st | Sprint Planning Meeting prep | Project Design and User Experience <br> SPM with mentors |  |
 
 </div>
 
 <!-- 
 
-| Oct.24th | Fall Break | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <b> Due Oct.30 Blackboard </b> <br> Code Review <br> with mentors |
-| Oct.31st | Sprint Planning Meeting prep | [Project Design and User Experience](lectures/ProjectUX_ArchDesign.pdf) <br> SPM with mentors| Discussion of User Interface |
 | Nov.7th | Demo Review plans <br> UI Design | <br> [Presentation and PRDs](lectures/PresentationsAndPRDs.pdf) <br> Standup meeting with mentors | Code Review 2 |
 | Nov.14th | Status report- teamwork | Alumni talk: Lean Startups <br> Standup meeting with mentors| [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.20, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
 | Nov.21st | Status meeting: <br> prep for Alpha Prototype Demo | Thanksgiving Break |  |
