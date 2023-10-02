@@ -22,7 +22,18 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Technical Mentors </b> </li>
-        <li><b> Coming soon...</b> </li>
+        <li><b> Lucas Chaufournier, </b> Square </li>
+        <li><b> Dennis Afanasev, </b> NASA </li>
+        <li><b> Phil Lopreiato </b>, Facebook </li> 
+        <li><b> Aaron Coplan,</b> Facebook </li>
+        <li><b> Pat Cody,</b> Meta </li>
+        <li><b> Grace Huang, </b> RTX </li>
+        <li><b> Jennifer Wright, </b> Apple </li>
+        <li><b> Katie Stasaski, </b> Salesforce AI Research </li>
+        <li><b> Billy Miller, </b> MITRE </li>
+        <li><b> Brannon McGraw, </b> Domino's </li>
+        <li><b> Rian Shambaugh, </b> FINRA </li>
+        <li><b> Ellen Louie, </b> Linked Senior </li>
         <!-- <li><b> Lucas Chaufournier, </b> Square </li>
         <li><b> Pat Cody,</b> Facebook </li>
         <li><b> Aaron Coplan,</b> Facebook </li>
