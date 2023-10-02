@@ -24,7 +24,7 @@ layout: home
         <li><b> Technical Mentors </b> </li>
         <li><b> Lucas Chaufournier, </b> Square </li>
         <li><b> Dennis Afanasev, </b> NASA </li>
-        <li><b> Phil Lopreiato </b>, Facebook </li> 
+        <li><b> Phil Lopreiato, </b> Facebook </li> 
         <li><b> Aaron Coplan,</b> Facebook </li>
         <li><b> Pat Cody,</b> Meta </li>
         <li><b> Grace Huang, </b> RTX </li>
