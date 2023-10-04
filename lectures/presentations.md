@@ -5,7 +5,7 @@ Since all projects this year are team projects, the presentations will be team p
 
 ## Presentation 1 - Elevator Pitch  ##
 This presentation will focus on the elevator pitch for your project. Imagine you have a few minutes with someone, and your goals are to have them understand what the project is, why it is important, that it is possible, and your general approach. The intended audience can be investors (VCs) and/or upper management in your organization (not your immediate program/project manager or faculty supervisor).  
-You should prepare a (max) six minute "business proposal". Your goal is to convince us that what you are building is a great idea and that you have some structure in mind to make it a reality.  
+You should prepare a six minute (four minute presentation + two minute Q and A) "business proposal". Your goal is to convince us that what you are building is a great idea and that you have some structure in mind to make it a reality.  
 The presentations should build off the project summary document that you submitted: what are you building and why? Motivation (why build it)? Goals? Users ? Why/how is it different from current products/products/research? Check the [rubric](Presentations-Rubric.pdf) outlining expectationd and assessment.
 
 
