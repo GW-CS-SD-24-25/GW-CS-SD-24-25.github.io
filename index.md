@@ -70,7 +70,13 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Oct. 17th | Progress Check | Writing Feedback / Git CI/CD <br> Standup meeting with mentors | Project Website (landing page) | 
 | Oct.24th | Progress Check | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <br> Code Review <br> with mentors |
 | Oct.31st | Sprint Planning Meeting prep | Project Design and User Experience <br> SPM with mentors |  |
-
+| Nov.7th | Demo Review plans <br> UI Design | <br> [Presentation and PRDs](lectures/PresentationsAndPRDs.pdf) <br> Standup meeting with mentors | Code Review 2 |
+| Nov.14th | Status report- teamwork | Alumni talk: Lean Startups <br> Standup meeting with mentors| [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.20, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
+| Nov.21st | Status meeting: <br> prep for Alpha Prototype Demo | Thanksgiving Break |  |
+| Nov.28th | Sprint Planning Meeting  | Sprint review with mentors <br> Demo Prep | Code Review 3 |
+| Dec. 5 | Status updates on Demo1 | [Presentation 3:](lectures/presentations.md) <br>  <b> [Demo 1: Alpha Prototype](lectures/presentations.md)  </b> | Writing 4 draft |
+| Dec.12th |  | Team meetings if necessary | [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |  
+| <b> Winter Break </b> | end of CSCI 4243 |  |  | 
 
 </div>
 
