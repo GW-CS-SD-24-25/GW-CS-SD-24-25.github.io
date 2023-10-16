@@ -80,19 +80,32 @@ This is a two semester Computer Science capstone course culminating in a signifi
 
 </div>
 
-<!-- 
 
-| Nov.7th | Demo Review plans <br> UI Design | <br> [Presentation and PRDs](lectures/PresentationsAndPRDs.pdf) <br> Standup meeting with mentors | Code Review 2 |
-| Nov.14th | Status report- teamwork | Alumni talk: Lean Startups <br> Standup meeting with mentors| [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.20, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
-| Nov.21st | Status meeting: <br> prep for Alpha Prototype Demo | Thanksgiving Break |  |
-| Nov.28th | Sprint Planning Meeting  | Sprint review with mentors <br> Demo Prep | Code Review 3 |
-| Dec. 5 | Status updates on Demo1 | [Presentation 3:](lectures/presentations.md) <br>  <b> [Demo 1: Alpha Prototype](lectures/presentations.md)  </b> | Writing 4 draft |
-| Dec.12th |  | Team meetings if necessary | [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |  
-| <b> Winter Break </b> | end of CSCI 4243 |  |  | 
+## Spring Semester CSCI 4244 ##
+ 
+<div style="font-size:90%">
+| Week of  | Lecture Session | Lab(Wednesday) | Work Deadlines 
+| :--- |:---  |:--- |:--- |    
+| Jan 16 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
+| Jan 23 | Review course requirements <br> prepwork for Beta Demo | [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
+| Jan. 30| Sprint Planning Meeting 4| Alumni Panel: The Startup World <br> Suraj Shah, Ben Fernandez (Class of 2020), Devin Kopp (Class of 2019) <br> Sprint Review | Final Project Webpage Design | 
+| Feb.6 | Standup Meeting: <br> prep  Demo  | <b> Demo 2: Beta Prototype </b> | Teamwork Survey (required) |
+| Feb.13 | Standup Meeting: <br> Planning your presentations | Course planning <br> Money management in the real world  | 1. Draft presentation videos <br> Code reviews |
+| Feb.20 | Presentation practice  | Presentation 4: <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations |  | 
+| Feb.27 | Sprint Planning Meeting 5 | Alumni Panel <br>  Sprint Review | Code Review |
+| Mar.5 | Standup Meeting:<br> Demo 3 | <b> Demo 3: Prelim Prototype </b> | Group Feedback Survey (Reqd) |
+|  Mar.12 | SPRING | BREAK |  |
+| Mar.19 | Mock 100% Demo Discussions/planning | Alumni panel or Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
+| Mar.26 | Sprint Planning Meeting 6 | Senior Focus Group or Alumni Panel |  | 
+| Apr. 2 | Standup meeting | Mock 100% Demo presentation and Final presentations practice | Group Feedback (Opt) |
+| Apr. 9 | Standup meeting | Alumni Panel: <br> Life after college | Final presentation slides <br> Complete promotional video and upload to website |
+| Apr.16 | Sprint Planning Meeting 7 | Sprint review <br> Final presentation practice (Opt) | Code Review |
+| Apr. 23 | Final Demos | <b>  Final Presentations and 100% Demos </b>| | 
+| Apr. 30 | Makeup | Makeup Demos | Upload videos of demos | 
+| May 7 |  | Final Package Due |  | 
+| May 14 |  | SEAS Senior Design Showcase <br> Details forthcoming | <b> Commencement </b>  | 
 
-
-</div>
- -->
+</div> 
  
 <!-- ## Spring Semester CSCI 4244 ##
  
