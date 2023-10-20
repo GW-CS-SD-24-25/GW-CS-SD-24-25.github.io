@@ -70,7 +70,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Oct. 17th | Progress Check | Writing Feedback / [Git CI/CD](lectures/Lecture 5_ 10_18.pdf) <br> Standup meeting with mentors | Project Website (landing page) | 
 | Oct.24th | Progress Check | [Project Design and User Experience](lectures/ProjectUX_ArchDesign.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <br> Code Review <br> with mentors |
 | Oct.31st | Sprint Planning Meeting prep | [Presentation and PRDs](lectures/PresentationsAndPRDs.pdf)  <br> Standup Meeting with mentors|  |
-| Nov.7th | Demo Review plans <br> UI Design | <br> [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup meeting with mentors | Code Review 2 |
+| Nov.7th | Demo Review plans <br> UI Design | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup meeting with mentors | Code Review 2 |
 | Nov.14th | Status report- teamwork | Alumni talk: Lean Startups <br> Standup meeting with mentors| [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.20, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
 | Nov.21st | Status meeting: <br> prep for Alpha Prototype Demo | Thanksgiving Break |  |
 | Nov.28th | Sprint Planning Meeting  | Sprint review with mentors <br> Demo Prep | Code Review 3 |
