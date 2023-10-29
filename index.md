@@ -27,7 +27,7 @@ layout: home
         <li><b> Phil Lopreiato, </b> Facebook </li> 
         <li><b> Aaron Coplan,</b> Facebook </li>
         <li><b> Pat Cody,</b> Meta </li>
-        <li><b> Grace Huang, </b> RTX </li>
+        <li><b> Zuri Lawrence, </b> IBM </li>
         <li><b> Jennifer Wright, </b> Apple </li>
         <li><b> Katie Stasaski, </b> Salesforce AI Research </li>
         <li><b> Billy Miller, </b> MITRE </li>
