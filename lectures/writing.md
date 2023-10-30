@@ -26,7 +26,7 @@ To get started, you should refer to the project proposal (submitted earlier in t
 - Technical Feasibility: What existing tools and technologies can you use to build your project? How can you be confident that it's do-able?
 - Costs, Risk and Risk Mitigation: What is the development cost in terms of hardware and software? How many lines of code do you estimate (and why)? A typical question is "What are the project milestones and a timeline for achieving these milestones?" and in this Writing assignment you can provide a few sentence summary based on the Gantt chart that you submitted.
 
-<!-- ## Writing 3 - Project Description ##
+## Writing 3 - Project Description ##
 <b>Product and Technical Specifications</b>
 Each team must complete this assignment together and submit it on Blackboard. 
 
@@ -47,6 +47,7 @@ The <b>Technical specifications</b> should include the following details: archit
 [Example of Writing 3](Writing_3_Example.pdf)
 Note: There is no length requirement but the assignment submission should include all details listed under Product Specifications and Technical Specficiations. 
 
+<!-- 
 ## Writing 4 (Team) - Technical Design Document ##
 Each team must complete this assignment and post to their webpage. 
 This is your (end of Fall) complete description of your project - elevator pitch, technical components, and use cases.
