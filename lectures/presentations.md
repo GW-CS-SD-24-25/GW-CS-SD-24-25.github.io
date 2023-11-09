@@ -22,14 +22,14 @@ You should prepare a (max) 7 minute presentation to describe the overall archite
 Put particular effort into having a nice visual that helps us understand the components of your system. (In the brief overview of the system, please briefly remind everyone of the motivation and context for your project.) We will use a rubric similar to the first presentation but with more emphasis on the technical description (including the scope and the technical depth of your project).
 
 ## Presentation 3  ##
-The end of Fall semester requires a final Fall presentation (presentation 3) and a demo of the Alpha prototype.
+The end of Fall semester requires a final Fall presentation (presentation 3) and a demo of the prototype.
 (This is similar to the first technical presentation, i.e., the second presentation you gave. Your first technical presentation can serve as the first draft for this presentation.)
-Introduce your project and state what problem you are solving (stick to one or two slides, and provide the motivation). Describe the overall architecture of your project – start with brief overview of the system, technical components, what types of technologies/libraries you used and how the pieces interact. We recommend using screenshots or videos of your alpha demo where possible. One extreme case is to talk through the technical design while showing a video of the demo. Time: 7-8 minutes.  The rubric is similar to Presentation 2 - equal parts weighted on speaking skills and the content including technical complexity.
+Introduce your project and state what problem you are solving (stick to one or two slides, and provide the motivation). Describe the overall architecture of your project – start with brief overview of the system, technical components, what types of technologies/libraries you used and how the pieces interact. We recommend using screenshots or videos of your prototype demo where possible. One extreme case is to talk through the technical design while showing a video of the demo. Time: 7-8 minutes.  The rubric is similar to Presentation 2 - equal parts weighted on speaking skills and the content including technical complexity.
 
-## Alpha Prototype Demo ##
+## Alpha Project Review Demo ##
 The demo is a sit down to talk through the code and the system features. You should plan your demo (i.e., how you will walk us through it) so you convey the features and some use cases, and be ready to discuss key technical aspects.
 
-## Beta Prototype Demo ##
+## Beta Project Review Demo ##
 This demo is a sit down demo to assess progress since the Alpha demo. The demo will be assessed based on the progress since the alpha demo, how you have addressed the feedback (questions and suggestions) fron the alpha demo, and clear specification of the steps needed to provide an end to end working system (with all components integrated).
 
 ## Presentation 4: Final Promotional  presentation ##
