@@ -47,9 +47,8 @@ The <b>Technical specifications</b> should include the following details: archit
 [Example of Writing 3](Writing_3_Example.pdf)
 Note: There is no length requirement but the assignment submission should include all details listed under Product Specifications and Technical Specficiations. 
 
-<!-- 
+
 ## Writing 4 (Team) - Technical Design Document ##
-Each team must complete this assignment and post to their webpage. 
+
 This is your (end of Fall) complete description of your project - elevator pitch, technical components, and use cases.
-Your starting point is to combine your first three documents into one document. Then you will edit accordingly so it flows as one document. If your design, at the end of your alpha demo, changed from your Writing 1 and Writing 2 then you would need to update the content in Writing 1 and 2. The goal of this writing assignment is to have one comprehensive document describing your project; we will then refer to this document as you progress through the Spring semester. 
-The grade for this assignment, for Fall semester, will be based only on completition of the assignment. As your project progresses during the Spring semester, you may need to edit this document. The final package that you submit in the Spring semester will include your final design document which will be graded. -->
+Your starting point is to combine your first three documents into one document. Then you will edit accordingly so it flows as one document. If your design, at the end of your alpha prototype demo, changed from your Writing 1 and Writing 2 then you would need to update the content in Writing 1 and 2. The goal of this writing assignment is to have one comprehensive document describing your project; we will then refer to this document as you progress through the Spring semester. As your project progresses during the Spring semester, you may need to edit this document.  <!--  -->
