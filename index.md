@@ -72,8 +72,8 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Oct.31st | Sprint Planning Meeting prep |  Sprint planning with mentors |  |
 | Nov.7th | Demo Review plans <br> UI Design | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup meeting with mentors | Code Review 2 |
 | Nov.14th | Status report- teamwork |  [Presentations and PRDs](lectures/PRD_2023.pdf) <br> Standup meeting with mentors   | [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.19, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
-| Nov.21st | Status meeting: <br> prep for Alpha Project Review Demo | Thanksgiving Break |  |
-| Nov.28th | Sprint Planning Meeting  |Alumni Job Panel <br> Sprint review with mentors | Code Review 3 |
+| Nov.21st | No Class | Thanksgiving Break |  |
+| Nov.28th | Status meeting: <br> prep for Alpha Project Review Demo   |Alumni Job Panel <br> Sprint review with mentors | Code Review 3 |
 | Dec. 5 | Status updates on Demo1 <br> <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b> | [Presentation 3](lectures/presentations.md) <br>   | Writing 4 draft |
 | Dec.12th |  | Team meetings if necessary | [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |  
 | <b> Winter Break </b> | end of CSCI 4243 |  |  | 
