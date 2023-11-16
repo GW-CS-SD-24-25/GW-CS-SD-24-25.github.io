@@ -144,10 +144,12 @@ Your grade in this class (courses) will be determined by a number of components:
 You will be assigned grades for each course CSCI 4243 and CSCI 4244, with the following grade breakdowns: 
  
 ### CSCI 4243 (Fall semester) ###
- * Presentations: 15%
- * Writing assignments and design homeworks: 20%
- * Grades from Sprint progress, Demos, and Github commit/pull request progress: 40%
- * End of semester project demo/presentation: 20%
+ * Presentation 1: 5%
+ * Presentation 2: 10%
+ * Presentation 3: 20%
+ * Writing assignments and design homeworks: 20% (5% each)
+ * Weekly Sprint progress, website, resume, and Github commit/pull request progress: 20%
+ * Alpha Project Review: 20%
  * Participation and Initiative: 5%
 
 ### CSCI 4244 (Spring semester) ###
