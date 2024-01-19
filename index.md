@@ -92,7 +92,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Feb.6 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep   | Teamwork Survey (required) |
 | Feb.13 | Standup Meeting: <br> Planning your presentations | Course planning <br> Money management in the real world  | 1. Draft presentation videos <br> Code reviews |
 | Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations |  | 
-| Feb.27 | Sprint Planning Meeting 5 | Alumni Panel <br>  Sprint Review | Code Review |
+| Feb.27 | Sprint Planning Meeting 5 | Machine Learning in our Projects | Code Review |
 | Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Demo prep | Group Feedback Survey (Reqd) |
 |  Mar.12 | SPRING | BREAK |  |
 | Mar.19 | Standup Meeting:<br> Mock 100% Demo Discussions/planning | Alumni panel or Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
@@ -100,7 +100,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Apr. 2 | Standup meeting | [Mock 100% Demo presentation](lectures/presentations.md)  and Final presentations practice | Group Feedback (Opt) |
 | Apr. 9 | Standup meeting | Feedback for Mock 100% Demo | Final presentation slides <br> Complete promotional video and upload to website |
 | Apr.16 |  [100% Demos](lectures/presentations.md) | Sprint review <br> Final presentation practice (Opt) | Code Review |
-| Apr. 23 | Final Demos | <b>  [Final Presentations](lectures/presentations.md)  </b>| | 
+| Apr. 23 | Standup meeting | <b>  [Final Presentations](lectures/presentations.md)  </b>| | 
 | Apr. 30 | Makeup | Makeup Demos | Upload videos of demos | 
 | May 7 |  | Final Package Due |  | 
 | May 14 |  | SEAS Senior Design Showcase <br> Details forthcoming | <b> Commencement </b>  | 
