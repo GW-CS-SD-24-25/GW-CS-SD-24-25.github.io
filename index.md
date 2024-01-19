@@ -87,20 +87,20 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Week of  | Lecture Session | Lab(Wednesday) | Work Deadlines 
 | :--- |:---  |:--- |:--- |    
 | Jan 16 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
-| Jan 23 | Review course requirements <br> prepwork for Beta Demo | [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
-| Jan. 30| Sprint Planning Meeting 4| Alumni Panel: The Startup World <br> Suraj Shah, Ben Fernandez (Class of 2020), Devin Kopp (Class of 2019) <br> Sprint Review | Final Project Webpage Design | 
-| Feb.6 | Standup Meeting: <br> prep  Demo  | <b> Demo 2: Beta Prototype </b> | Teamwork Survey (required) |
+| Jan 23 | Review course requirements <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
+| Jan. 30| Sprint Planning Meeting 4| [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Sprint Review | Final Project Webpage Design | 
+| Feb.6 | Standup Meeting: <br> prep  Demo  | <b> [Demo 2: Beta Prototype](lectures/presentations.md)  </b> | Teamwork Survey (required) |
 | Feb.13 | Standup Meeting: <br> Planning your presentations | Course planning <br> Money management in the real world  | 1. Draft presentation videos <br> Code reviews |
-| Feb.20 | Presentation practice  | Presentation 4: <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations |  | 
+| Feb.20 | Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations |  | 
 | Feb.27 | Sprint Planning Meeting 5 | Alumni Panel <br>  Sprint Review | Code Review |
-| Mar.5 | Standup Meeting:<br> Demo 3 | <b> Demo 3: Prelim Prototype </b> | Group Feedback Survey (Reqd) |
+| Mar.5 | Standup Meeting:<br> Demo 3 | <b> [Demo 3: Prelim Prototype](lectures/presentations.md)  </b> | Group Feedback Survey (Reqd) |
 |  Mar.12 | SPRING | BREAK |  |
 | Mar.19 | Mock 100% Demo Discussions/planning | Alumni panel or Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
 | Mar.26 | Sprint Planning Meeting 6 | Senior Focus Group or Alumni Panel |  | 
-| Apr. 2 | Standup meeting | Mock 100% Demo presentation and Final presentations practice | Group Feedback (Opt) |
+| Apr. 2 | Standup meeting | [Mock 100% Demo presentation](lectures/presentations.md)  and Final presentations practice | Group Feedback (Opt) |
 | Apr. 9 | Standup meeting | Alumni Panel: <br> Life after college | Final presentation slides <br> Complete promotional video and upload to website |
 | Apr.16 | Sprint Planning Meeting 7 | Sprint review <br> Final presentation practice (Opt) | Code Review |
-| Apr. 23 | Final Demos | <b>  Final Presentations and 100% Demos </b>| | 
+| Apr. 23 | Final Demos | <b>  [Final Presentations and 100% Demos](lectures/presentations.md)  </b>| | 
 | Apr. 30 | Makeup | Makeup Demos | Upload videos of demos | 
 | May 7 |  | Final Package Due |  | 
 | May 14 |  | SEAS Senior Design Showcase <br> Details forthcoming | <b> Commencement </b>  | 
