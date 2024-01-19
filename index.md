@@ -89,11 +89,11 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Jan 16 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
 | Jan 23 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
 | Jan. 30| Sprint Planning Meeting 4| [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Sprint Review | Final Project Webpage Design | 
-| Feb.6 | Standup Meeting: <br> prep  Demo  | <b> [Demo 2: Beta Prototype](lectures/presentations.md)  </b> | Teamwork Survey (required) |
+| Feb.6 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep   | Teamwork Survey (required) |
 | Feb.13 | Standup Meeting: <br> Planning your presentations | Course planning <br> Money management in the real world  | 1. Draft presentation videos <br> Code reviews |
 | Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations |  | 
 | Feb.27 | Sprint Planning Meeting 5 | Alumni Panel <br>  Sprint Review | Code Review |
-| Mar.5 | Standup Meeting:<br> Demo 3 | <b> [Demo 3: Prelim Prototype](lectures/presentations.md)  </b> | Group Feedback Survey (Reqd) |
+| Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Demo prep | Group Feedback Survey (Reqd) |
 |  Mar.12 | SPRING | BREAK |  |
 | Mar.19 | Standup Meeting:<br> Mock 100% Demo Discussions/planning | Alumni panel or Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
 | Mar.26 | Sprint Planning Meeting 6 | Senior Focus Group or Alumni Panel |  | 
