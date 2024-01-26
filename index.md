@@ -90,13 +90,13 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Jan 23 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
 | Jan. 30| Sprint Planning Meeting 4| [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Sprint Review | Code reviews | 
 | Feb.6 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep   | Teamwork Survey (required) |
-| Feb.13 | Standup Meeting: <br> Planning your presentations | Course planning <br> Money management in the real world  | 1. Draft presentation videos <br>  2. Final Project Webpage Design  |
-| Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | Code reviews | 
+| Feb.13 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  |  Updated Webpage Design  |
+| Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | 1. Senior Design Project Repository <br> 2. Code reviews | 
 | Feb.27 | Sprint Planning Meeting 5 | Machine Learning in our Projects | Code Review |
 | Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Demo prep | Group Feedback Survey (Reqd) |
 |  Mar.12 | SPRING | BREAK |  |
-| Mar.19 | Standup Meeting:<br> Mock 100% Demo Discussions/planning | Alumni panel or Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
-| Mar.26 | Sprint Planning Meeting 6 | Senior Focus Group or Alumni Panel |  | 
+| Mar.19 | Standup Meeting:<br> Mock 100% Demo Discussions/planning | Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
+| Mar.26 | Sprint Planning Meeting 6 | Money management in the real world  |  | 
 | Apr. 2 | Standup meeting | [Mock 100% Demo presentation](lectures/presentations.md)  and Final presentations practice | Group Feedback (Opt) |
 | Apr. 9 | Standup meeting | Feedback for Mock 100% Demo | Final presentation slides <br> Complete promotional video and upload to website |
 | Apr.16 |  [100% Demos](lectures/presentations.md) | Sprint review <br> Final presentation practice (Opt) | Code Review |
