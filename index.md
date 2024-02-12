@@ -89,11 +89,11 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Jan 16 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
 | Jan 23 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
 | Jan. 30| Sprint Planning Meeting 4| [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Sprint Review | Code reviews | 
-| Feb.6 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep   | Teamwork Survey (required) |
-| Feb.13 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  |  Updated Webpage Design  |
+| Feb.6 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep   | |
+| Feb.13 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  |  Teamwork Survey (required) <br> Updated Webpage Design  |
 | Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | Senior Design Project Repository | 
-| Feb.27 | Sprint Planning Meeting 5 | Machine Learning in our Projects | Code Review |
-| Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Demo prep | Group Feedback Survey (Reqd) |
+| Feb.27 | Sprint Planning Meeting 5 | Demo prep | Code Review |
+| Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Machine Learning in our Projects | Group Feedback Survey (Reqd) |
 |  Mar.12 | SPRING | BREAK |  |
 | Mar.19 | Standup Meeting:<br> Mock 100% Demo Discussions/planning | Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
 | Mar.26 | Sprint Planning Meeting 6 | Money management in the real world  |  | 
