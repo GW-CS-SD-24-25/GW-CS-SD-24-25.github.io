@@ -90,8 +90,8 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Jan 23 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
 | Jan. 30| Sprint Planning Meeting 4| [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Sprint Review | Code reviews | 
 | Feb.6 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep   | |
-| Feb.13 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  |  Teamwork Survey (required) <br> Updated Webpage Design  |
-| Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | Senior Design Project Repository | 
+| Feb.13 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  | [Teamwork Survey (required)](https://forms.gle/ZMNEsgLTX8dh8xiV9) <br> Updated [Webpage Design](https://gw-cs-sd-23-24.github.io/lectures/Promotional_Presentations.pdf)  |
+| Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | [Senior Design Project Repository](https://docs.google.com/forms/d/e/1FAIpQLScFn2ydJo-j-sSjSicFGRBWft0ravLUKV1N2fzw_J9OJO2rdg/viewform) | 
 | Feb.27 | Sprint Planning Meeting 5 | Demo prep | Code Review |
 | Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Machine Learning in our Projects | Group Feedback Survey (Reqd) |
 |  Mar.12 | SPRING | BREAK |  |
