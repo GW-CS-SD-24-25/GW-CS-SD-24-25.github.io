@@ -93,7 +93,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Feb.13 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  | [Teamwork Survey (required)](https://forms.gle/ZMNEsgLTX8dh8xiV9) <br> Updated [Webpage Design](https://gw-cs-sd-23-24.github.io/lectures/Promotional_Presentations.pdf)  |
 | Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | [Senior Design Project Repository](https://docs.google.com/forms/d/e/1FAIpQLScFn2ydJo-j-sSjSicFGRBWft0ravLUKV1N2fzw_J9OJO2rdg/viewform) | 
 | Feb.27 | Sprint Planning Meeting 5 | Demo prep | Code Review |
-| Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Machine Learning in our Projects | Group Feedback Survey (Reqd) |
+| Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | [Machine Learning](lectures/ML_Industry_Academia.pdf) in our Projects | Group Feedback Survey (Reqd) |
 |  Mar.12 | SPRING | BREAK |  |
 | Mar.19 | Standup Meeting:<br> Mock 100% Demo Discussions/planning | Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
 | Mar.26 | Sprint Planning Meeting 6 | Sprint review  |  | 
