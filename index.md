@@ -95,10 +95,10 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Feb.27 | Sprint Planning Meeting 5 | Demo prep | Code Review |
 | Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | [Machine Learning](lectures/ML_Industry_Academia.pdf) in our Projects | Group Feedback Survey (Reqd) |
 |  Mar.12 | SPRING | BREAK |  |
-| Mar.19 | Standup Meeting:<br> Mock 100% Demo Discussions/planning | Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
+| Mar.19 | 100% Demo Discussions/planning | Senior Focus Group  | Code reviews <br> Plan your 100% Demo practice on Apr. 2 |
 | Mar.26 | Sprint Planning Meeting 6 | Sprint review  |  | 
-| Apr. 2 | Standup meeting | [Mock 100% Demo presentation](lectures/presentations.md)  and Final presentations practice | Group Feedback (Opt) |
-| Apr. 9 | Standup meeting | Feedback for Mock 100% Demo | Final presentation slides <br> Complete promotional video and upload to website |
+| Apr. 2 | [100% Demo presentation practice](lectures/presentations.md) | Final presentations practice | Group Feedback (Opt) |
+| Apr. 9 | No Class | Feedback for 100% Demo practice | Final presentation slides <br> Complete promotional video and upload to website |
 | Apr.16 |  [100% Demos](lectures/presentations.md) | Money management in the real world <br> Final presentation practice (Opt) | Code Review |
 | Apr. 23 | Standup meeting | <b>  [Final Presentations](lectures/presentations.md)  </b>| | 
 | Apr. 30 | Makeup | Makeup Demos | Upload videos of demos | 
