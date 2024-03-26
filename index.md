@@ -89,19 +89,19 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Jan 16 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
 | Jan 23 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
 | Jan. 30| Sprint Planning Meeting 4| [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Sprint Review | Code reviews | 
-| Feb.6 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep   | |
+| Feb.6 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep (No Lab class)  | |
 | Feb.13 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  | [Teamwork Survey (required)](https://forms.gle/ZMNEsgLTX8dh8xiV9) <br> Updated [Webpage Design](https://gw-cs-sd-23-24.github.io/lectures/Promotional_Presentations.pdf)  |
 | Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | [Senior Design Project Repository](https://docs.google.com/forms/d/e/1FAIpQLScFn2ydJo-j-sSjSicFGRBWft0ravLUKV1N2fzw_J9OJO2rdg/viewform) | 
-| Feb.27 | Sprint Planning Meeting 5 | Demo prep | Code Review |
+| Feb.27 | Sprint Planning Meeting 5 | Demo prep (No Lab class) | Code Review |
 | Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | [Machine Learning](lectures/ML_Industry_Academia.pdf) in our Projects | Group Feedback Survey (Reqd) |
 |  Mar.12 | SPRING | BREAK |  |
 | Mar.19 | Planning for [100% Demos](lectures/presentations.md#final-demo) | Senior Focus Group  | Code reviews <br> Plan your [100% Demos](lectures/presentations.md) practice in two weeks |
-| Mar.26 | Sprint Planning Meeting 6 | Sprint review  | Review [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) requirements  | 
+| Mar.26 | Sprint Planning Meeting 6 | Sprint review (No Lab class) | Review [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) requirements  | 
 | Apr. 2 | [100% Demo](lectures/presentations.md#final-demo)  practice | [Final Presentations](lectures/presentations.md#final-presentations) practice | Group Feedback (Opt) |
 | Apr. 9 | No Class | Feedback for [100% Demos](lectures/presentations.md) practice <br> Feedback for [Final Presentations](lectures/presentations.md#final-presentations) practice | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
 | Apr.16 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  | Code Review |
 | Apr. 23 | Standup meeting | <b>  [Final Presentations](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 26 (Showcase Day) | 
-| Apr. 30 | Makeup | Makeup Demos | Upload Final Presentation Video | 
+| Apr. 30 | Makeup | Makeup Demos (No Lab class) | Upload Final Presentation Video | 
 | May 7 | No Class | [Final Package](lectures/presentations.md#final-package) Due |  | 
 | May 14 | No Class  | Commencement Week  | <b> [Commencement](https://commencement.gwu.edu/schedule) </b>  | 
 
