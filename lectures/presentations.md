@@ -38,10 +38,21 @@ This is the final promotional presentation of your project (your Presentation 1,
 ## Demo 3: Preliminary Prototype ##
 This is a demo of an "almost completed" project. We will assess whether you have a end to end working system, with all components integrated, and if all project features (as discussed during Alpha and Beta demos) are implemented. The projects should have a near final user interface. After this demo, the goal should be to carry out more testing, debugging and cleaning up the UI based on the feedback you will receive. Grading will take into account the technical complexity of the project.
 
-## Mock 100% Demo ##
-The mock demo will be more like a presentation to the instruction team; it will serve as the blueprint for your final presentation and demo, and your final project features. You should walk the audience through what you will demo - how the project looks to the user, how user interacts with it, features you will implement and demonstrate, and what architectural details you will demonstrate or discuss. 
+<!-- ## Mock 100% Demo ##
+The mock demo will be more like a presentation to the instruction team; it will serve as the blueprint for your demo, and your final project features. You should walk the audience through what you will demo - how the project looks to the user, how user interacts with it, features you will implement and demonstrate, and what architectural details you will demonstrate or discuss.  -->
+
 ## Final Presentations ##
-This is the final project presentation - and will be similar to Presentation 3 (the end of Fall semester presentation). Introduce your project and state what problem you are solving and what your project does (stick to a few slides and max of 2 minutes to convey this). Next discuss how the project works: Describe the overall architecture of your project – start with brief overview of the system, technical components, what types of technologies/libraries/APIs you used and how the pieces interact. We recommend using screenshots or videos of your alpha demo where possible. One extreme case is to talk through the technical design while showing a video of the demo. Total Time: 8 minutes. The rubric is similar to Presentation 3 - equal parts weighted on speaking skills and the content. We will have guests attending, and some quests will be evaluating the presentations.
+This is the final project presentation - and will be similar to Presentation 3 (the end of Fall semester presentation). Introduce your project and state what problem you are solving and what your project does (stick to a few slides and max of 2 minutes to convey this). Next discuss how the project works: Describe the overall architecture of your project – start with brief overview of the system, technical components, what types of technologies/libraries/APIs you used and how the pieces interact. We recommend using videos where possible, possibly with screenshots to highlight key interactions or features. Total Time: 8 minutes. The rubric is similar to Presentation 3 - equal parts weighted on speaking skills and the content. We will have guests attending, and some quests will be evaluating the presentations.
+  - You will have a chance to give a practice version of your final presentation in class a few weeks before the official one.
+  - You will also need to record a video version of your presentation to include with your final package. You can record this with Zoom or any other video/screen capture type software.
 
 ## Final Demo ##
 This demo must show your final end to end working system. It will be a sit down demo with the instruction team, and you can use your Mock Demo blueprint to walk the audience through the demo and showcase the project features. Expect to show the code working. Rubric is similar to Alpha Demo but will be weighted on how complete the system is, final features implemented, presence (or absence) of bugs in your system and technical complexity.
+  - You will do a practice version of your demo with your instructor mentor a few weeks before the official one.
+
+
+## Final Package ##
+At the end of the semester you must submit the following:
+  - Your complete github repository with all code
+  - Your website including a project description, bio of team members, and written documents
+  - A video of your final presentation (upload to shared drive and embed in website)
