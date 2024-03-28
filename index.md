@@ -98,12 +98,12 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Mar.19 | Planning for [100% Demos](lectures/presentations.md#final-demo) | Senior Focus Group  | Code reviews <br> Plan your [100% Demos](lectures/presentations.md) practice in two weeks |
 | Mar.26 | Sprint Planning Meeting 6 | Sprint review (No Lab class) | Review [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) requirements  | 
 | Apr. 2 | [100% Demo](lectures/presentations.md#final-demo)  practice | [Final Presentations](lectures/presentations.md#final-presentations) practice | Group Feedback (Opt) |
-| Apr. 9 | No Class | Feedback for [100% Demos](lectures/presentations.md) practice <br> Feedback for [Final Presentations](lectures/presentations.md#final-presentations) practice | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
-| Apr.16 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  | Code Review |
-| Apr. 23 | Standup meeting | <b>  [Final Presentations](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 26 (Showcase Day) | 
-| Apr. 30 | Makeup | Makeup Demos (No Lab class) | Upload Final Presentation Video | 
-| May 7 | No Class | [Final Package](lectures/presentations.md#final-package) Due |  | 
-| May 14 | No Class  | Commencement Week  | <b> [Commencement](https://commencement.gwu.edu/schedule) </b>  | 
+| Apr. 9 | No Tuesday Instructor meetings | Feedback for [100% Demos](lectures/presentations.md) practice <br> Feedback for [Final Presentations](lectures/presentations.md#final-presentations) practice | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
+| Apr.16 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  | Code Review <br> Upload Final Presentation Video |
+| Apr. 23 | Optioanl instructor meeting | <b>  [Final Presentations](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 26 (Showcase Day) | 
+| Apr. 30 | Makeup (No Class) | Makeup Demos (No Lab) |  | 
+| May 7 | No Class | No Lab | [Final Package](lectures/presentations.md#final-package) Due | 
+| May 14 | No Class  | Commencement Week  | <b> [Commencement](https://commencement.gwu.edu/schedule) </b> weekend  | 
 
 </div> 
  
