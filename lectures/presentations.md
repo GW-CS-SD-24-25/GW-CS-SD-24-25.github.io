@@ -58,4 +58,4 @@ At the end of the semester you must submit the following:
   - Senior Design showcase poster Slides (PDF)
   - Your complete github repository with all code
   - Your website including a project description, bio of team members, and written documents
-  - A video of your final presentation (upload to shared drive and embed in website)
+  - A video of your final presentation (Youtube, upload to shared drive and embed in website)
