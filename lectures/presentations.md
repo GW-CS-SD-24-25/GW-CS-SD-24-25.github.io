@@ -52,10 +52,13 @@ This demo must show your final end to end working system. It will be a sit down 
 
 
 ## Final Package ##
-At the end of the semester you must submit the following:
+At the end of the semester you must upload the following to our shared folder:
   - 100% Demo Slides (PDF)
   - Final Presentation Slides (PDF)
   - Senior Design showcase poster Slides (PDF)
-  - Your complete github repository with all code
+ - A video of your final presentation (upload actual video file)
+ 
+ You also must ensure the following are complete:
+  - Github repository has all code
   - Your website including a project description, bio of team members, and written documents
-  - A video of your final presentation (Youtube, upload to shared drive and embed in website)
+  
