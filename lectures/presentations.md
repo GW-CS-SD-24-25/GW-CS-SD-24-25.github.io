@@ -52,11 +52,11 @@ This demo must show your final end to end working system. It will be a sit down 
 
 
 ## Final Package ##
-At the end of the semester you must upload the following to our shared folder:
+At the end of the semester you must upload the following to [our shared drive](https://drive.google.com/drive/folders/1FTagc4p-hv76YCN4Y5yk0Y0-pcIuOjAT?usp=drive_link) in a folder for your team name:
   - 100% Demo Slides (PDF)
   - Final Presentation Slides (PDF)
   - Senior Design showcase poster Slides (PDF)
- - A video of your final presentation - one option is to use Zoom to record your talk with screen shared (upload the full video file)
+  - A video of your final presentation - one option is to use Zoom to record your talk with screen shared (upload the full video file)
  
  You also must ensure the following are complete:
   - Github repository has all code
