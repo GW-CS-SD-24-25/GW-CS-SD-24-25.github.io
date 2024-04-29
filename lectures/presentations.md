@@ -60,5 +60,5 @@ At the end of the semester you must upload the following to [our shared drive](h
  
  You also must ensure the following are complete:
   - Github repository has all code
-  - Your website including a project description, bio of team members, and written documents
+  - Your website including a project description, bio of team members, written documents, poster PDF, and presentation slides.
   
