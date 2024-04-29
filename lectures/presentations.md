@@ -56,7 +56,7 @@ At the end of the semester you must upload the following to our shared folder:
   - 100% Demo Slides (PDF)
   - Final Presentation Slides (PDF)
   - Senior Design showcase poster Slides (PDF)
- - A video of your final presentation (upload actual video file)
+ - A video of your final presentation - one option is to use Zoom to record your talk with screen shared (upload the full video file)
  
  You also must ensure the following are complete:
   - Github repository has all code
