@@ -102,7 +102,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Apr.16 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  |  |
 | Apr. 23 | Optioanl instructor meeting | <b>  [Final Presentations](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 26 (Showcase Day) | 
 | Apr. 30 | Makeup (No Class) | Makeup Demos (No Lab) |  | 
-| May 7 | No Class | No Lab | [Final Package](lectures/presentations.md#final-package) Due | 
+| May 7 | No Class | No Lab | [Final Package](lectures/presentations.md#final-package) Due Sunday May 12, 11:59PM | 
 | May 14 | No Class  | Commencement Week  | <b> [Commencement](https://commencement.gwu.edu/schedule) </b> weekend  | 
 
 </div> 
