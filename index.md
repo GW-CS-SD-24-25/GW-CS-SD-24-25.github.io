@@ -15,8 +15,8 @@ layout: home
         <li><b> Josh Shapiro - Lab </b> </li>
         <li> jshapiro314@gwu.edu </li>
         <li> Wednesday 6:10--8:40pm, SEH 1300--1400 </li>
-        <li> <b>Sebastian Espinosa Panqueva - WID TA</b></li>
-        <li> sespinosap@gwmail.gwu.edu</li>
+        <li> <b>FILL ME IN - WID TA</b></li>
+        <li> wid_ta_email@gwmail.gwu.edu</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
