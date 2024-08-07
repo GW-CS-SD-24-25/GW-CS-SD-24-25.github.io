@@ -15,14 +15,15 @@ layout: home
         <li><b> Josh Shapiro - Lab </b> </li>
         <li> jshapiro314@gwu.edu </li>
         <li> Wednesday 6:10--8:40pm, SEH 1300--1400 </li>
-        <li> <b>Sebastian Espinosa Panqueva - WID TA</b></li>
-        <li> sespinosap@gwmail.gwu.edu</li>
+        <li> <b>FILL ME IN - WID TA</b></li>
+        <li> wid_ta_email@gwmail.gwu.edu</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Technical Mentors </b> </li>
-        <li><b> Lucas Chaufournier, </b> Square </li>
+        <li><b> To Be Determined </b> </li>
+        <!-- <li><b> Lucas Chaufournier, </b> Square </li>
         <li><b> Dennis Afanasev, </b> NASA </li>
         <li><b> Phil Lopreiato, </b> Facebook </li> 
         <li><b> Aaron Coplan,</b> Facebook </li>
@@ -33,17 +34,7 @@ layout: home
         <li><b> Billy Miller, </b> MITRE </li>
         <li><b> Brannon McGraw, </b> Domino's </li>
         <li><b> Rian Shambaugh, </b> FINRA </li>
-        <li><b> Ellen Louie, </b> Linked Senior </li>
-        <!-- <li><b> Lucas Chaufournier, </b> Square </li>
-        <li><b> Pat Cody,</b> Facebook </li>
-        <li><b> Aaron Coplan,</b> Facebook </li>
-        <li><b> Kevin Deems,</b> Facebook </li>
-        <li><b> Phil Lopreiato </b>, Facebook </li> 
-        <li><b> Gregor Peach </b>, Amazon </li>
-        <li> <b> Rian Shambaugh </b>, FINRA  </li>
-        <li><b> Josh Shapiro </b>, AKASA  </li>
-        <li><b> John Shepherd,</b> Toyota Research Inst.</li>
-        <li><b> Megan Wood </b>, Ridgeline </li> -->
+        <li><b> Ellen Louie, </b> Linked Senior </li> -->
       </ul>
 </div>
 </div>
@@ -58,25 +49,24 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Fall Semester CSCI 4243W ##
 
 <div style="font-size:90%">
-| Week  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (Sunday 11:59pm) 
+| Week (Monday)  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (Sunday 11:59pm) 
 | :--- |:---  |:--- |:--- |
-| Week 1 <br> Aug.29th | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](lectures/lecture_1.pdf) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student Info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
-| Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | [Project Planning: Discovery and Research](lectures/lecture_2.pdf) |  1. [Propose Project ideas](https://forms.gle/a4sEPmJsjA8TqQk77) - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
-| Sept.12th | Meeting with instructors (out of class) | [Project Planning: Planning in Practice](lectures/lecture_3.pdf) <br> Initial Meeting with mentors | Draft  project proposal (3 slides)  -Sept.17th (Blackboard) <br>  discuss proposal draft with mentors & instructors  |
-| Sept.19th | Meet with Mentor/Instructor <br> - Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1. Updated Project Proposal Slides (Blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.24th |
-| Sept.26th. | Sprint Planning Meeting prep | [How to give a good presentation](lectures/how-to-present.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart (Blackboard) |
-| Oct.3rd | Progress Check | [Project Development and delivery](lectures/Development_Delivery.pdf) <br> Standup Meeting with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey (Required)|
-| Oct.10th <br>Fall Break: 12-13th | Progress Check  | [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| |
-| Oct. 17th | Progress Check | Writing Feedback / [Git CI/CD](lectures/lecture_5.pdf) <br> Standup meeting with mentors | Project Website (landing page) | 
-| Oct.24th | Progress Check | [Project Design and User Experience](lectures/lecture_6.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <br> Code Review <br> with mentors |
-| Oct.31st | Sprint Planning Meeting prep |  Sprint planning with mentors |  |
-| Nov.7th | Demo Review plans <br> UI Design | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup meeting with mentors | Code Review 2 |
-| Nov.14th | Status report- teamwork |  [Presentations and PRDs](lectures/PRD_2023.pdf) <br> Standup meeting with mentors   | [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.19, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
-| Nov.21st | No Class | Thanksgiving Break |  |
-| Nov.28th | Status meeting: <br> prep for Alpha Project Review Demo   |Alumni Job Panel <br> Sprint review with mentors | Code Review 3 |
-| Dec. 5 | Status updates on Demo1 <br> <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b> | [Presentation 3](lectures/presentations.md) <br>   | Writing 4 draft |
-| Dec.12th |  | Team meetings if necessary | [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |  
-| <b> Winter Break </b> | end of CSCI 4243 |  |  | 
+| Aug. 26 | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](lectures/lecture_1.pdf) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student Info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
+| Sept. 2  | Meeting w/instructors: <br> project ideas | [Project Planning: Discovery and Research](lectures/lecture_2.pdf) |  1. [Propose Project ideas](https://forms.gle/a4sEPmJsjA8TqQk77) - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
+| Sept. 9 | Meeting with instructors (out of class) | [Project Planning: Planning in Practice](lectures/lecture_3.pdf) <br> Initial Meeting with mentors | Draft  project proposal (3 slides)  -Sept.17th (Blackboard) <br>  discuss proposal draft with mentors & instructors  |
+| Sept. 16 | Meet with Mentor/Instructor <br> - Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1. Updated Project Proposal Slides (Blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.24th |
+| Sept. 23 | Sprint Planning Meeting prep | [How to give a good presentation](lectures/how-to-present.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart (Blackboard) |
+| Sept. 30 | Progress Check | [Project Development and delivery](lectures/Development_Delivery.pdf) <br> Standup Meeting with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey (Required)|
+| Oct. 7 <br> Fall Break: 10-11th | Progress Check  | [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| |
+| Oct. 14 | Progress Check | Writing Feedback / [Git CI/CD](lectures/lecture_5.pdf) <br> Standup meeting with mentors | Project Website (landing page) | 
+| Oct. 21 | Progress Check | [Project Design and User Experience](lectures/lecture_6.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <br> Code Review <br> with mentors |
+| Oct. 28 | Sprint Planning Meeting prep |  Sprint planning with mentors |  |
+| Nov. 4 | Demo Review plans <br> UI Design | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup meeting with mentors | Code Review 2 |
+| Nov. 11 | Status report- teamwork |  [Presentations and PRDs](lectures/PRD_2023.pdf) <br> Standup meeting with mentors   | [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.19, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
+| Nov. 18 | Status meeting: <br> prep for Alpha Project Review Demo | Alumni Job Panel <br> Sprint review with mentors | Code Review 3 |
+| Nov. 25 | No class | Thanksgiving Break |  |
+| Dec. 2 | Status updates on Demo1 <br> <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b> | [Presentation 3](lectures/presentations.md) <br>   | Writing 4 draft |
+| Dec. 9 |  | Team meetings if necessary | [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |
 
 </div>
 
@@ -86,24 +76,24 @@ This is a two semester Computer Science capstone course culminating in a signifi
 <div style="font-size:90%">
 | Week of  | Lecture Session | Lab(Wednesday) | Work Deadlines 
 | :--- |:---  |:--- |:--- |    
-| Jan 16 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
-| Jan 23 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
-| Jan. 30| Sprint Planning Meeting 4| [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Sprint Review | Code reviews | 
-| Feb.6 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep (No Lab class)  | |
-| Feb.13 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  | [Teamwork Survey (required)](https://forms.gle/ZMNEsgLTX8dh8xiV9) <br> Updated [Webpage Design](https://gw-cs-sd-23-24.github.io/lectures/Promotional_Presentations.pdf)  |
-| Feb.20 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | [Senior Design Project Repository](https://docs.google.com/forms/d/e/1FAIpQLScFn2ydJo-j-sSjSicFGRBWft0ravLUKV1N2fzw_J9OJO2rdg/viewform) | 
-| Feb.27 | Sprint Planning Meeting 5 | Demo prep (No Lab class) | Code Review |
-| Mar.5 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | [Machine Learning](lectures/ML_Industry_Academia.pdf) in our Projects | Group Feedback Survey (Reqd) |
-|  Mar.12 | SPRING | BREAK |  |
-| Mar.19 | Planning for [100% Demos](lectures/presentations.md#final-demo) | Senior Focus Group  | Code reviews <br> Plan your [100% Demos](lectures/presentations.md) practice in two weeks |
-| Mar.26 | Sprint Planning Meeting 6 | Sprint review (No Lab class) | Review [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) requirements  | 
-| Apr. 2 | [100% Demo](lectures/presentations.md#final-demo)  practice | [Final Presentations](lectures/presentations.md#final-presentations) practice | Group Feedback (Opt) |
-| Apr. 9 | No Tuesday Instructor meetings | Feedback for [100% Demos](lectures/presentations.md) practice <br> Feedback for [Final Presentations](lectures/presentations.md#final-presentations) practice | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
-| Apr.16 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  |  |
-| Apr. 23 | Optioanl instructor meeting | <b>  [Final Presentations](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 26 (Showcase Day) | 
-| Apr. 30 | Makeup (No Class) | Makeup Demos (No Lab) |  | 
-| May 7 | No Class | No Lab | [Final Package](lectures/presentations.md#final-package) Due Sunday May 12, 11:59PM | 
-| May 14 | No Class  | Commencement Week  | <b> [Commencement](https://commencement.gwu.edu/schedule) </b> weekend  | 
+| Jan. 13 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
+| Jan. 20 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
+| Jan. 27 | Sprint Planning Meeting 4| [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Sprint Review | Code reviews | 
+| Feb. 3 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep (No Lab class)  | |
+| Feb. 10 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  | [Teamwork Survey (required)](https://forms.gle/ZMNEsgLTX8dh8xiV9) <br> Updated [Webpage Design](https://gw-cs-sd-23-24.github.io/lectures/Promotional_Presentations.pdf)  |
+| Feb. 17 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | [Senior Design Project Repository](https://docs.google.com/forms/d/e/1FAIpQLScFn2ydJo-j-sSjSicFGRBWft0ravLUKV1N2fzw_J9OJO2rdg/viewform) | 
+| Feb. 24 | Sprint Planning Meeting 5 | Demo prep (No Lab class) | Code Review |
+| Mar. 3 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | [Machine Learning](lectures/ML_Industry_Academia.pdf) in our Projects | Group Feedback Survey (Reqd) |
+| Mar. 10 | SPRING | BREAK |  |
+| Mar. 17 | Planning for [100% Demos](lectures/presentations.md#final-demo) | Senior Focus Group  | Code reviews <br> Plan your [100% Demos](lectures/presentations.md) practice in two weeks |
+| Mar. 24 | Sprint Planning Meeting 6 | Sprint review (No Lab class) | Review [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) requirements  | 
+| Mar. 31 | [100% Demo](lectures/presentations.md#final-demo)  practice | [Final Presentations](lectures/presentations.md#final-presentations) practice | Group Feedback (Opt) |
+| Apr. 7 | No Tuesday Instructor meetings | Feedback for [100% Demos](lectures/presentations.md) practice <br> Feedback for [Final Presentations](lectures/presentations.md#final-presentations) practice | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
+| Apr. 14 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  |  |
+| Apr. 21 | Optioanl instructor meeting | <b>  [Final Presentations](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
+| Apr. 28 | Makeup (No Class) | Makeup Demos (No Lab) |  | 
+| May 5 | No Class | No Lab | [Final Package](lectures/presentations.md#final-package) Due Sunday May 12, 11:59PM | 
+| May 12 | No Class  | Commencement Week  | <b> [Commencement](https://commencement.gwu.edu/schedule) </b> weekend  | 
 
 </div> 
  
