@@ -40,16 +40,15 @@ Design an algorithm to analyze energy consumption patterns in a building. Implem
 
 ## Research Projects
 
-# Deep Learning for Advanced EEG Analysis:
+# Deep Learning for EEG Analysis:
 *Faculty contact for details: Prof Xiaodong Qu*
 
-Explore the application of transformer-based architectures and novel algorithms like Mamba to EEG data. Focus on tasks such as emotion recognition, seizure detection, and sleep stage scoring. Develop models that improve accuracy and interpretability. Address data preprocessing and ethical considerations.
+Explore the application of transformer-based architectures and novel algorithms like Mamba to EEG (Electroencephalogram) data. Focus on tasks such as emotion recognition, seizure detection, and sleep stage scoring. Develop models that improve accuracy and interpretability. Address data preprocessing and ethical considerations.
 
 # GenAI in Senior Design Course:
 *Faculty contact for details: Prof Xiaodong Qu*
 
 Integrate generative AI tools to enhance teaching and learning in a CS senior design course. Explore AI-driven project ideation, code generation, and real-time feedback. Assess the impact on student engagement, creativity, and project outcomes.
-
 
 
 # Path-Aware Microservice Security
