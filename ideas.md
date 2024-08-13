@@ -40,20 +40,17 @@ Design an algorithm to analyze energy consumption patterns in a building. Implem
 
 ## Research Projects
 
-# Cognitive State Recognition using EEG Signals:
+# Deep Learning for Advanced EEG Analysis:
 *Faculty contact for details: Prof Xiaodong Qu*
 
-Explore machine learning techniques to accurately classify cognitive states (e.g., attention, relaxation, focus) using EEG signals. Investigate the impact of different features and classification algorithms on recognition accuracy.
+Explore the application of transformer-based architectures and novel algorithms like Mamba to EEG data. Focus on tasks such as emotion recognition, seizure detection, and sleep stage scoring. Develop models that improve accuracy and interpretability. Address data preprocessing and ethical considerations.
 
-# Emotion Recognition using Neural Signals:
+# GenAI in Senior Design Course:
 *Faculty contact for details: Prof Xiaodong Qu*
 
-Develop a system that recognizes emotional states (e.g., happiness, sadness, anger) using neural signals. Evaluate the algorithm's accuracy and responsiveness in capturing emotional changes.
+Integrate generative AI tools to enhance teaching and learning in a CS senior design course. Explore AI-driven project ideation, code generation, and real-time feedback. Assess the impact on student engagement, creativity, and project outcomes.
 
-# EEG Analysis using Transformer and Attention Mechanisms:
-*Faculty contact for details: Prof Xiaodong Qu*
 
-Design and implement a research project that explores the application of transformer-based architectures and attention mechanisms to EEG data for tasks such as cognitive state recognition, emotion detection, or brain connectivity analysis.
 
 # Path-Aware Microservice Security
 *Faculty contact for details: Prof Tim Wood*
