@@ -23,9 +23,6 @@ Dynamically create children's books on a user specified topic with their child a
 # Distraction Free Commuting Productivity/Entertainment
 Create an application to make my hour long commute more productive or fun. The application should be designed for someone driving a car so it must be entirely audio based and be designed to limit distractions while still giving the driver something entertaining/useful to do.
 
-# Natural Language Processing Chatbot
-Build an advanced chatbot using natural language processing algorithms. The algorithm should understand and respond to user queries accurately. Implement the chatbot in a messaging application, considering user interface design and integration with backend services.
-
 # Healthcare Data Analytics Platform
 Develop an algorithm for analyzing medical data to predict disease outcomes or suggest personalized treatments. Implement a web-based application that securely processes and visualizes patient data, taking into consideration data privacy and security measures.
 
@@ -34,9 +31,6 @@ Design an algorithm to optimize traffic flow in a city based on real-time data f
 
 # Financial Portfolio Management Tool:
 Create an algorithm that optimizes investment portfolio allocations based on risk tolerance and market trends. Build a web or mobile application that allows users to manage their portfolios, leveraging the algorithmic insights.
-
-# Energy Consumption Monitoring System:
-Design an algorithm to analyze energy consumption patterns in a building. Implement the algorithm in a system that collects and visualizes energy usage data, aiding in energy efficiency improvements.
 
 ## Research Projects
 
@@ -61,13 +55,23 @@ Design and implement a security framework for microservice applications deployed
 
 Sledge is a serverless computing framework being developed at GW for low latency computation. This project will extend Sledge with an ML model to predict the processing time for each request and use this to guide resource management decisions such as scheduling and load balancing.
 
-## Project ideas from 2021-2022
+## Project ideas from previous years
 These ideas may still be available.
+
+# AI-Powered Travel Itinerary Optimization
+*Faculty contact for details: Prof Xiaodong Qu*
+
+Develop a web service that uses generative AI and optimization algorithms to create personalized travel itineraries. The system will combine AI-generated activity suggestions with algorithmic techniques to optimize for cost, rating, and travel time. Implement and evaluate this approach using APIs like Yelp and Google Maps to enhance accuracy and user experience.
 
 # Mixed Reality UI for First Responders (AR/VR)
 *Faculty contact for details: Dr Hurriyet Ok*
 
 Design and implement holograms for incident command perspective and heads-up displays (HUD) for first responders using VR headset with eye tracking feature and video passthrough AR capabilities. The project will require the use of AR/VR equipment (headsets or Glass), provided by the department. It expands on some of the solutions provided by the NIST Chariot Challenge by expanding the UI design using eye tracking capable headsets, video passthrough etc.
+
+# AI-Powered Graduate Mentor Matching
+*Faculty contact for details: Prof Tim Wood*
+
+Develop a platform that uses AI to match students with graduate mentors based on personalized preferences such as research interests, location, and university ranking. The system combines relational and graph databases to connect students with professors and their publications. Utilize APIs like OpenAI, Semantic Scholar, and DBLP to enhance the matching process. Evaluate the platform's effectiveness in streamlining the graduate school selection process.
 
 # High Performance Remote Procedure Calls
 *Faculty contact for details: Prof Tim Wood*
