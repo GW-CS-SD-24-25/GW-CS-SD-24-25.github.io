@@ -17,8 +17,7 @@ Check Slack for most updated ones.
 **Online Platforms**
 * Slack for one on one communication with instruction team, mentors, discussions, announcements
 * Blackboard (Grades, Writing Homeworks)
-* Github (project repo, code, Project webpage)
-* Trello (sprint planning meetings)
+* Github (project repo, code, project webpage, sprint planning)
 * Google drive (uploading videos); you can also link to a youtube account if you have one.
 * Webpage - course slides, recordings, tutorials, links to software
 
@@ -65,19 +64,19 @@ There are no textbooks for this course. Each project team is expected to identif
 The course is structured to have several types of (non-standard) meetings during each semester. At the high level, these different types are:
  * <b> Lectures/presentations/Demo/Interviews:</b> These are held during the scheduled Wednesday class sessions. 
  * <b> Standup meetings:</b> A Standup Meeting (Agile methodology) is a weekly high level project status meeting between the team and the project instructor/mentor. Each team will meet with their technical mentor and/or course instructor for their standup meeting. During this meeting, we ask our team members three types of question, in order to most efficiently make progress on the project. See [Course Main page](index.md) for more details.
- * <b> Sprint Planning Meeting (SPM): </b> A Sprint Planning Meeting (Agile methodology) is a monthly meeting in which the team sets the goals and tasks they choose to commit to for the next month. The group determines which Backlog items will be handled in the next sprint. These are documented using Trello. *Teams should come to these meeting with all the cards they will work on for the following month*.
+ * <b> Sprint Planning Meeting (SPM): </b> A Sprint Planning Meeting (Agile methodology) is a monthly meeting in which the team sets the goals and tasks they choose to commit to for the next month. The group determines which Backlog items will be handled in the next sprint. These are documented using Github Projects. *Teams should come to these meeting with all the cards they will work on for the following month*.
  
 ## Assessments (Requirements) ##
- * Submit all assignments/deliverables in the specified location; code on github, updates on Trello, writing on Blackboard, videos on shared drive (or Github) etc. Submit Group Feedback by email to your mentor (see “Group Feedback” below).
+ * Submit all assignments/deliverables in the specified location; code on github, project updates on github projects, writing on Blackboard, videos on shared drive (or Github) etc. Submit Group Feedback by google form (see “Group Feedback” below).
  * As you plan your sprints, keep in mind anyone taking vacation, school holidays or breaks, or other major events to plan into your schedules.
  * Your mentors are there to help guide you through your projects, help unblock you when you're stuck on anything, and report back to your instructors on your progress. 
- * Your Trello board is your source of truth on task progress. Your goal is to move all tasks from Idea to Code Complete as efficiently as possible. If your Trello isn’t updated, your mentor has no way to gauge your progress and help you move forward.
+ * Your Github Project Board is your source of truth on task progress. Your goal is to move all tasks from Idea to Code Complete as efficiently as possible. If your Github Project Board isn’t updated, your mentor has no way to gauge your progress and help you move forward.
 
 ### Written Assignments ###
 [Writing assignments](lectures/writing.md) help you practice communicating your idea and putting it into a broader context. Whether in industry or in academia, you’ll need to “sell” and communicate your idea to someone willing to support it. The writing assignments have the deadlines specified in the schedule and requirements linked from the schedule. You will use <b> Blackboard </b> to submit your individual written assignments; final design documents will be submitted in your Github project repo.
  
 ### Presentation Assignments ###
-Senior design enables you to focus on your own project, and push your technical capabilities through it. However, it is very important to learn how to successfully communicate (verbally as well as written) what you’re doing, and why it is cool with the outside world. It is'nt enough to technically complete your project. You also need to sell it! Presentation skills are very important and relatively rare in graduating undergrads. Thus a good portion of SD will focus on your presentation skills, and will include presenting to different audiences. The [presentation deadlines and requirements](lectures/presentations.md) will be specified in the [course schedule](index.md). You will use <b> Github </b>  and/or google drive to submit your final team project presentations.
+Senior design enables you to focus on your own project, and push your technical capabilities through it. However, it is very important to learn how to successfully communicate (verbally as well as written) what you’re doing, and why it is cool with the outside world. It isn't enough to technically complete your project. You also need to sell it! Presentation skills are very important and relatively rare in graduating undergrads. Thus a good portion of SD will focus on your presentation skills, and will include presenting to different audiences. The [presentation deadlines and requirements](lectures/presentations.md) will be specified in the [course schedule](index.md). You will use <b> Github </b>  and/or google drive to submit your final team project presentations.
  
 ### Demos (Checkpoints) ###
  There are four substantive demos (you can view these as major project checkpoints) during the two semesters (Fall and Spring). As part of your project planning (early in fall) the mentors will help you identify the deliverables/demo for each of these checkpoints and we assess your progress based on this. To meet requirements each of the four demo/checkins, must have implemented some part(s) of your final software system (therefore a report or a design document by itself will not meet the criteria for any of the four checkpoints).
@@ -87,15 +86,15 @@ Senior design enables you to focus on your own project, and push your technical 
  * 4: Final Demo
  
 ### Final Package ###
- To complete the course, you must submit the Final package by the deadline May 10th. *Failure to submit the complete final package will result in no grade being assigned*
+ To complete the course, you must submit the Final package by the deadline May 11th. *Failure to submit the complete final package will result in no grade being assigned*
  You must submit the following:
 <b> 1. Code </b> (Github repo) Please check with instructor or your faculty mentor to see what your specific requirements are.
-   * The most recent working version of your project's code (on Github project repo)
+   * The most recent working version of your project's code, merged to main (on Github project repo)
    * A README file that explaints how to install all libraries needed, what paths need to be set up etc to get your project running.
    * README file should also contain instructions for follow-on projects (for future SD projects) if applicable. 
    * (If applicable) A simple test program that can be run at the command-line that will run only if everything is correctly installed
   
-<b> 2. Equipment </b> (if applicable): If your project involved equipment bought by the Department, please return the equipment before noon on May 10th
+<b> 2. Equipment </b> (if applicable): If your project involved equipment bought by the Department, please return the equipment before noon on May 12th
 
 <b> 3. Project Videos (Screencasts) </b> You will need to submit two videos (on Github or your google drive which you must share with the instruction team and your mentor.
    * Create a 3-5 minute  “promotional” video that is akin to a “sales pitch” (plan for a 3 minute video, and you should not exceed 5 minutes). It should provide a high level description of your project/product aimed at general tech savvy audiences (such as VCs, upper level management, etc.). It should describe what the product does and why is it useful - you don't need to describe how it is built.
@@ -114,9 +113,9 @@ Senior design enables you to focus on your own project, and push your technical 
    -- Your poster
   
 ## Teamwork and Group Dynamics ##
-It can be difficult working in a team, but it is essential in SD that all group members are productive and work together toward the project’s goals. Here we discuss what to do if the group dynamics break down at all. (We are implementing two mechanisms - an optional group feedback action and a required teamwork survey form.)
-<b> Toxic Group Dynamics </b> A collegial environment must be maintained at all points during SD. Disrespect for each other, harassment of any form, or any other form of inappropriate behavior will not be tolerated in SD. Your demeanor in your group can negatively impact your grade, and will be passed to university-level disciplinary action where warranted. If you have concerns about your teammates, or yourself not nurturing a collegial environment, please send an email immediately to your SD Mentor with title “SD: Group Problem”.
-<b> Group Feedback </b> Every month, you can optionally submit Group Feedback to your SD Mentor; while these group feedback checkpoints are optional we have two required Teamwork surveys that are required. These reviews are an opportunity to raise any concerns you have with your group. If you do submit a Group feedback, please include the names of all team members. Suggested topics you likely want to include in your review:
+It can be difficult working in a team, but it is essential in SD that all group members are productive and work together toward the project’s goals. Here we discuss what to do if the group dynamics break down at all.
+<b> Toxic Group Dynamics </b> A collegial environment must be maintained at all points during SD. Disrespect for each other, harassment of any form, or any other form of inappropriate behavior will not be tolerated in SD. Your demeanor in your group can negatively impact your grade, and will be passed to university-level disciplinary action where warranted. If you have concerns about your teammates, or yourself not nurturing a collegial environment, please send an email immediately to your SD mentor & instructor with title “SD: Group Problem”.
+<b> Group Feedback / Teamwork Survey </b> Every month, you are required submit feedback to your SD mentor & instructor. These reviews are an opportunity to raise any concerns you have with your group. Suggested topics you likely want to include in your review:
  * How you are performing within the group
  * How others in your group are performing in your perception.
  * Any evidence (eg. commit history) to support your claims.
@@ -126,16 +125,16 @@ Though we include explicit deadlines when you can submit group feedback, to remi
 <b> Submission of Teamwork Survey Forms.</b> These are required and links will be posted in class in the week they are assigned.
 
 ## Workload   ##
-The course, each semester, will be taught using a combination of in-person lectures, remote lectures, remote or/and in-person meetings with project mentors, and recorded videos or notes. Each semester (in each of the two course sequence), you are expected to spend at least: 55 hours in class and lab for direct instruction, and 150 hours out of class working on your project and class assignments. This does not include any preparatory work you may need to come up to speed with software tools such as Github, Trello, etc.. 
+The course, each semester, will be taught using a combination of in-person lectures, remote lectures, remote or/and in-person meetings with project mentors, and recorded videos or notes. Each semester (in each of the two course sequence), you are expected to spend at least: 55 hours in class and lab for direct instruction, and 150 hours out of class working on your project and class assignments. This does not include any preparatory work you may need to come up to speed with software tools such as Github, Slack, etc.. 
 
 ## Grading: ##
 Your grade in this class (courses) will be determined by a number of components:
-  * <b> Your Trello board </b> Each weekly "standup" will consit of a check-in of your Sprint progress. At the end of the sprint (approximately one month), you will receive a grade based on your:
+  * <b> Your Github Projects Board </b> Each weekly "standup" will consit of a check-in of your Sprint progress. At the end of the sprint (approximately one month), you will receive a grade based on your:
    -- size of the commitment you make at the beginning of each sprint and appropriateness of refinements throughout the Sprint.
-   -- Completed tickets and demo-able code. The goal of each Sprint is to have demo-able code, hitting your next achievable milestone. Your demos should reflect reflect the current state of the project’s work on the Trello board.
+   -- Completed tickets and demo-able code. The goal of each Sprint is to have demo-able code, hitting your next achievable milestone. Your demos should reflect reflect the current state of the project’s work on the Github Projects Board.
    -- Progress on Incomplete or In Progress tickets.
    -- Teamwork assessment and contributions.
-  * <b> Your Github repo </b> Making steady commits and pull requests to your repository. Your grade can be negatively impacted by a lack of steady commits and progress.
+  * <b> Your Github repo </b> Making steady commits and pull requests to your repository. Your grade can be negatively impacted by a lack of steady commits and progress. We will only evaluate code merged to main.
   * <b> Your writing assignments </b> Each writing assignment is graded separately, and contributes to your final grade. These will be graded as a group, unless team dynamics issues have been raised before submission
   * <b> Your presentations </b> must show progress over the year, and must address the feedback provided to you after each presentation.
   * <b> The final product </b>
@@ -144,30 +143,32 @@ Your grade in this class (courses) will be determined by a number of components:
 You will be assigned grades for each course CSCI 4243 and CSCI 4244, with the following grade breakdowns: 
  
 ### CSCI 4243 (Fall semester) ###
- * Presentation 1: 5%
- * Presentation 2: 10%
- * Presentation 3: 20%
- * Writing assignments and design homeworks: 20% (5% each)
- * Weekly Sprint progress, website, resume, and Github commit/pull request progress: 20%
- * Alpha Project Review: 20%
- * Participation and Initiative: 5%
+ * [35%] Presentations
+    * [5%] Presentation 1
+    * [10%] Presentation 2
+    * [20%] Presentation 3
+ * [20%] Writing assignments and design homeworks (5% each)
+ * [20%] Sprint Progress: 20% weekly status updates, sprint boards, code commits, website, resume
+ * [20%] Alpha Project Review
+ * [5%] Participation and Initiative: attendence, team surveys
 
 ### CSCI 4244 (Spring semester) ###
- * Presentations and Webpage: 20%
- -- Presentation to general audience (commerical presentation) and mock demo presentation (10%)
- -- Webpage (10%)
- * Grades from Sprint progress, Demos, and Github commit/pull request progress: 30%
- -- Demos (10%) will take into account progress since previous demo, technical complexity (including tools used)
- -- Sprints (20%) activity of slack, Trello boards, and meeting sprint goals. Additional focus for Spring is Testing and Code review trello cards.
- * Final project demo/presentation: 35%  (The grade is based entirely on the final project and presentation.)
- -- Formal Presentation (10%): this is the formal presentation (business casual) at end of the semester to an open audience (open to all CS students, faculty and alumni) in Lehman Auditorium.
- -- Final Demo (25%): this is the full demo of the final project/product. Grade based on their project scope, technical scope, and amount completed.
- * Participation and Initiative: 5% (attendance, participation in panels, practice demos/presentations)
- * Final Package - All requirements must be met  (including written report, code documentation, screencasts, webpage): 10%
- -- Webpage
- -- Screen Recordings (linked from webpage), the commerical (elevator pitch) recording and technical product recording
- -- Documents (final report, code documentation)
- -- Poster and poster presentation
+ * [20%] Presentations and Webpage
+    * [5%] Presentation to general audience (commerical presentation)
+    * [5%] Mock demo presentation
+    * [10%] Webpage
+ * [30%] Sprint Progress & Demos
+    * [10%] Demos: will take into account progress since previous demo, technical complexity (including tools used)
+    * [20%] Sprints: weekly status updates, sprint boards, code commits. Additional focus for Spring is Testing and Code review.
+ * [35%] Final project demo/presentation: The grade is based entirely on the final project and presentation.
+    * [10%] Formal Presentation: this is the formal presentation (business casual) at end of the semester to an open audience (open to all CS students, faculty and alumni) in Lehman Auditorium
+    * [25%] Final Demo: this is the full demo of the final project/product. Grade based on their project scope, technical scope, and amount completed.
+ * [5%] Participation and Initiative: attendance, team surveys
+ * [10%] Final Package: All requirements must be met  (including written report, code documentation, screencasts, webpage)
+    * Webpage
+    * Screen Recordings (linked from webpage), the commerical (elevator pitch) recording and technical product recording
+    * Documents (final report, code documentation)
+    * Poster and poster presentation
  
 ### Note on grading ###
  You will notice that at the end of the Fall semester, you will be given a grade that is heavily weighted based on
