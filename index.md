@@ -57,22 +57,22 @@ This is a two semester Computer Science capstone course culminating in a signifi
 <div style="font-size:90%">
 | Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |
-| Aug. 25 | [Course Logistics](lectures/1-Course-Structure.pdf) | - Deloitte Visit <br> - Lab Overview,  Methodologies <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. Form teams before Tuesday's class (Sept. 3) <br> 3. Complete Student Info form before Tuesday's class (Sept. 3) |  
+| Aug. 25 | - [Course Logistics](lectures/1-Course-Structure.pdf) | - Deloitte Visit <br> - Lab Overview,  Methodologies <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. Form teams before Tuesday's class (Sept. 3) <br> 3. Complete Student Info form before Tuesday's class (Sept. 3) |  
 | Sept. 1  | - [Presentation Skills](lectures/how-to-present.pdf) <br> - Review project ideas | - ML Project Design <br> - Github Projects Setup <br> - Tech Lab Overview <br> - Project Planning: Discovery and Research |  1. Propose Project ideas <br> 2. [Submit Resume](https://blackboard.gwu.edu) |
-| Sept. 8 | Team meetings with instructors <br> (Lectures are team meetings out of class from this week onwards) | - Mentor intros <br> - Tech labs <br> - First team meetings with mentors | 1. Draft project proposal, 3 slides (Blackboard) |
-| Sept. 15 | Team meetings with instructors <br> - Refined project ideas-components <br> - HW equipment and SW needed | - Jobs/Interview Prep <br> - Standup meeting w/ mentors | 1. Updated Project Proposal Slides (Blackboard) <br> 2. HW equipment and SW requests to instructors |
-| Sept. 22 | Team meetings with instructors <br> - Progres Check | - Mock Interviews (no lab) <br> - Standup meeting w/ mentors |  |
-| Sept. 29 | Team meetings with instructors <br> - Sprint Planning Meeting prep | - Project Development and delivery <br> - Sprint planning with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey (Required) |
-| Oct. 6 <br> Fall Break: 10-11th | Progress Check  | [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| |
-| Oct. 13 | Progress Check | Writing Feedback / Git CI/CD <br> Standup meeting with mentors | Project Website (landing page) | 
-| Oct. 20 | Progress Check | Project Design and User Experience <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <br> Code Review <br> with mentors |
-| Oct. 27 | Sprint Planning Meeting prep |  Sprint planning with mentors |  |
-| Nov. 3 | Demo Review plans <br> UI Design | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup meeting with mentors | Code Review 2 |
-| Nov. 10 | Status report- teamwork |  Presentations and PRDs <br> Standup meeting with mentors   | [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.19, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
-| Nov. 17 | Status meeting: <br> prep for Alpha Project Review Demo | Alumni Job Panel <br> Sprint review with mentors | Code Review 3 |
+| Sept. 8 | Team meetings with instructors <br> (team meetings replace lectures from this week onwards) | - Mentor intros <br> - Tech labs <br> - First team meetings with mentors | 1. Draft project proposal, 3 slides (Blackboard) |
+| Sept. 15 | Team meetings with instructors <br> - Refined project ideas <br> - HW equipment and SW needed | - Jobs/Interview Prep <br> - Standup meeting w/ mentors | 1. Updated Project Proposal Slides (Blackboard) <br> 2. HW equipment and SW requests to instructors |
+| Sept. 22 | Team meetings with instructors <br> - Progress Check | [No Lab] <br> - Mock Interviews <br> - Standup meeting w/ mentors |  |
+| Sept. 29 | Team meetings with instructors <br> - Sprint Planning Meeting prep | - Project Development and delivery <br> - Sprint planning with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey <br> 3. Presentation 1 (Oct. 9) |
+| Oct. 6 <br> Fall Break:<br>10-11th | Team meetings with instructors <br> - Progress Check  | - [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> - Standup meeting with mentors | |
+| Oct. 13 | Team meetings with instructors <br> - Progress Check | - Writing Feedback / Git CI/CD <br> - Standup meeting with mentors | 1. Project Website (landing page) | 
+| Oct. 20 | Team meetings with instructors <br> - Progress Check | - Project Design and User Experience <br> - Standup Meeting with mentors | 1. [Writing 2](lectures/writing.md) <br> 2. Progress review (Oct. 30) <br> 3. Code Review with mentors |
+| Oct. 27 | Team meetings with instructors <br> - Sprint Planning Meeting prep | [Remote Lab] <br> - Oct. progress review <br> - Sprint planning with mentors | 1. Teamwork Survey <br> 2. Presentation 2 (Nov. 6) |
+| Nov. 3 | Team meetings with instructors <br> - Demo Review plans <br> - UI Design | - [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> - Standup meeting with mentors | 1. Code review with mentors |
+| Nov. 10 | Team meetings with instructors <br> - Status report: teamwork | - Presentations and PRDs <br> - Standup meeting with mentors | 1. [Writing 3 (Team)](lectures/writing.md) <br> includes User Interface Design Document |
+| Nov. 17 | Team meetings with instructors <br> - prep for Alpha Demo | - Alumni Job Panel <br> - Sprint review with mentors | 1. Code review with mentors |
 | Nov. 24 | No class | Thanksgiving Break |  |
-| Dec. 1 | Status updates on Demo1 <br> <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b> | [Presentation 3](lectures/presentations.md) <br>   | Writing 4 draft |
-| Dec. 8 |  | Team meetings if necessary | [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |
+| Dec. 1 | <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b> | - [Presentation 3](lectures/presentations.md) | 1. Writing 4 draft <br> 2. Teamwork Survey |
+| Dec. 8 |  | Team meetings if necessary | 1. [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |
 
 </div>
 
