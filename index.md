@@ -55,20 +55,20 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Fall Semester CSCI 4243W ##
 
 <div style="font-size:90%">
-| Week (Sunday)  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (Sunday 11:59pm) |
+| Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, <br> unless otherwise noted) |
 | :--- |:---  |:--- |:--- |
-| Aug. 25 | [Course Logistics](lectures/1-Course-Structure.pdf) | Deloitte Visit <br>[Methodologies, Tooling walkthrough](lectures/lecture_1.pdf) | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student Info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class |  
-| Sept. 1  | Meeting w/instructors: <br> project ideas | [Project Planning: Discovery and Research](lectures/lecture_2.pdf) |  1. [Propose Project ideas](https://forms.gle/a4sEPmJsjA8TqQk77) - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
-| Sept. 8 | Meeting with instructors (out of class) | [Project Planning: Planning in Practice](lectures/lecture_3.pdf) <br> Initial Meeting with mentors | Draft  project proposal (3 slides)  -Sept.17th (Blackboard) <br>  discuss proposal draft with mentors & instructors  |
+| Aug. 25 | [Course Logistics](lectures/1-Course-Structure.pdf) | - Deloitte Visit <br> - Methodologies, Tooling walkthrough | 1. [Look at sample ideas](ideas.md) <br>2. [Complete Student Info form](https://forms.gle/iwMa7H8NbUgWrNFj9) before Tuesday's class (Sept. 3) |  
+| Sept. 1  | Meeting w/instructors: <br> project ideas | Project Planning: Discovery and Research |  1. [Propose Project ideas](https://forms.gle/a4sEPmJsjA8TqQk77) - Sept. 10<br> 2. [Submit Resume](https://blackboard.gwu.edu) - Sept. 10|
+| Sept. 8 | Meeting with instructors (out of class) | Project Planning: Planning in Practice <br> Initial Meeting with mentors | Draft  project proposal (3 slides)  -Sept.17th (Blackboard) <br>  discuss proposal draft with mentors & instructors  |
 | Sept. 15 | Meet with Mentor/Instructor <br> - Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1. Updated Project Proposal Slides (Blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.24th |
 | Sept. 22 | Sprint Planning Meeting prep | [How to give a good presentation](lectures/how-to-present.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart (Blackboard) |
-| Sept. 29 | Progress Check | [Project Development and delivery](lectures/Development_Delivery.pdf) <br> Standup Meeting with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey (Required)|
+| Sept. 29 | Progress Check | Project Development and delivery <br> Standup Meeting with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey (Required)|
 | Oct. 6 <br> Fall Break: 10-11th | Progress Check  | [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| |
-| Oct. 13 | Progress Check | Writing Feedback / [Git CI/CD](lectures/lecture_5.pdf) <br> Standup meeting with mentors | Project Website (landing page) | 
-| Oct. 20 | Progress Check | [Project Design and User Experience](lectures/lecture_6.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <br> Code Review <br> with mentors |
+| Oct. 13 | Progress Check | Writing Feedback / Git CI/CD <br> Standup meeting with mentors | Project Website (landing page) | 
+| Oct. 20 | Progress Check | Project Design and User Experience <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <br> Code Review <br> with mentors |
 | Oct. 27 | Sprint Planning Meeting prep |  Sprint planning with mentors |  |
 | Nov. 3 | Demo Review plans <br> UI Design | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup meeting with mentors | Code Review 2 |
-| Nov. 10 | Status report- teamwork |  [Presentations and PRDs](lectures/PRD_2023.pdf) <br> Standup meeting with mentors   | [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.19, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
+| Nov. 10 | Status report- teamwork |  Presentations and PRDs <br> Standup meeting with mentors   | [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.19, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
 | Nov. 17 | Status meeting: <br> prep for Alpha Project Review Demo | Alumni Job Panel <br> Sprint review with mentors | Code Review 3 |
 | Nov. 24 | No class | Thanksgiving Break |  |
 | Dec. 1 | Status updates on Demo1 <br> <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b> | [Presentation 3](lectures/presentations.md) <br>   | Writing 4 draft |
@@ -80,16 +80,16 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Spring Semester CSCI 4244 ##
  
 <div style="font-size:90%">
-| Week (Sunday)  | Lecture Session (Tuesday) | Lab (Wednesday) | Work Deadlines (Sunday 11:59pm) | 
+| Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, <br> unless otherwise noted) |
 | :--- |:---  |:--- |:--- |    
-| Jan. 12 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
+| Jan. 12 | Standup meeting: <br> project status review | Project review & Updates <br> Testing and Code Reviews | winter updates |
 | Jan. 19 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
-| Jan. 26 | Sprint Planning Meeting 4| [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Sprint Review | Code reviews | 
+| Jan. 26 | Sprint Planning Meeting 4| Preparing "promotional" (commercial) presentations <br> Sprint Review | Code reviews | 
 | Feb. 2 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep (No Lab class)  | |
-| Feb. 9 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  | [Teamwork Survey (required)](https://forms.gle/ZMNEsgLTX8dh8xiV9) <br> Updated [Webpage Design](https://gw-cs-sd-23-24.github.io/lectures/Promotional_Presentations.pdf)  |
+| Feb. 9 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  | [Teamwork Survey (required)](https://forms.gle/ZMNEsgLTX8dh8xiV9) <br> Updated [Webpage Design](https://gw-cs-sd-24-25.github.io/lectures/Promotional_Presentations.pdf)  |
 | Feb. 16 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | [Senior Design Project Repository](https://docs.google.com/forms/d/e/1FAIpQLScFn2ydJo-j-sSjSicFGRBWft0ravLUKV1N2fzw_J9OJO2rdg/viewform) | 
 | Feb. 23 | Sprint Planning Meeting 5 | Demo prep (No Lab class) | Code Review |
-| Mar. 2 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | [Machine Learning](lectures/ML_Industry_Academia.pdf) in our Projects | Group Feedback Survey (Reqd) |
+| Mar. 2 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Machine Learning in our Projects | Group Feedback Survey (Reqd) |
 | Mar. 9 | SPRING | BREAK |  |
 | Mar. 16 | Planning for [100% Demos](lectures/presentations.md#final-demo) | Senior Focus Group  | Code reviews <br> Plan your [100% Demos](lectures/presentations.md) practice in two weeks |
 | Mar. 23 | Sprint Planning Meeting 6 | Sprint review (No Lab class) | Review [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) requirements  | 
