@@ -22,7 +22,13 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Technical Mentors </b> </li>
-        <li><b> To Be Determined </b> </li>
+        <li><b> Dennis Afanasev, </b> NASA </li>
+        <li><b> Ellen Louie, </b> Linked Senior </li>
+        <li><b> Jennifer Wright, </b> Apple </li>
+        <li><b> Lucas Chaufournier, </b> Square </li>
+        <li><b> Phil Lopreiato, </b> Facebook </li> 
+        <li><b> Rian Shambaugh, </b> FINRA </li>
+        <li> More coming soon... </li>
         <!-- <li><b> Lucas Chaufournier, </b> Square </li>
         <li><b> Dennis Afanasev, </b> NASA </li>
         <li><b> Phil Lopreiato, </b> Facebook </li> 
