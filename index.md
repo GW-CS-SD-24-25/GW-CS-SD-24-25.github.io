@@ -11,10 +11,10 @@ layout: home
         <li> Tuesday 2:00pm -- 3:05pm, Tompkins 201 </li>
         <li><b>Prof. Xiaodong Qu - Lecture Section 11 </b></li>
         <li> x.qu@gwu.edu </li>
-        <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1300 </li>
+        <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1400 </li>
         <li><b> Josh Shapiro - Lab </b> </li>
         <li> jshapiro314@gwu.edu </li>
-        <li> Wednesday 6:10--8:40pm, SEH 1300--1400 </li>
+        <li> Wednesday 6:10 -- 8:40pm, SEH 1300/1400 </li>
         <li> <b>FILL ME IN - WID TA</b></li>
         <li> wid_ta_email@gwmail.gwu.edu</li>
     </ul>
