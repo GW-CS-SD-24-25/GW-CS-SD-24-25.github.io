@@ -7,7 +7,7 @@ permalink: /criteria/
 This document provides guidelines for your senior design project and team formation. 
 
 ## Teams, Advisors, and Mentors
-One of the objectives of the SD course is team software development. The size of the team must be **3-4 persons per team**. Exceptions for smaller teams are typically only granted in the case of research projects. When defining the project, each team member must be assigned specific components of the project. Four person teams are suggested to think of their project as having two integrated halves, each developed by a pair of students. There will be regular team assessments to ensure equitable and productive teamwork.
+One of the objectives of the SD course is team software development. The size of the team should be **4 persons per team**. Some 3 person teams may be allowed, but exceptions for 1-2 person teams are typically only granted in the case of research projects. When defining the project, each team member must be assigned specific components of the project. Four person teams are suggested to think of their project as having two integrated halves, each developed by a pair of students. There will be regular team assessments to ensure equitable and productive teamwork. *Note that team members do not need to be in the same section of the senior design class*.
 
 One of the course instructors will act as the **faculty advisor** for each team. Your faculty advisor will meet with you regularly to ensure all team members are making progress and to help direct the overall project and ensure it meets our design criteria.
 
