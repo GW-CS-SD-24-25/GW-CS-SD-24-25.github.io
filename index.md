@@ -24,23 +24,13 @@ layout: home
         <li><b> Technical Mentors </b> </li>
         <li><b> Dennis Afanasev, </b> NASA </li>
         <li><b> Ellen Louie, </b> Linked Senior </li>
-        <li><b> Jennifer Wright, </b> Apple </li>
+        <li><b> Jen Wright, </b> Apple </li>
+        <li><b> Katherine Walker,</b> Modern Treasury </li>
         <li><b> Lucas Chaufournier, </b> Square </li>
         <li><b> Phil Lopreiato, </b> Facebook </li> 
         <li><b> Rian Shambaugh, </b> FINRA </li>
+        <li><b> Sarah Morin,</b> Oracle </li>
         <li> More coming soon... </li>
-        <!-- <li><b> Lucas Chaufournier, </b> Square </li>
-        <li><b> Dennis Afanasev, </b> NASA </li>
-        <li><b> Phil Lopreiato, </b> Facebook </li> 
-        <li><b> Aaron Coplan,</b> Facebook </li>
-        <li><b> Pat Cody,</b> Meta </li>
-        <li><b> Zuri Lawrence, </b> IBM </li>
-        <li><b> Jennifer Wright, </b> Apple </li>
-        <li><b> Katie Stasaski, </b> Salesforce AI Research </li>
-        <li><b> Billy Miller, </b> MITRE </li>
-        <li><b> Brannon McGraw, </b> Domino's </li>
-        <li><b> Rian Shambaugh, </b> FINRA </li>
-        <li><b> Ellen Louie, </b> Linked Senior </li> -->
       </ul>
 </div>
 </div>
@@ -57,22 +47,22 @@ This is a two semester Computer Science capstone course culminating in a signifi
 <div style="font-size:90%">
 | Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |
-| Aug. 25 | - [Course Logistics](lectures/1-Course-Structure.pdf) | - Deloitte Visit <br> - Lab Overview,  Methodologies <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. Form teams before Tuesday's class (Sept. 3) <br> 3. Complete Student Info form before Tuesday's class (Sept. 3) |  
+| Aug. 25 | - [Course Logistics](lectures/1-Course-Structure.pdf) | [[Lab Slides](lectures/lab_1.pdf)] <br> - Deloitte Visit <br> - Lab Overview <br> - Project Management Intro <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. [Join slack](https://join.slack.com/t/gwcssd24-25/shared_invite/zt-2o6qn2is4-w6phDTds37qMTEFD18fdhg) & upload your photo ASAP <br> 3. Complete [Student Info form](https://forms.gle/WSfpXNZSwm8y3UHm9) ASAP <br> 4. Form teams & complete [team submission](https://forms.gle/414u7GCqt4AX8iBh7) before Tuesday's class (Sept. 3) |  
 | Sept. 1  | - [Presentation Skills](lectures/how-to-present.pdf) <br> - Review project ideas | - ML Project Design <br> - Github Projects Setup <br> - Tech Lab Overview <br> - Project Planning: Discovery and Research |  1. Propose Project ideas <br> 2. [Submit Resume](https://blackboard.gwu.edu) |
 | Sept. 8 | Team meetings with instructors <br> (team meetings replace lectures from this week onwards) | - Mentor intros <br> - Tech labs <br> - First team meetings with mentors | 1. Draft project proposal, 3 slides (Blackboard) |
 | Sept. 15 | Team meetings with instructors <br> - Refined project ideas <br> - HW equipment and SW needed | - Jobs/Interview Prep <br> - Standup meeting w/ mentors | 1. Updated Project Proposal Slides (Blackboard) <br> 2. HW equipment and SW requests to instructors |
 | Sept. 22 | Team meetings with instructors <br> - Progress Check | [No Lab] <br> - Mock Interviews <br> - Standup meeting w/ mentors |  |
 | Sept. 29 | Team meetings with instructors <br> - Sprint Planning Meeting prep | - Project Development and delivery <br> - Sprint planning with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard)  <br> 2. Teamwork Survey <br> 3. Presentation 1 (Oct. 9) |
-| Oct. 6 <br> Fall Break:<br>10-11th | Team meetings with instructors <br> - Progress Check  | - [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> - Standup meeting with mentors | |
-| Oct. 13 | Team meetings with instructors <br> - Progress Check | - Writing Feedback / Git CI/CD <br> - Standup meeting with mentors | 1. Project Website (landing page) | 
+| Oct. 6 <br> Fall Break:<br>10-11th | Team meetings with instructors <br> - Progress Check  | - Writing Feedback / Git CI/CD <br> - Standup meeting with mentors | |
+| Oct. 13 | Team meetings with instructors <br> - Progress Check | - [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> - Standup meeting with mentors | 1. Project Website (landing page) | 
 | Oct. 20 | Team meetings with instructors <br> - Progress Check | - Project Design and User Experience <br> - Standup Meeting with mentors | 1. [Writing 2](lectures/writing.md) <br> 2. Progress review (Oct. 30) <br> 3. Code Review with mentors |
 | Oct. 27 | Team meetings with instructors <br> - Sprint Planning Meeting prep | [Remote Lab] <br> - Oct. progress review <br> - Sprint planning with mentors | 1. Teamwork Survey <br> 2. Presentation 2 (Nov. 6) |
 | Nov. 3 | Team meetings with instructors <br> - Demo Review plans <br> - UI Design | - [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> - Standup meeting with mentors | 1. Code review with mentors |
 | Nov. 10 | Team meetings with instructors <br> - Status report: teamwork | - Presentations and PRDs <br> - Standup meeting with mentors | 1. [Writing 3 (Team)](lectures/writing.md) <br> includes User Interface Design Document |
-| Nov. 17 | Team meetings with instructors <br> - prep for Alpha Demo | - Alumni Job Panel <br> - Sprint review with mentors | 1. Code review with mentors |
+| Nov. 17 | Team meetings with instructors <br> - Prep for Alpha Demo | - Alumni Job Panel <br> - Sprint review with mentors | 1. Code review with mentors |
 | Nov. 24 | No class | Thanksgiving Break |  |
-| Dec. 1 | <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b> | - [Presentation 3](lectures/presentations.md) | 1. Writing 4 draft <br> 2. Teamwork Survey |
-| Dec. 8 |  | Team meetings if necessary | 1. [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |
+| Dec. 1 | Team meetings with instructors <br> - Prep for Alpha Demo | - [Presentation 3](lectures/presentations.md) | 1. Writing 4 draft <br> 2. Teamwork Survey |
+| Dec. 8 | <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b>  | Team meetings if necessary | 1. [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |
 
 </div>
 
@@ -80,7 +70,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Spring Semester CSCI 4244 ##
  
 <div style="font-size:90%">
-| Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, <br> unless otherwise noted) |
+| Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |    
 | Jan. 12 | Standup meeting: <br> project status review | Project review & Updates <br> Testing and Code Reviews | winter updates |
 | Jan. 19 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
