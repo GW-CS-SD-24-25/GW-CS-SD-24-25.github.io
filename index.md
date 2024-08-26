@@ -70,7 +70,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Spring Semester CSCI 4244 ##
  
 <div style="font-size:90%">
-| Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, <br> unless otherwise noted) |
+| Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |    
 | Jan. 12 | Standup meeting: <br> project status review | Project review & Updates <br> Testing and Code Reviews | winter updates |
 | Jan. 19 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
