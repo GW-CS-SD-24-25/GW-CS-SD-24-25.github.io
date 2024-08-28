@@ -8,10 +8,13 @@ permalink: /ideas/
 > Here are some ideas to get you started...
 
 # RTX Autonomous Vehicle Competition
-GW has participated in an autonomous drone competition since 2023-2024. Each year the competition presents a new contest for students to build one or more drones to overcome challenges. This is an **interdisciplinary project** that will span CS, ECE, and MAE. The CS team will primarily be responsible for developing the software to control the drones. GW will then take the drones to a competition to see how we perform compared to other schools. This is a great chance work on a real hardware/software project and build connections with Raytheon/RTX, a major R&D corporation for the US Government.
+GW has participated in an autonomous drone competition since 2023-2024. Each year the competition presents a new contest for students to build one or more drones to overcome challenges. This is an **interdisciplinary project** that will span CS, ECE, and MAE. The CS team will primarily be responsible for developing the software to control the drones. GW will then take the drones to a competition to see how we perform compared to other schools. This is a great chance work on a real hardware/software project and build connections with Raytheon/RTX, a major R&D corporation for the US Government. **We are looking for ~4 students to fill this project!**
 
 # Sign Language Communication Aid
-The purpose of this project is to create a system that enables more natural/seamless communication for deaf individuals by capturing and translating sign language into text or voice. In addition, create a system for those who do not know sign language to communicate in sign language, making communication more natural and bidirectional. This is an **interdiscipinary project** with students in both ECE and CS.
+The purpose of this project is to create a system that enables more natural/seamless communication for deaf individuals by capturing and translating sign language into text or voice. In addition, create a system for those who do not know sign language to communicate in sign language, making communication more natural and bidirectional. This is an **interdiscipinary project** with students in both ECE and CS. **We are looking for 1-2 students to join this project!**
+
+# Underwater Robotic Systems
+The project aims to develop an underwater robotic system that may be used in combating multiple environmentally important issues such as cleaning ocean’s plastic (microplastic) and/or Lionfish detainment. Invasive lionfish threaten native fish and the environment in U.S. Atlantic coastal waters. Invasive species are capable of causing extinctions of native plants and animals, reducing biodiversity, competing with native organisms for limited resources, and altering habitats (Lionfish link). Plastic debris injures and kills fish, seabirds and marine mammals. These plastic polymers directly pose a great threat to marine organisms and also indirectly affect the ecosystem by adsorbing other marine pollutants (link 1, link 2). Eventually, people’s health is at risk as the consumer of these sea animals. The project will seek to build an underwater robot capable of identifying problems such as these. This is an **interdiscipinary project** with students in both ECE and CS. **We are looking for 1-2 students to join this project!**
 
 # Distraction Free Commuting Productivity/Entertainment
 Create an application to make my hour long commute more productive or fun. The application should be designed for someone driving a car so it must be entirely audio based and be designed to limit distractions while still giving the driver something entertaining/useful to do.
@@ -24,6 +27,9 @@ Design an algorithm to optimize traffic flow in a city based on real-time data f
 
 # Financial Portfolio Management Tool:
 Create an algorithm that optimizes investment portfolio allocations based on risk tolerance and market trends. Build a web or mobile application that allows users to manage their portfolios, leveraging the algorithmic insights.
+
+# UTA/LA Scheduler:
+Every year the CS department has to assign ~50 students as undergraduate Learning and Teaching Assistants. This is a complex scheduling process that is currently done manuarlly (by your poor instructor). This project would build an automated system that accepts information about classes and student/faculty preferences to determine the best matching. If you do a good job, this could be adopted by the CS department!
 
 ## Research Projects
 
