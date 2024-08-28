@@ -92,6 +92,11 @@ Project Description: Develop an AI-powered system that uses Convolutional Neural
 *Faculty contact for details: Prof Xiaodong Qu*
 Project Description: Develop a comprehensive shopping website that uses web scraping and AI algorithms to personalize clothing recommendations based on user preferences and body dimensions. The platform integrates NLP to analyze product reviews and enhances the shopping experience by offering tailored suggestions from multiple retailers. The project involves full-stack development, including backend (Flask), frontend (HTML/CSS/JavaScript), and hosting on AWS, with a focus on creating an intuitive user interface and efficient data processing.
 
+# College Football Prediction Platform
+
+*Faculty contact for details: Prof Xiaodong Qu*
+Project Description: Develop a user-friendly platform that predicts the outcomes of college football games using machine learning algorithms such as Logistic Regression, KNN, and Random Forest. The platform provides fans with accurate win predictions, detailed team information, and live game schedules. It combines real-time data processing with engaging content to enhance the user experience. The project focuses on building a full-stack application using technologies like Flask, AWS, and Python, with a strong emphasis on delivering accurate predictions and an intuitive interface.
+
 # Mixed Reality UI for First Responders (AR/VR)
 *Faculty contact for details: Dr Hurriyet Ok*
 
