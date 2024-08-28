@@ -22,17 +22,23 @@ Create an application to make my hour long commute more productive or fun. The a
 # Healthcare Data Analytics Platform
 Develop an algorithm for analyzing medical data to predict disease outcomes or suggest personalized treatments. Implement a web-based application that securely processes and visualizes patient data, taking into consideration data privacy and security measures.
 
-# Traffic Optimization System:
+# Traffic Optimization System
 Design an algorithm to optimize traffic flow in a city based on real-time data from various sources. Develop a software solution that integrates with traffic lights, cameras, and other infrastructure to implement the algorithm and manage traffic patterns.
 
-# Financial Portfolio Management Tool:
+# Financial Portfolio Management Tool
 Create an algorithm that optimizes investment portfolio allocations based on risk tolerance and market trends. Build a web or mobile application that allows users to manage their portfolios, leveraging the algorithmic insights.
 
-# UTA/LA Scheduler:
+# UTA/LA Scheduler
 Every year the CS department has to assign ~50 students as undergraduate Learning and Teaching Assistants. This is a complex scheduling process that is currently done manuarlly (by your poor instructor). This project would build an automated system that accepts information about classes and student/faculty preferences to determine the best matching. If you do a good job, this could be adopted by the CS department!
 
 # Encrypted & Sharded Cloud Storage System
 Build a system that allows me to provide multiple cloud storage platform credentials and will act as a single “cloud”. When I upload files, they should be encrypted and chunked, with each piece stored in a separate cloud provider. When I download files, these encrypted chunks should be joined together and unencrypted on disk. Provide a UI that allows me view an index of my files & supports uploads/downloads. This solution should take security into account.
+
+# Network Threat Detector
+Design a platform capable of performing high speed analysis of network traffic to detect security threats. This could involve designing and deploying ML classification algorithms to specialized hardware like programmable network cards or switches in Prof. Wood's lab.
+
+# Public Speaking Trainer
+Design a tool to help people improve their speaking skills. Your system might include automated video and audio analysis of a recorded presentation to score the speaker on their volume, posture, use of filler words, etc. The system would then give feedback to help people improve their slides and presentation delivery.
 
 # AI Memory Bank
 Build a tool that helps gather information from a user's daily life and allow it to be queried to act as a second memory. For example, you might gather audio or transcripts from a zoom meeting and then provide the user with a context-aware summary when they meet with the same people at a later time. The system would focus on both gathering the information which is worth persisting and allowing it to be queried against using techniques like Large Language Models.
