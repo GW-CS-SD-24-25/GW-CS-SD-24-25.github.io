@@ -31,18 +31,30 @@ Create an algorithm that optimizes investment portfolio allocations based on ris
 # UTA/LA Scheduler:
 Every year the CS department has to assign ~50 students as undergraduate Learning and Teaching Assistants. This is a complex scheduling process that is currently done manuarlly (by your poor instructor). This project would build an automated system that accepts information about classes and student/faculty preferences to determine the best matching. If you do a good job, this could be adopted by the CS department!
 
+# Encrypted & Sharded Cloud Storage System
+Build a system that allows me to provide multiple cloud storage platform credentials and will act as a single “cloud”. When I upload files, they should be encrypted and chunked, with each piece stored in a separate cloud provider. When I download files, these encrypted chunks should be joined together and unencrypted on disk. Provide a UI that allows me view an index of my files & supports uploads/downloads. This solution should take security into account.
+
+# AI Memory Bank
+Build a tool that helps gather information from a user's daily life and allow it to be queried to act as a second memory. For example, you might gather audio or transcripts from a zoom meeting and then provide the user with a context-aware summary when they meet with the same people at a later time. The system would focus on both gathering the information which is worth persisting and allowing it to be queried against using techniques like Large Language Models.
+
+
+# AI-Powered Rental Platform for College Students
+Develop an AI-driven platform that streamlines the process of finding rental properties for college students. The platform allows students to search for rentals based on proximity to their college, budget, and specific preferences. It also assists landlords in finding suitable tenants by matching their properties with students' needs. The project employs machine learning algorithms to recommend optimal listings, incorporating real-time data on rental prices and availability. The platform aims to simplify the housing search process for students and enhance property management for landlords.
+
+# AI-Powered Wearable Health System for College Students
+Project Description: Develop an AI-driven health monitoring system that integrates with wearable devices like smartphones and Apple Watches to track college students' sleep, diet, exercise, and other health-related activities. The system analyzes the collected data and provides personalized health recommendations based on the latest scientific research in health and wellness. By connecting the system to evidence-based studies, it offers suggestions that are not only personalized but also grounded in proven health outcomes. The project aims to improve students' well-being and academic performance through scientifically backed health management, offering actionable insights on a weekly or monthly basis.
+
 ## Research Projects
 
 # Deep Learning for EEG Analysis:
 *Faculty contact for details: Prof Xiaodong Qu*
 
-Explore the application of transformer-based architectures and novel algorithms like Mamba to EEG (Electroencephalogram) data. Focus on tasks such as emotion recognition, seizure detection, and sleep stage scoring. Develop models that improve accuracy and interpretability. Address data preprocessing and ethical considerations.
+Explore the application of advanced deep learning techniques, including transformer-based architectures and novel algorithms like Mamba, to the analysis of EEG (Electroencephalogram) brain signal data. This project focuses on critical tasks such as emotion recognition, seizure detection, and sleep stage scoring, aiming to develop models that not only improve accuracy but also enhance interpretability and clinical relevance. The project addresses key challenges in data preprocessing, noise reduction, and the handling of imbalanced datasets, while also considering the ethical implications of using AI in sensitive healthcare applications. Students from Prof. Qu's lab has published more than ten research papers on this topic in the last two years.
 
 # GenAI in Senior Design Course:
 *Faculty contact for details: Prof Xiaodong Qu*
 
-Integrate generative AI tools to enhance teaching and learning in a CS senior design course. Explore AI-driven project ideation, code generation, and real-time feedback. Assess the impact on student engagement, creativity, and project outcomes.
-
+Integrate generative AI tools into the one-year-long CS senior design course to enhance both teaching and learning. This project will explore the application of AI-driven project ideation, automated code generation, and real-time feedback mechanisms, with the goal of fostering greater creativity and innovation among students. The project will assess the impact of these AI tools on various aspects of the course, including student engagement, creativity, collaboration, and project outcomes. Specific areas of focus will include how generative AI can assist in brainstorming novel project ideas, streamline the coding process, and provide personalized feedback that adapts to individual student needs.
 
 # Path-Aware Microservice Security
 *Faculty contact for details: Prof Tim Wood*
