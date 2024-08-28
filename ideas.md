@@ -28,6 +28,9 @@ Create an algorithm that optimizes investment portfolio allocations based on ris
 # AI-Powered Rental Platform for College Students
 Develop an AI-driven platform that streamlines the process of finding rental properties for college students. The platform allows students to search for rentals based on proximity to their college, budget, and specific preferences. It also assists landlords in finding suitable tenants by matching their properties with students' needs. The project employs machine learning algorithms to recommend optimal listings, incorporating real-time data on rental prices and availability. The platform aims to simplify the housing search process for students and enhance property management for landlords.
 
+# AI-Powered Wearable Health System for College Students
+Project Description: Develop an AI-driven health monitoring system that integrates with wearable devices like smartphones and Apple Watches to track college students' sleep, diet, exercise, and other health-related activities. The system analyzes the collected data and provides personalized health recommendations based on the latest scientific research in health and wellness. By connecting the system to evidence-based studies, it offers suggestions that are not only personalized but also grounded in proven health outcomes. The project aims to improve students' well-being and academic performance through scientifically backed health management, offering actionable insights on a weekly or monthly basis.
+
 ## Research Projects
 
 # Deep Learning for EEG Analysis:
