@@ -25,6 +25,9 @@ Design an algorithm to optimize traffic flow in a city based on real-time data f
 # Financial Portfolio Management Tool:
 Create an algorithm that optimizes investment portfolio allocations based on risk tolerance and market trends. Build a web or mobile application that allows users to manage their portfolios, leveraging the algorithmic insights.
 
+# AI-Powered Rental Platform for College Students
+Develop an AI-driven platform that streamlines the process of finding rental properties for college students. The platform allows students to search for rentals based on proximity to their college, budget, and specific preferences. It also assists landlords in finding suitable tenants by matching their properties with students' needs. The project employs machine learning algorithms to recommend optimal listings, incorporating real-time data on rental prices and availability. The platform aims to simplify the housing search process for students and enhance property management for landlords.
+
 ## Research Projects
 
 # Deep Learning for EEG Analysis:
