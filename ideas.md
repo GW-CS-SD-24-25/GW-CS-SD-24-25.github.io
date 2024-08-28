@@ -36,13 +36,12 @@ Project Description: Develop an AI-driven health monitoring system that integrat
 # Deep Learning for EEG Analysis:
 *Faculty contact for details: Prof Xiaodong Qu*
 
-Explore the application of transformer-based architectures and novel algorithms like Mamba to EEG (Electroencephalogram) data. Focus on tasks such as emotion recognition, seizure detection, and sleep stage scoring. Develop models that improve accuracy and interpretability. Address data preprocessing and ethical considerations.
+Explore the application of advanced deep learning techniques, including transformer-based architectures and novel algorithms like Mamba, to the analysis of EEG (Electroencephalogram) brain signal data. This project focuses on critical tasks such as emotion recognition, seizure detection, and sleep stage scoring, aiming to develop models that not only improve accuracy but also enhance interpretability and clinical relevance. The project addresses key challenges in data preprocessing, noise reduction, and the handling of imbalanced datasets, while also considering the ethical implications of using AI in sensitive healthcare applications. Students from Prof. Qu's lab has published more than ten research papers on this topic in the last two years.
 
 # GenAI in Senior Design Course:
 *Faculty contact for details: Prof Xiaodong Qu*
 
-Integrate generative AI tools to enhance teaching and learning in a CS senior design course. Explore AI-driven project ideation, code generation, and real-time feedback. Assess the impact on student engagement, creativity, and project outcomes.
-
+Integrate generative AI tools into the one-year-long CS senior design course to enhance both teaching and learning. This project will explore the application of AI-driven project ideation, automated code generation, and real-time feedback mechanisms, with the goal of fostering greater creativity and innovation among students. The project will assess the impact of these AI tools on various aspects of the course, including student engagement, creativity, collaboration, and project outcomes. Specific areas of focus will include how generative AI can assist in brainstorming novel project ideas, streamline the coding process, and provide personalized feedback that adapts to individual student needs.
 
 # Path-Aware Microservice Security
 *Faculty contact for details: Prof Tim Wood*
