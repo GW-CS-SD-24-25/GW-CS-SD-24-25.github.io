@@ -22,11 +22,13 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Technical Mentors </b> </li>
+        <li><b> Austin Blackman, </b> Oracle </li>
         <li><b> Dennis Afanasev, </b> NASA </li>
         <li><b> Ellen Louie, </b> Linked Senior </li>
         <li><b> Jen Wright, </b> Apple </li>
         <li><b> Katherine Walker,</b> Modern Treasury </li>
         <li><b> Lucas Chaufournier, </b> Square </li>
+        <li><b> Pat Cody, </b> Meta </li>
         <li><b> Phil Lopreiato, </b> Facebook </li> 
         <li><b> Rian Shambaugh, </b> FINRA </li>
         <li><b> Sarah Morin,</b> Oracle </li>
