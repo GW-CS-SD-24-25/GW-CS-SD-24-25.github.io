@@ -1,8 +1,9 @@
-# GW-CS-SD-2022.github.io
+# gw-cs-sd-24-25.github.io
+
 
 To setup this site on a mac:
 ```
-brew install ruby
+brew install ruby (full install tutorial: https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/)
 gem install bundler jekyll
 bundle update
 bundle install
