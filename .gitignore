@@ -5,3 +5,5 @@ a.out
 .tags
 tmp
 .vscode/settings.json
+.ruby-version
+.DS_Store
