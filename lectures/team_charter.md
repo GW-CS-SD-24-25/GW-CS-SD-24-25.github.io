@@ -86,9 +86,6 @@ The team lead, *[Member Name]*, is responsible for managing team deadlines and k
 - **Mutual Respect**: All members are expected to treat each other with respect and professionalism.
 - **Constructive Feedback**: Feedback should be given and received constructively, focusing on improving the project.
 
-### 5.3 Termination
-* **Involuntary Removal**: As a last resort, a member may be removed from the project if they consistently fail to meet expectations, violate the rules, or act unprofessionally. Removal requires all remaining members to meet with their instructor. The instructor will have the final say in how to proceed.
-
 ## 6. Resource Allocation
 - **Time Commitment**: All members are expected to spend ~10 hours of time outside of class per week on the project.
 - **Workload Distribution**: Tasks will be assigned based on each member's expertise and availability. Each member is expected to complete their assigned tasks within the agreed-upon deadlines. 
