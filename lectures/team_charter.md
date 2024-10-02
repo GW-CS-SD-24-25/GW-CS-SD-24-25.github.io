@@ -22,23 +22,27 @@ Last updated: [ YYYY-MM-DD ]
 - *User-friendly web app: A website with a chat interface that allows users to interact with the model. The website should require authentication and use accounts to manage individual's chat history*
 
 ## 2. Roles and Responsibilities
-*Describe the different roles each team member will play and their primary focus area. Identify a "project lead" responsible for managing deadlines and organizing the rest of the team. Identify who is responsible for any logistics roles (managing sprint boards etc*
+*Describe the different roles each team member will play and their primary focus area. Identify a "project lead" responsible for managing deadlines and organizing the rest of the team. Identify who is responsible for any logistics roles (managing sprint boards etc)*
 
 ### 2.1 Team Lead
-[Member Name]
-The team lead is responsible for managing team deadlines and keeping everyone on track. Their concrete responsibilities include:
+
+The team lead, *[Member Name]*, is responsible for managing team deadlines and keeping everyone on track. Their concrete responsibilities include:
 - reminding team members to post weekly status updates
 - take notes during meetings and share in slack channel
 - schedule time for team to sync
-- ...
+- *add any other duties here*
 
 ### 2.2 Member Roles
+*Complete the member roles table*
+
 | Member Name | Strengths  | Technical Responsibilities                |
 | ----------- | ---------- | ----------------------------------------- |
 | [Member 1]  | ml, python | Training core language model              |
 | [Member 2]  | ui, ux     | Build front end, prototype chat interface |
 
 ### 2.3 Logistics
+*Adjust this to assign team members tasks or define a rotation policy.*
+
 - [Member] : responsible for creating weekly status update tickets and moving them to done as the sprint progresses
 - [Member] : responsible for taking notes during instructor meeting and posting them to slack
 - ...
@@ -49,6 +53,8 @@ The team lead is responsible for managing team deadlines and keeping everyone on
 - We will use slack for async communication between team members, mentors, and instructors
 - We will use Zoom for weekly meetings with instructors and mentors
 - We will use github projects to track sprint progress and post weekly updates
+- *List any other communication tools you will use*
+
 
 ### 3.2 Meetings
 - Weekly meetings with the team mentor will be held *Wednesday 8pm* over Zoom.
@@ -65,6 +71,8 @@ The team lead is responsible for managing team deadlines and keeping everyone on
 - All members must be transparent about their progress, challenges, and any delays they anticipate.
 
 ## 4. Decision-Making Process
+*You can discuss and modify these processes as your team sees fit.*
+
 - **Consensus-Based Decisions**: Major decisions will be made through consensus among all team members. In case of a deadlock, a majority vote will have the final say. If no majority is reached, the team will reach out to their mentor and instructor for guidance.
 - **Documentation**: All decisions must be documented and shared with the team to ensure clarity and alignment.
 - **Conflict Resolution**: Any conflicts between team members should first be addressed internally through open communication. If unresolved, members must notify the instructor who will then mediate.
@@ -87,7 +95,7 @@ The team lead is responsible for managing team deadlines and keeping everyone on
 - **Shared Resources:** *List any shared resources (compute, hardware, etc) and how to access them*
 
 ## 7. Signatures
-By signing below, each team member agrees to uphold this team charter:
+By signing below, each team member agrees to uphold this team charter (add names as separate commits):
 - [Member 1] , [Date]
 - [Member 2] , [Date]
 - [Member 3] , [Date]
