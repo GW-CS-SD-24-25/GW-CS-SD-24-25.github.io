@@ -160,6 +160,7 @@ You will be assigned grades for each course CSCI 4243 and CSCI 4244, with the fo
  * [30%] Sprint Progress & Demos
     * [10%] Demos: will take into account progress since previous demo, technical complexity (including tools used)
     * [20%] Sprints: weekly status updates, sprint boards, code commits. Additional focus for Spring is Testing and Code review.
+      * For fall, sprint grading will be: 4% September, 6% October, 10% November/December
  * [35%] Final project demo/presentation: The grade is based entirely on the final project and presentation.
     * [10%] Formal Presentation: this is the formal presentation (business casual) at end of the semester to an open audience (open to all CS students, faculty and alumni) in Lehman Auditorium
     * [25%] Final Demo: this is the full demo of the final project/product. Grade based on their project scope, technical scope, and amount completed.
@@ -187,8 +188,9 @@ Grades will be posted on Blackboard, and feedback will also be available on Slac
 If we determine that a group is not making sufficient progress toward the goals of their project, we will require all group members to come in and work on their project in a supervised setting. This is meant to provide bursts of activity to get the group back on track. It is each group’s responsibility to put in the work required to create a successful project.
 
 ### Late Work policy ###
- * Writing Assignment Late policy: late writing assignments will yield credit with 10% penalty until the next writing assignment is due at which point, it will not be accepted.
- * Submission of all writing assignments must follow the submission rules above. All reports, presentations and such will be submitted via your Blackboard or Github or project website and via google drive as a pdf, as specified in each assignment.
+ * Writing Assignment Late policy: late writing assignments will yield credit with 10% penalty *per week* until the next writing assignment is due at which point, it will not be accepted.
+ * Other Assignments: will receive 50% credit if submitted before the end of the sprint.
+ * Submission of all assignments must follow the submission rules above. All reports, presentations and such will be submitted via your Blackboard or Github or project website and via google drive as a pdf, as specified in each assignment.
  *  Presentations and Demos cannot be submitted late for credit as they are required in-class.
  *  The submission time will be determined by the upload time (on Github, google drive, blackboard etc.).
  *  The only exceptions, for late work submission, are due to (documented) medical or family emergency or instructor approved technical delays (such equipment delays/malfunctions, mentor availability, etc.). But you need to contact the instructor(s) beforehand.
