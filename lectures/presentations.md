@@ -1,9 +1,10 @@
-# Presentations
 Senior design enables you to focus on your own project, and push your technical capabilities through it. However, it is very important to learn how to successfully communicate what you’re doing, and why it is cool with the outside world. Thus, a significant component of this class is learning and practicing the non-technical skills of writing and presentation.
 It isn’t enough to technically complete your project. You also need to sell it! Presentation skills are very important and relatively rare in graduating undergrads. Thus much of SD will focus on your presentation skills.
 Since all projects this year are team projects, the presentations will be team presentations but we will be assessing each team member's presentation skills.
 
-# Fall Semester
+---
+
+## Fall Semester
 
 ## Presentation 1 - Elevator Pitch  ##
 This presentation will focus on the elevator pitch for your project. Imagine you have a few minutes with someone, and your goals are to have them understand what the project is, why it is important, that it is possible, and your general approach. The intended audience can be investors (VCs) and/or upper management in your organization (not your immediate program/project manager or faculty supervisor).  
@@ -32,7 +33,9 @@ Introduce your project and state what problem you are solving (stick to one or t
 ## Alpha Project Review Demo ##
 The demo is a sit down to talk through the code and the system features. You should plan your demo (i.e., how you will walk us through it) so you convey the features and some use cases, and be ready to discuss key technical aspects.
 
-# Spring Semester
+---
+
+## Spring Semester
 
 ## Beta Project Review Demo ##
 This demo is a sit down demo to assess progress since the Alpha demo. The demo will be assessed based on the progress since the alpha demo, how you have addressed the feedback (questions and suggestions) fron the alpha demo, and clear specification of the steps needed to provide an end to end working system (with all components integrated).
