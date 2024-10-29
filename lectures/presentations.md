@@ -3,6 +3,8 @@ Senior design enables you to focus on your own project, and push your technical 
 It isn’t enough to technically complete your project. You also need to sell it! Presentation skills are very important and relatively rare in graduating undergrads. Thus much of SD will focus on your presentation skills.
 Since all projects this year are team projects, the presentations will be team presentations but we will be assessing each team member's presentation skills.
 
+# Fall Semester
+
 ## Presentation 1 - Elevator Pitch  ##
 This presentation will focus on the elevator pitch for your project. Imagine you have a few minutes with someone, and your goals are to have them understand what the project is, why it is important, that it is possible, and your general approach. The intended audience can be investors (VCs) and/or upper management in your organization (not your immediate program/project manager or faculty supervisor).  
 You should prepare a six minute (four minute presentation + two minute Q and A) "business proposal". Your goal is to convince us that what you are building is a great idea and that you have some structure in mind to make it a reality.  
@@ -13,21 +15,24 @@ The presentations should build off the project summary document that you submitt
 The goal of this presentation is to present the technical design of your project to a technically savvy audience such as your project manager/your technical team/research funding agency/faculty supervisor etc. The presentation should assume that they have heard the "elevator pitch" in detail, so your primary goal now is to convince them of the technical innovation and challenges in your project. The technical managers (research funding agency, etc.) need to be convinced not only that the project is viable and innovative but also that it justifies the size of the team (this translates to cost of the project).
 You should prepare a (max) 7 minute presentation to describe the overall architecture of your project and convey the technical challenges and innovations, and conclude with your plans for the alpha release. A sample structure of your presentation could be:
 - Start with a brief overview of the system goals (keep this to one minute)
-- Provide the system architecture diagram
-- then give a technical description of what the key components are, and who is developing each component (this could be conveyed by having that team member present the particular component)
 - Technical innovation: what exactly is technically novel about the project ? 
 - Design feasibility: what (types of) technologies/libraries you will make use of, how the pieces will interact, and why do you think the design will work?
-- alpha prototype (plan for 1 minute max on this)
+- Provide the system architecture diagram
+- Give a technical description of what the key components are, and who is developing each component
+- Describe what plans for your alpha prototype (plan for 1 minute max on this)
 - Technical challenges and risks: what are the "unknowns" (what have you not figured out, where is the risk)? what is the development cost (lines of code, people, HW etc.)? if you have identified potential roadblocks/points of failure then point these out. 
+
 Put particular effort into having a nice visual that helps us understand the components of your system. (In the brief overview of the system, please briefly remind everyone of the motivation and context for your project.) We will use a rubric similar to the first presentation but with more emphasis on the technical description (including the scope and the technical depth of your project).
 
 ## Presentation 3  ##
 The end of Fall semester requires a final Fall presentation (presentation 3) and a demo of the prototype.
 (This is similar to the first technical presentation, i.e., the second presentation you gave. Your first technical presentation can serve as the first draft for this presentation.)
-Introduce your project and state what problem you are solving (stick to one or two slides, and provide the motivation). Describe the overall architecture of your project – start with brief overview of the system, technical components, what types of technologies/libraries you used and how the pieces interact. We recommend using screenshots or videos of your prototype demo where possible. One extreme case is to talk through the technical design while showing a video of the demo. Time: 7-8 minutes.  The rubric is similar to Presentation 2 - equal parts weighted on speaking skills and the content including technical complexity.
+Introduce your project and state what problem you are solving (stick to one or two slides, and provide the motivation). Describe the overall architecture of your project – start with brief overview of the system, technical components, what types of technologies/libraries you used and how the pieces interact. We recommend using screenshots or videos of your prototype demo where possible. One extreme case is to talk through the technical design while showing a video of the demo. Time: 8 minutes.  The rubric is similar to Presentation 2 - equal parts weighted on speaking skills and the content including technical complexity.
 
 ## Alpha Project Review Demo ##
 The demo is a sit down to talk through the code and the system features. You should plan your demo (i.e., how you will walk us through it) so you convey the features and some use cases, and be ready to discuss key technical aspects.
+
+# Spring Semester
 
 ## Beta Project Review Demo ##
 This demo is a sit down demo to assess progress since the Alpha demo. The demo will be assessed based on the progress since the alpha demo, how you have addressed the feedback (questions and suggestions) fron the alpha demo, and clear specification of the steps needed to provide an end to end working system (with all components integrated).

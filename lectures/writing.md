@@ -26,8 +26,7 @@ To get started, you should refer to the project proposal (submitted earlier in t
 - Technical Feasibility: What existing tools and technologies can you use to build your project? How can you be confident that it's do-able?
 - Costs, Risk and Risk Mitigation: What is the development cost in terms of hardware and software? How many lines of code do you estimate (and why)? A typical question is "What are the project milestones and a timeline for achieving these milestones?" and in this Writing assignment you can provide a few sentence summary based on the Gantt chart that you submitted.
 
-## Writing 3 - Project Description ##
-<b>Product and Technical Specifications</b>
+## Writing 3 - Product and Technical Specifications ##
 Each team must complete this assignment together and submit it on Blackboard. 
 
 As discussed in class, the Product Requirements Document consists of 2 major components: Proposal and Specifications. The Executive Summary writing assignment covered the Proposal section and the Technical Summary writing assignment began the Specifications section. This writing assignment will continue addressing the Specifications, both for the Product and Technical aspects. 
@@ -44,11 +43,14 @@ The <b>Technical specifications</b> should include the following details: archit
 - <b>External APIs and Frameworks</b>: This should be a list of all of the external APIs and frameworks that you call on or use to build your project. Each item should have a detailed description of why and how it is used in your project. 
 - <b>Algorithms</b>: This should be a detailed description of the main algorithmic components of your application. 
 
-[Example of Writing 3](Writing_3_Example.pdf)
 Note: There is no length requirement but the assignment submission should include all details listed under Product Specifications and Technical Specficiations. 
 
 
-## Writing 4 (Team) - Technical Design Document ##
+## Writing 4 (Team) - Revised Specifications ##
 
-This is your (end of Fall) complete description of your project - elevator pitch, technical components, and use cases.
-Your starting point is to combine your first three documents into one document. Then you will edit accordingly so it flows as one document. If your design, at the end of your alpha prototype demo, changed from your Writing 1 and Writing 2 then you would need to update the content in Writing 1 and 2. The goal of this writing assignment is to have one comprehensive document describing your project; we will then refer to this document as you progress through the Spring semester. As your project progresses during the Spring semester, you may need to edit this document.  <!--  -->
+**Updated 10/29/24:** This assignment has been revised since the website was originally posted, so please check carefully!
+
+In this assignment you should revise your Product and Technical Specifications document from Writing 3 based on our feedback and the progress you have made on your project. We expect to see significant changes in response to our comments, as well as your own ideas on how to make the document stronger.
+
+<!-- This is your (end of Fall) complete description of your project - elevator pitch, technical components, and use cases.
+Your starting point is to combine your first three documents into one document. Then you will edit accordingly so it flows as one document. If your design has changed from your Writing 1 and Writing 2 then you would need to update the content in Writing 1 and 2. The goal of this writing assignment is to have one comprehensive document describing your project; we will then refer to this document as you progress through the Spring semester. As your project progresses during the Spring semester, you may need to edit this document.   -->
