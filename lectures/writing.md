@@ -24,7 +24,7 @@ To get started, you should refer to the project proposal (submitted earlier in t
 - Technical Innovation: Describe the technologies that will go into your project. What exactly is technically novel about the project? How does this compare to what already exists out there?
 - Key objectives: Describe the key objectives to be accomplished during the project, including the questions that must be answered to determine the technical and commercial feasibility of the proposed concept
 - Technical Feasibility: What existing tools and technologies can you use to build your project? How can you be confident that it's do-able?
-- Costs, Risk and Risk Mitigation: What is the development cost in terms of hardware and software? How many lines of code do you estimate (and why)? A typical question is "What are the project milestones and a timeline for achieving these milestones?" and in this Writing assignment you can provide a few sentence summary based on the Gantt chart that you submitted.
+- Costs, Risk and Risk Mitigation: What is the development cost in terms of hardware and software? How much code do you need to write (and why)? What external libraries / dependencies do you have? A typical question is "What are the project milestones and a timeline for achieving these milestones?" and in this Writing assignment you can provide a few sentence summary based on the project planning you worked on in September.
 
 ## Writing 3 - Product and Technical Specifications ##
 Each team must complete this assignment together and submit it on Blackboard. 
