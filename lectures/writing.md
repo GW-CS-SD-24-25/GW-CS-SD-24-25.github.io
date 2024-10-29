@@ -26,14 +26,15 @@ To get started, you should refer to the project proposal (submitted earlier in t
 - Technical Feasibility: What existing tools and technologies can you use to build your project? How can you be confident that it's do-able?
 - Costs, Risk and Risk Mitigation: What is the development cost in terms of hardware and software? How much code do you need to write (and why)? What external libraries / dependencies do you have? A typical question is "What are the project milestones and a timeline for achieving these milestones?" and in this Writing assignment you can provide a few sentence summary based on the project planning you worked on in September.
 
-## Writing 3 - Product and Technical Specifications ##
+## Writing 3 - Product Requirements Document ##
 Each team must complete this assignment together and submit it on Blackboard. 
 
-As discussed in class, the Product Requirements Document consists of 2 major components: Proposal and Specifications. The Executive Summary writing assignment covered the Proposal section and the Technical Summary writing assignment began the Specifications section. This writing assignment will continue addressing the Specifications, both for the Product and Technical aspects. 
+A Product Requirements Document consists of 2 major components: Proposal and Specifications. The Executive Summary writing assignment covered the Proposal section and the Technical Summary writing assignment began the Specifications section. This writing assignment will focus on addressing the Specifications, both for the Product and Technical aspects. 
 
 The goal of this writing assignment is to communicate the expected user experience and technical design as it will be upon project completion. You will produce a combination of written details, visual artifacts, and diagrams describing the user flows and architecture of the product or system you are building. 
 
 The <b>Product specifications</b> should include the following details: user stories, flow diagrams, and mockups/wireframes. 
+
 - <b>User Stories</b>: What are the most critical user stories for the project? This should be a list of all user stories. Remember that user stories are formatted as such: As a [persona], I would like to [functionality] so that I can [benefit]. (eg. As a Product Manager, I would like to set the priority of the ticket as High, Medium, or Low, so that the engineering team members know which tickets are more important.)
 - <b>Flow Diagrams</b>: What are the key steps the user takes when interacting with your project? This should be a diagram representation of those steps and what happens upon success or failure of each step. 
 - <b>Mockups/Wireframes</b>: What are the visual artifacts of what the end user will see when using your product/system? If you have a UI component that drives the user experience, this section should be images of those UI screens. If you have an API component that drives the user experience, this section should document the API UX: authentication setup (if applicable), list of all the API endpoints, code examples, and details on how to use each endpoint. 
@@ -46,7 +47,7 @@ The <b>Technical specifications</b> should include the following details: archit
 Note: There is no length requirement but the assignment submission should include all details listed under Product Specifications and Technical Specficiations. 
 
 
-## Writing 4 (Team) - Revised Specifications ##
+## Writing 4 (Team) - Revised Product Requirements Document ##
 
 **Updated 10/29/24:** This assignment has been revised since the website was originally posted, so please check carefully!
 
