@@ -26,7 +26,7 @@ To get started, you should refer to the project proposal (submitted earlier in t
 - Technical Feasibility: What existing tools and technologies can you use to build your project? How can you be confident that it's do-able?
 - Costs, Risk and Risk Mitigation: What is the development cost in terms of hardware and software? How much code do you need to write (and why)? What external libraries / dependencies do you have? A typical question is "What are the project milestones and a timeline for achieving these milestones?" and in this Writing assignment you can provide a few sentence summary based on the project planning you worked on in September.
 
-## Writing 3 - Product Requirements Document ##
+## Writing 3 (Team) - Product Requirements Document ##
 Each team must complete this assignment together and submit it on Blackboard. 
 
 A Product Requirements Document consists of 2 major components: Proposal and Specifications. The Executive Summary writing assignment covered the Proposal section and the Technical Summary writing assignment began the Specifications section. This writing assignment will focus on addressing the Specifications, both for the Product and Technical aspects. 
