@@ -27,8 +27,26 @@ Put particular effort into having a nice visual that helps us understand the com
 
 ## Presentation 3  ##
 The end of Fall semester requires a final Fall presentation (presentation 3) and a demo of the prototype.
-(This is similar to the first technical presentation, i.e., the second presentation you gave. Your first technical presentation can serve as the first draft for this presentation.)
-Introduce your project and state what problem you are solving (stick to one or two slides, and provide the motivation). Describe the overall architecture of your project – start with brief overview of the system, technical components, what types of technologies/libraries you used and how the pieces interact. We recommend using screenshots or videos of your prototype demo where possible. One extreme case is to talk through the technical design while showing a video of the demo. Time: 8 minutes.  The rubric is similar to Presentation 2 - equal parts weighted on speaking skills and the content including technical complexity.
+This presentation is similar to a combination of Presentation 1 and 2 -- you will give a brief overview of both your project motivation and technical design. You should cover these topics:
+
+Intro:
+ - Describe the problem to be solved
+ - Describe > 1 type of user who will make use of your project
+ - How is your project different from similar apps/approaches?
+
+Tech:
+ - Overview your implementation using diagrams, algorithms, etc. 
+ - You likely will want to simplify your overall system diagram to make it easier to cover in a brief presentation compared to how you would present it in a detailed writing report.
+ - Discusss the complexity of your algorithm. This doesn't necessarily mean Big O time complexity, but could also include a description of the type of problem you need to solve and why it requires algorithmic thinking.
+
+Demo:
+ - Specify what you have completed so far and will be able to show in your Alpha demo.
+ - Present a brief demo of your project. This can be screenshots or a pre-recorded video. 
+ - In general we do not suggest doing a live demo given the limited time and the need to present from the classroom computer instead of your own machine.
+ - The demo can either be a small portion of your presentation, or you may be able to intersperse it with the rest of your presentation (e.g., talk over what you are showing)
+ - Briefly cover what remaining features you plan to complete in spring.
+
+Time: 8 minutes.  The rubric is similar to Presentation 2 - equal parts weighted on speaking skills and the content including technical complexity. Projects with fewer than 3 members can be shorter; projects with more members can be longer.
 
 ## Alpha Project Review Demo ##
 The demo is a sit down to talk through the code and the system features. You should plan your demo (i.e., how you will walk us through it) so you convey the features and some use cases, and be ready to discuss key technical aspects.
