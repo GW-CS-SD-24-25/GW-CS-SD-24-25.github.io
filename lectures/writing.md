@@ -51,7 +51,7 @@ Note: There is no length requirement but the assignment submission should includ
 
 ## Writing 4 (Team) - Revised Product Requirements Document ##
 
-**Updated 10/29/24:** This assignment has been revised since the website was originally posted, so please check carefully!
+**Updated 12/4/24:** This assignment has been revised since the website was originally posted, so please check carefully!
 
 In this assignment you should revise your Product and Technical Specifications document from Writing 3 based on our feedback and the progress you have made on your project. We expect to see significant changes in response to our comments, as well as your own ideas on how to make the document stronger.
 
