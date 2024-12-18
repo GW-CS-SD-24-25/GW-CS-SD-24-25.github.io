@@ -64,8 +64,8 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Nov. 10 | Team meetings with instructors <br> - Progress Check | [[Lab Slides](lectures/lab_9.pdf)] <br> - [System Design](lectures/lab_9_system_design.pdf) <br> - Standup meeting with mentors | |
 | Nov. 17 | Team meetings with instructors <br> - Prep for Alpha Demo |[REMOTE LAB] <br> [[Lab Slides](lectures/lab_10.pdf)] <br> - Mentor Presentation: [Design Docs](lectures/lab_10_design_docs.pdf) <br> - Mentor Presentation: [Solutions Architect](lectures/lab_10_solutions_architect.pdf) <br> - Standup meeting with mentors | 1. [Writing 3 (Team)](lectures/writing.md) (Nov. 24) <br> includes User Interface Design Document <br> 2. Code review with mentors |
 | Nov. 24 | No class | Thanksgiving Break |  |
-| Dec. 1 | Team meetings with instructors <br> - Prep for Alpha Demo | - [Presentation 3](lectures/presentations.md) <br> - Standup meeting with mentors (last one of the semester!) | 1. Teamwork Survey (Dec. 8) |
-| Dec. 8 | <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b>  | Team meetings if necessary | 1. [Writing 4: Final Design Document (team)](lectures/writing.md) (Dec. 15) <br> 2. End of Nov/Dec sprint (Dec. 12) |
+| Dec. 1 | Team meetings with instructors <br> - Prep for Alpha Demo | - [Presentation 3](lectures/presentations.md) <br> - Standup meeting with mentors (last one of the semester!) |  |
+| Dec. 8 | <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b>  | Team meetings if necessary | 1. [Writing 4: Final Design Document (team)](lectures/writing.md) (Dec. 15) <br> 2. End of Nov/Dec sprint (Dec. 12)<br> 3. [Teamwork Survey](https://forms.gle/sX6zNybwwgefmKDW6) (Dec. 15) |
 
 </div>
 
