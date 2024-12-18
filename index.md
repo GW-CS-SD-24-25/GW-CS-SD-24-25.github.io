@@ -75,13 +75,13 @@ This is a two semester Computer Science capstone course culminating in a signifi
 <div style="font-size:90%">
 | Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |    
-| Jan. 12 | Standup meeting: <br> project status review | Project review & Updates <br> Testing and Code Reviews | winter updates |
-| Jan. 19 | Standup Meeting: <br> prepwork for Beta Demo |  Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
-| Jan. 26 | Sprint Planning Meeting 4| Preparing "promotional" (commercial) presentations <br> Sprint Review | Code reviews | 
-| Feb. 2 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  Demo prep (No Lab class)  | |
-| Feb. 9 | Standup Meeting: <br> Planning your presentations | Beta Demo Feedback  | [Teamwork Survey (required)](https://forms.gle/ZMNEsgLTX8dh8xiV9) <br> Updated [Webpage Design](https://gw-cs-sd-24-25.github.io/lectures/Promotional_Presentations.pdf)  |
-| Feb. 16 | Standup Meeting: <br> Presentation practice  | [Presentation 4:](lectures/presentations.md)  <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations | [Senior Design Project Repository](https://docs.google.com/forms/d/e/1FAIpQLScFn2ydJo-j-sSjSicFGRBWft0ravLUKV1N2fzw_J9OJO2rdg/viewform) | 
-| Feb. 23 | Sprint Planning Meeting 5 | Demo prep (No Lab class) | Code Review |
+| Jan. 12 | Individual Fall Feedback | Project review & Updates <br> Testing and Code Reviews | winter updates |
+| Jan. 19 | Mentor Meeting: Sprint 1 Plan |  TBD | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
+| Jan. 26 | Mentor Meeting: Sprint Status | TBD | Code reviews | 
+| Feb. 2 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  No Lab class  | |
+| Feb. 9 | Mentor Meeting: Sprint 2 Plan | Beta Demo Feedback  |   |
+| Feb. 16 | Mentor Meeting: Sprint Status   | [Presentation 4:](lectures/presentations.md)  <br> Elevator pitch <br> 3 minute presentation |  | 
+| Feb. 23 | Mentor Meeting: Sprint Status | Demo prep (No Lab class) | Code Review |
 | Mar. 2 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Machine Learning in our Projects | Group Feedback Survey (Reqd) |
 | Mar. 9 | SPRING | BREAK |  |
 | Mar. 16 | Planning for [100% Demos](lectures/presentations.md#final-demo) | Senior Focus Group  | Code reviews <br> Plan your [100% Demos](lectures/presentations.md) practice in two weeks |
