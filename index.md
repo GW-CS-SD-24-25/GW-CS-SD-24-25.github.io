@@ -86,10 +86,10 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Mar. 10  | SPRING | BREAK |  |
 | Mar. 17 | Final Sprint Plan | Senior Focus Group  | Code reviews |
 | Mar. 24 | Status Update | Sprint review (No Lab class)    | [Sprint with Peer Code Review](lectures/presentations.md#demo-4) by 3/30  | 
-| Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | [Practice Presentations](lectures/presentations.md#final-presentations) | Group Feedback (Opt) |
+| Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | [Practice Presentation](lectures/presentations.md#final-presentations) | Group Feedback (Opt) |
 | Apr. 7  | Demo 4 Feedback <br> Alumni Slide Review | Feedback for Practice Presentation | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
 | Apr. 14 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  |  |
-| Apr. 21 | Optional instructor meeting | <b>  [Final Presentations](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
+| Apr. 21 | Optional instructor meeting | <b>  [Final Presentation](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
 | Apr. 28 | Classes End | Makeup Demos (No Lab) |  | 
 | May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Sunday May 11, 11:59PM | 
 | May 12  |   | Commencement Week  |[Graduation, hooray!!](https://commencement.gwu.edu/schedule)  | 
