@@ -73,26 +73,26 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Spring Semester CSCI 4244 ##
  
 <div style="font-size:90%">
-| Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
+| Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines |
 | :--- |:---  |:--- |:--- |    
-| Jan. 12 | Individual Fall Feedback | Project review & Updates <br> Testing and Code Reviews | winter updates |
-| Jan. 19 | Mentor Meeting: Sprint 1 Plan |  TBD | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
-| Jan. 26 | Mentor Meeting: Sprint Status | TBD | Code reviews | 
-| Feb. 2 | [Demo 2: Beta Prototype](lectures/presentations.md)   |  No Lab class  | |
-| Feb. 9 | Mentor Meeting: Sprint 2 Plan | Beta Demo Feedback  |   |
-| Feb. 16 | Mentor Meeting: Sprint Status   | [Presentation 4:](lectures/presentations.md)  <br> Elevator pitch <br> 3 minute presentation |  | 
-| Feb. 23 | Mentor Meeting: Sprint Status | Demo prep (No Lab class) | Code Review |
-| Mar. 2 | [Demo 3: Prelim Prototype](lectures/presentations.md)  | Machine Learning in our Projects | Group Feedback Survey (Reqd) |
-| Mar. 9 | SPRING | BREAK |  |
-| Mar. 16 | Planning for [100% Demos](lectures/presentations.md#final-demo) | Senior Focus Group  | Code reviews <br> Plan your [100% Demos](lectures/presentations.md) practice in two weeks |
-| Mar. 23 | Sprint Planning Meeting 6 | Sprint review (No Lab class) | Review [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) requirements  | 
-| Mar. 30 | [100% Demo](lectures/presentations.md#final-demo)  practice | [Final Presentations](lectures/presentations.md#final-presentations) practice | Group Feedback (Opt) |
-| Apr. 6 | No Tuesday Instructor meetings | Feedback for [100% Demos](lectures/presentations.md) practice <br> Feedback for [Final Presentations](lectures/presentations.md#final-presentations) practice | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
-| Apr. 13 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  |  |
-| Apr. 20 | Optioanl instructor meeting | <b>  [Final Presentations](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
-| Apr. 27 | Makeup (No Class) | Makeup Demos (No Lab) |  | 
-| May 4 | No Class | No Lab | [Final Package](lectures/presentations.md#final-package) Due Sunday May 12, 11:59PM | 
-| May 11 | No Class  | Commencement Week  | <b> [Commencement](https://commencement.gwu.edu/schedule) </b> weekend  | 
+| Jan. 13 | Individual Fall Feedback | Spring Project Planning |  |
+| Jan. 20 | Status Update |  Testing and Code Reviews |  |
+| Jan. 27 | Status Update | No Lab class | [Sprint with Peer Code Review](lectures/presentations.md#demo-2) by 2/2 | 
+| Feb. 3  | [Demo 2](lectures/presentations.md#demo-2) (individual)  | TBD  | Groupwork Feedback (Opt)  |
+| Feb. 10  | Sprint 2 Plan  | Demo 2 Feedback (zoom)  |   |
+| Feb. 17 | Status Update | [Presentation 4](lectures/presentations.md) |  | 
+| Feb. 24 | Status Update | No Lab class | [Sprint with Mentor Code Review](lectures/presentations.md#demo-3) by 3/2 |
+| Mar. 3  | [Demo 3](lectures/presentations.md#demo-3) (team) | TBD | Group Feedback Survey (Reqd) 3/9 |
+| Mar. 10  | SPRING | BREAK |  |
+| Mar. 17 | Final Sprint Plan | Senior Focus Group  | Code reviews |
+| Mar. 24 | Status Update | Sprint review (No Lab class)    | [Sprint with Peer Code Review](lectures/presentations.md#demo-4) by 3/30  | 
+| Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | [Practice Presentations](lectures/presentations.md#final-presentations) | Group Feedback (Opt) |
+| Apr. 7  | Demo 4 Feedback <br> Alumni Slide Review | Feedback for Practice Presentation | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
+| Apr. 14 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  |  |
+| Apr. 21 | Optional instructor meeting | <b>  [Final Presentations](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
+| Apr. 28 | Classes End | Makeup Demos (No Lab) |  | 
+| May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Sunday May 11, 11:59PM | 
+| May 12  |   | Commencement Week  |[Graduation, hooray!!](https://commencement.gwu.edu/schedule)  | 
 
 </div> 
  
