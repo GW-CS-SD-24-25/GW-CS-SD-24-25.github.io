@@ -79,7 +79,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Jan. 20 | Status Update |  Testing and Code Reviews |  |
 | Jan. 27 | Status Update | No Lab class | [Sprint with Peer Code Review](lectures/presentations.md#demo-2) by 2/2 | 
 | Feb. 3  | [Demo 2](lectures/presentations.md#demo-2) (individual)  | TBD  | Groupwork Feedback (Opt)  |
-| Feb. 10  | Sprint 2 Plan  | Demo 2 Feedback (zoom)  |   |
+| Feb. 10  | Sprint 3 Plan  | Demo 2 Feedback (zoom)  |   |
 | Feb. 17 | Status Update | [Presentation 4](lectures/presentations.md) |  | 
 | Feb. 24 | Status Update | No Lab class | [Sprint with Mentor Code Review](lectures/presentations.md#demo-3) by 3/2 |
 | Mar. 3  | [Demo 3](lectures/presentations.md#demo-3) (team) | TBD | Group Feedback Survey (Reqd) 3/9 |
@@ -88,7 +88,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Mar. 24 | Status Update | Sprint review (No Lab class)    | [Sprint with Peer Code Review](lectures/presentations.md#demo-4) by 3/30  | 
 | Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | [Practice Presentation](lectures/presentations.md#final-presentations) | Group Feedback (Opt) |
 | Apr. 7  | Demo 4 Feedback <br> Alumni Slide Review | Feedback for Practice Presentation | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
-| Apr. 14 |  [100% Demo](lectures/presentations.md#final-demo) | Money management in the real world  |  |
+| Apr. 14 |  [Final Demo](lectures/presentations.md#final-demo) | Money management in the real world  |  |
 | Apr. 21 | Optional instructor meeting | <b>  [Final Presentation](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
 | Apr. 28 | Classes End | Makeup Demos (No Lab) |  | 
 | May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Sunday May 11, 11:59PM | 
