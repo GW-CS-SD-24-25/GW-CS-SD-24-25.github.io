@@ -84,7 +84,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Feb. 24 | Status Update | No Lab class | [Sprint with Mentor Code Review](lectures/presentations.md#demo-3) by 3/2 |
 | Mar. 3  | [Demo 3](lectures/presentations.md#demo-3) (team) | TBD | Group Feedback Survey (Reqd) 3/9 |
 | Mar. 10  | SPRING | BREAK |  |
-| Mar. 17 | Final Sprint Plan | Senior Focus Group  | Code reviews |
+| Mar. 17 | Final Sprint Plan | Senior Focus Group  |  |
 | Mar. 24 | Status Update | Sprint review (No Lab class)    | [Sprint with Peer Code Review](lectures/presentations.md#demo-4) by 3/30  | 
 | Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | [Practice Presentation](lectures/presentations.md#final-presentations) | Group Feedback (Opt) |
 | Apr. 7  | Demo 4 Feedback <br> Alumni Slide Review | Feedback for Practice Presentation | April 19 Poster PDF Submission Due for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
