@@ -53,16 +53,21 @@ The demo is a sit down to talk through the code and the system features. You sho
 
 ---
 
-## Spring Semester
+# Spring Semester
 
-## Beta Project Review Demo ##
+## Sprint Planning ##
+Spring will be broken into sprints that run until the end of January, February, March, and April. At the start of each sprint each team will:
+ - Make a sprint plan that defines the high level goals for the sprint, and add this to their Readme. Preparing this plan will be the subject of the first Instructor meeting in each sprint.
+ - Break the sprint down into smaller tasks added to their sprint board. Preparing this breakdwon will be the subject of the first Alumni Mentor meeting in each sprint.
+
+<!-- ## Beta Project Review Demo ##
 This demo is a sit down demo to assess progress since the Alpha demo. The demo will be assessed based on the progress since the alpha demo, how you have addressed the feedback (questions and suggestions) fron the alpha demo, and clear specification of the steps needed to provide an end to end working system (with all components integrated).
 
 ## Presentation 4: Revised Elevator Pitch ##
 This is a revision of your elevator pitch presentation from the fall semester. This presentation should be planned as a 3 minute presentation, and the content can be used towards the final promotional project video you will upload as part of your final package. The presentation should tell the audience what your project does - what problem does it solve, why is it important, and possibly user stories on how the project can be used. The presentation should not get into details on how the project was implemented and how it works (a short slide on this is okay, but the details of "how" should be left to the final presentation). The rubric is similar to Presentation 1 rubric - with equal parts weighted on presentation skill and content (slides, project description of what it does,etc.)
 
 ## Demo 3: Preliminary Prototype ##
-This is a demo of an "almost completed" project. We will assess whether you have a end to end working system, with all components integrated, and if all project features (as discussed during Alpha and Beta demos) are implemented. The projects should have a near final user interface. After this demo, the goal should be to carry out more testing, debugging and cleaning up the UI based on the feedback you will receive. Grading will take into account the technical complexity of the project.
+This is a demo of an "almost completed" project. We will assess whether you have a end to end working system, with all components integrated, and if all project features (as discussed during Alpha and Beta demos) are implemented. The projects should have a near final user interface. After this demo, the goal should be to carry out more testing, debugging and cleaning up the UI based on the feedback you will receive. Grading will take into account the technical complexity of the project. -->
 
 <!-- ## Mock 100% Demo ##
 The mock demo will be more like a presentation to the instruction team; it will serve as the blueprint for your demo, and your final project features. You should walk the audience through what you will demo - how the project looks to the user, how user interacts with it, features you will implement and demonstrate, and what architectural details you will demonstrate or discuss.  -->

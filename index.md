@@ -48,6 +48,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Fall Semester CSCI 4243W ##
 
 <div style="font-size:90%">
+
 | Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |
 | Aug. 25 | - [Course Logistics](lectures/1-Course-Structure.pdf) | [[Lab Slides](lectures/lab_1.pdf)] <br> - Deloitte Visit <br> - Lab Overview <br> - Project Management Intro <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. [Join slack](https://join.slack.com/t/gwcssd24-25/shared_invite/zt-2o6qn2is4-w6phDTds37qMTEFD18fdhg) & upload your photo ASAP <br> 3. Complete [Student Info form](https://forms.gle/WSfpXNZSwm8y3UHm9) ASAP <br> 4. Form teams & complete [team submission](https://forms.gle/414u7GCqt4AX8iBh7) before Tuesday's class (Sept. 3) |  
@@ -73,11 +74,12 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Spring Semester CSCI 4244 ##
  
 <div style="font-size:90%">
+
 | Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines |
 | :--- |:---  |:--- |:--- |    
 | Jan. 13 | Individual Fall Feedback | Spring Project Planning |  |
 | Jan. 20 | Status Update |  Testing and Code Reviews |  |
-| Jan. 27 | Status Update | No Lab class | [Sprint with Peer Code Review](lectures/presentations.md#demo-2) by 2/2 | 
+| Jan. 27 | Status Update | Lab Office Hours | [Sprint with Peer Code Review](lectures/presentations.md#demo-2) by 2/2 | 
 | Feb. 3  | [Demo 2](lectures/presentations.md#demo-2) (individual)  | TBD  | Groupwork Feedback (Opt)  |
 | Feb. 10  | Sprint 3 Plan  | Demo 2 Feedback (zoom)  |   |
 | Feb. 17 | Status Update | [Presentation 4](lectures/presentations.md) |  | 
