@@ -149,27 +149,29 @@ You will be assigned grades for each course CSCI 4243 and CSCI 4244, with the fo
     * [20%] Presentation 3
  * [20%] Writing assignments and design homeworks (5% each)
  * [20%] Sprint Progress: 20% weekly status updates, sprint boards, code commits, website, resume
+   * Each student is expected to complete tickets on the project board, create their own weekly status update, and merge code to `main` by the end of each sprint.
  * [20%] Alpha Project Review
  * [5%] Participation and Initiative: attendence, team surveys
 
 ### CSCI 4244 (Spring semester) ###
- * [20%] Presentations and Webpage
-    * [5%] Presentation to general audience (commerical presentation)
+ * [10%] Presentations
+    * [5%] Presentation 4
     * [5%] Mock demo presentation
-    * [10%] Webpage
- * [30%] Sprint Progress & Demos
-    * [10%] Demos: will take into account progress since previous demo, technical complexity (including tools used)
-    * [20%] Sprints: weekly status updates, sprint boards, code commits. Additional focus for Spring is Testing and Code review.
-      * For fall, sprint grading will be: 4% September, 6% October, 10% November/December
- * [35%] Final project demo/presentation: The grade is based entirely on the final project and presentation.
-    * [10%] Formal Presentation: this is the formal presentation (business casual) at end of the semester to an open audience (open to all CS students, faculty and alumni) in Lehman Auditorium
-    * [25%] Final Demo: this is the full demo of the final project/product. Grade based on their project scope, technical scope, and amount completed.
- * [5%] Participation and Initiative: attendance, team surveys
- * [10%] Final Package: All requirements must be met  (including written report, code documentation, screencasts, webpage)
-    * Webpage
-    * Screen Recordings (linked from webpage), the commerical (elevator pitch) recording and technical product recording
-    * Documents (final report, code documentation)
-    * Poster and poster presentation
+ * [39%] Sprint Progress & Demos
+    * [21%] 3x Demos: will take into account progress since previous demo, technical complexity (including tools used)
+      * Some demos will be performed as a group and some will be done individually. In both cases, each students should be able to showcase their progress from the sprint.
+    * [18%] 3x Sprints: weekly status updates, sprint boards, code commits. Additional focus for Spring is Testing and Code review.
+      * Each student is expected to complete tickets on the project board, create their own weekly status update, and merge code to `main` by the end of each sprint.
+ * [35%] Final project demo/presentation
+    * [10%] Final Presentation: this is the formal presentation (business casual) at end of the semester to an open audience (open to all CS students, faculty and alumni) in Lehman Auditorium
+    * [25%] Final Demo: this is the full demo of the final project/product. Grade based on the project's technical and algorthmic difficulty, amount completed, ability to communicate about the work that has been completed, and personal effort put towards the project.
+ * [6%] Participation and Initiative: attendance, team surveys
+ * [10%] Final Package: updated project website including:
+    - A project description and bio of team members
+    - Final Presentation Slides (PDF)
+    - Senior Design showcase poster (PDF)
+    - Writing 4 (PDF) 
+    - Link to Github repository with all code
  
 ### Note on grading ###
  You will notice that at the end of the Fall semester, you will be given a grade that is heavily weighted based on

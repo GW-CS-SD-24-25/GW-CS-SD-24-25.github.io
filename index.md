@@ -88,7 +88,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Mar. 24 | Status Update | Lab Office Hours    | [Sprint with Peer Code Review](lectures/presentations.md#demo-4) by 3/30  | 
 | Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | Money management in the real world | Group Feedback (Opt) |
 | Apr. 7  | Demo 4 Feedback <br> Alumni Slide Review | [Practice Presentation](lectures/presentations.md#final-presentations) | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
-| Apr. 14 |  [Final Demo](lectures/presentations.md#final-demo) | Feedback for Practice Presentation (zoom) | April 19 Poster PDF Submission Due for  |  |
+| Apr. 14 |  [Final Demo](lectures/presentations.md#final-demo) (team) | Feedback for Practice Presentation (zoom) | April 19 Poster PDF Submission Due for  |  |
 | Apr. 21 | Optional instructor meeting | <b>  [Final Presentation](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
 | Apr. 28 | Classes End | Makeup Demos (No Lab) |  | 
 | May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Sunday May 11, 11:59PM | 
