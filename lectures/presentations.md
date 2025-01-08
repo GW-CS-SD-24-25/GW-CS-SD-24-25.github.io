@@ -60,6 +60,9 @@ Spring will be broken into sprints that run until the end of January, February, 
  - Make a sprint plan that defines the high level goals for the sprint, and add this to their Readme. Preparing this plan will be the subject of the first Instructor meeting in each sprint.
  - Break the sprint down into smaller tasks added to their sprint board. Preparing this breakdwon will be the subject of the first Alumni Mentor meeting in each sprint.
 
+## Spring Demos
+In Spring you will have a demo after each monthly sprint. At the start of Februrary, students will give an individual demo, showing off what they have accomplished since the end of Fall. At the start of March, you will give your demo as a team, ideally showing both further individual progress and evidence of integration. At the start of April you will do another individual demo, and then the final demo (described below) will be in the middle of April.
+
 <!-- ## Beta Project Review Demo ##
 This demo is a sit down demo to assess progress since the Alpha demo. The demo will be assessed based on the progress since the alpha demo, how you have addressed the feedback (questions and suggestions) fron the alpha demo, and clear specification of the steps needed to provide an end to end working system (with all components integrated).
 
@@ -75,11 +78,9 @@ The mock demo will be more like a presentation to the instruction team; it will 
 ## Final Presentations ##
 This is the final project presentation - and will be similar to Presentation 3 (the end of Fall semester presentation). Introduce your project and state what problem you are solving and what your project does (stick to a few slides and max of 2 minutes to convey this). Next discuss how the project works: Describe the overall architecture of your project – start with brief overview of the system, technical components, what types of technologies/libraries/APIs you used and how the pieces interact. We recommend using videos where possible, possibly with screenshots to highlight key interactions or features. Total Time: 8 minutes. The rubric is similar to Presentation 3 - equal parts weighted on speaking skills and the content. We will have guests attending, and some quests will be evaluating the presentations.
   - You will have a chance to give a practice version of your final presentation in class a few weeks before the official one.
-  - You will also need to record a video version of your presentation to include with your final package. You can record this with Zoom or any other video/screen capture type software.
 
 ## Final Demo ##
-This demo must show your final end to end working system. It will be a sit down demo with the instruction team, and you can use your Mock Demo blueprint to walk the audience through the demo and showcase the project features. Expect to show the code working. Rubric is similar to Alpha Demo but will be weighted on how complete the system is, final features implemented, presence (or absence) of bugs in your system and technical complexity.
-  - You will do a practice version of your demo with your instructor mentor a few weeks before the official one.
+This demo must show your final end to end working system. It will be a sit down demo with the instruction team, and you can use your Mock Demo blueprint to walk the audience through the demo and showcase the project features. Expect to show the code working. Rubric is similar to Alpha Demo but will be weighted on how complete the system is, final features implemented, presence (or absence) of bugs in your system and technical/algorithmic complexity.
 
 
 ## Final Package ##
