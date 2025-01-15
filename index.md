@@ -107,8 +107,6 @@ This is a two semester Computer Science capstone course culminating in a signifi
 * Explore local and global impact of computing, as well as social impact issues.
 * Demonstrate a working project.
 
-### Announcements ###
-  - <b>This website is under construction - all content subject to change!</b>
 
 ## Getting Started: Class Resources ##
 You should have received an email with a survey about project topics and teams. If you have not then contact the instructors immediately.
