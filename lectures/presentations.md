@@ -63,11 +63,14 @@ Spring will be broken into sprints that run until the end of January, February, 
 ## Spring Demos
 In Spring you will have a demo after each monthly sprint. At the start of Februrary, students will give an individual demo, showing off what they have accomplished since the end of Fall. At the start of March, you will give your demo as a team, ideally showing both further individual progress and evidence of integration. At the start of April you will do another individual demo, and then the final demo (described below) will be in the middle of April.
 
+## Spring Code Reviews
+You will be expected to provide code reviews for other members of your team. One student will need to create a Pull Request and another student (or students) must provide feedback using the github commenting interface. Try to provide overall comments as well as some line specific comments. Each team will need to ensure that all students have a chance to make a PR and review someone else's PR.
+
+## Presentation 4: Skill Refinement ##
+The goal of this presentation is to give you more direct practice with speaking skills. Your group will present the same slides that you used at the end of Fall--you do not need to update them. While you are giving the presentation we will interrupt you and give you specific feedback on something we'd like you to focus on (for example improving eye contact or raising your volume), then we'll have you repeat your slide focusing on that skill. Thus the content of your slides is less important (in fact, you can choose to talk about anything you want), but we want to have a tight loop between you practicing a skill and getting feedback.
+
 <!-- ## Beta Project Review Demo ##
 This demo is a sit down demo to assess progress since the Alpha demo. The demo will be assessed based on the progress since the alpha demo, how you have addressed the feedback (questions and suggestions) fron the alpha demo, and clear specification of the steps needed to provide an end to end working system (with all components integrated).
-
-## Presentation 4: Revised Elevator Pitch ##
-This is a revision of your elevator pitch presentation from the fall semester. This presentation should be planned as a 3 minute presentation, and the content can be used towards the final promotional project video you will upload as part of your final package. The presentation should tell the audience what your project does - what problem does it solve, why is it important, and possibly user stories on how the project can be used. The presentation should not get into details on how the project was implemented and how it works (a short slide on this is okay, but the details of "how" should be left to the final presentation). The rubric is similar to Presentation 1 rubric - with equal parts weighted on presentation skill and content (slides, project description of what it does,etc.)
 
 ## Demo 3: Preliminary Prototype ##
 This is a demo of an "almost completed" project. We will assess whether you have a end to end working system, with all components integrated, and if all project features (as discussed during Alpha and Beta demos) are implemented. The projects should have a near final user interface. After this demo, the goal should be to carry out more testing, debugging and cleaning up the UI based on the feedback you will receive. Grading will take into account the technical complexity of the project. -->

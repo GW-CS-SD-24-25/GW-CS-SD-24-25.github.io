@@ -79,15 +79,15 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | :--- |:---  |:--- |:--- |    
 | Jan. 13 | Individual Fall Feedback | Spring Project Planning |  |
 | Jan. 20 | Status Update |  Testing and Code Reviews |  |
-| Jan. 27 | Status Update | Lab Office Hours | [Sprint with Peer Code Review](lectures/presentations.md#demo-2) by 2/2 | 
-| Feb. 3  | [Demo 2](lectures/presentations.md#demo-2) (individual)  | TBD  | Groupwork Feedback (Opt)  |
+| Jan. 27 | Status Update | Lab Office Hours | [Sprint with Peer Code Review](lectures/presentations.md#spring-code-reviews) by 2/2 | 
+| Feb. 3  | [Demo 2](lectures/presentations.md#spring-demos) (individual)  | TBD  | Groupwork Feedback (Opt)  |
 | Feb. 10  | Sprint 3 Plan  | Demo 2 Feedback (zoom)  |   |
-| Feb. 17 | Status Update | [Presentation 4](lectures/presentations.md) |  | 
-| Feb. 24 | Status Update | Lab Office Hours | [Sprint with Mentor Code Review](lectures/presentations.md#demo-3) by 3/2 |
-| Mar. 3  | [Demo 3](lectures/presentations.md#demo-3) (team) | TBD | Group Feedback Survey (Reqd) 3/9 |
+| Feb. 17 | Status Update | [Presentation 4](lectures/presentations.md#presentation-4-skill-refinement): Skill Refinement |  | 
+| Feb. 24 | Status Update | Lab Office Hours | [Sprint with Mentor Code Review](lectures/presentations.md#spring-code-reviews) by 3/2 |
+| Mar. 3  | [Demo 3](lectures/presentations.md#spring-demos) (team) | TBD | Group Feedback Survey (Reqd) 3/9 |
 | Mar. 10  | SPRING | BREAK |  |
 | Mar. 17 | Final Sprint Plan | Senior Focus Group  |  |
-| Mar. 24 | Status Update | Lab Office Hours    | [Sprint with Peer Code Review](lectures/presentations.md#demo-4) by 3/30  | 
+| Mar. 24 | Status Update | Lab Office Hours    | [Sprint with Peer Code Review](lectures/presentations.md#spring-code-reviews) by 3/30  | 
 | Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | Money management in the real world | Group Feedback (Opt) |
 | Apr. 7  | Demo 4 Feedback <br> Alumni Slide Review | [Practice Presentation](lectures/presentations.md#final-presentations) | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
 | Apr. 14 |  [Final Demo](lectures/presentations.md#final-demo) (team) | Feedback for Practice Presentation (zoom) | April 19 Poster PDF Submission Due for  |  |
