@@ -78,7 +78,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines |
 | :--- |:---  |:--- |:--- |    
 | Jan. 13 | Individual Fall Feedback | [[Lab Slides](lectures/lab_11.pdf)] <br> - Spring Project Planning |  |
-| Jan. 20 | Status Update |  Testing and Code Reviews |  |
+| Jan. 20 | Status Update |  [[Lab Slides](lectures/lab_12.pdf)] <br> - Testing and Code Reviews |  |
 | Jan. 27 | Status Update | Lab Office Hours | [Sprint with Peer Code Review](lectures/presentations.md#spring-code-reviews) by 2/2 | 
 | Feb. 3  | [Demo 2](lectures/presentations.md#spring-demos) (individual)  | TBD  | Groupwork Feedback (Opt)  |
 | Feb. 10  | Sprint 3 Plan  | Demo 2 Feedback (zoom)  |   |
