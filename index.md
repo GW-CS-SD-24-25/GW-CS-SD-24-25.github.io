@@ -80,7 +80,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Jan. 13 | Individual Fall Feedback | [[Lab Slides](lectures/lab_11.pdf)] <br> - Spring Project Planning |  |
 | Jan. 20 | Status Update |  [[Lab Slides](lectures/lab_12.pdf)] <br> - Testing and Code Reviews |  |
 | Jan. 27 | Status Update | Lab Office Hours | [Sprint with Peer Code Review](lectures/presentations.md#spring-code-reviews) by 2/2 | 
-| Feb. 3  | [Demo 2](lectures/presentations.md#spring-demos) (individual)  | [[Lab Slides](lectures/lab_13.pdf)] <br> - Career Planning <br> - February Sprint Prep | [Groupwork Feedback (Opt)](https://forms.gle/TNFt9mvHcBDVtEEo8) |
+| Feb. 3  | [Demo 2](lectures/presentations.md#spring-demos) (individual)  | [[Lab Slides](lectures/lab_13.pdf)] <br> - Salary Negotiation <br> - [Career Planning](lectures/lab_13_career_services.pdf) <br> - February Sprint Prep | [Groupwork Feedback (Opt)](https://forms.gle/TNFt9mvHcBDVtEEo8) |
 | Feb. 10  | Sprint 3 Plan  | Demo 2 Feedback (zoom)  |   |
 | Feb. 17 | Status Update | [Presentation 4](lectures/presentations.md#presentation-4-skill-refinement): Skill Refinement |  | 
 | Feb. 24 | Status Update | Lab Office Hours (zoom) | [Sprint with Mentor Code Review](lectures/presentations.md#spring-code-reviews) by 3/2 |
