@@ -84,7 +84,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Feb. 10  | Sprint 3 Plan  | Demo 2 Feedback (zoom)  |   |
 | Feb. 17 | Status Update | [Presentation 4](lectures/presentations.md#presentation-4-skill-refinement): Skill Refinement |  | 
 | Feb. 24 | Status Update | Lab Office Hours | [Sprint with Mentor Code Review](lectures/presentations.md#spring-code-reviews) by 3/2 |
-| Mar. 3  | [Demo 3](lectures/presentations.md#spring-demos) (team) | TBD | Group Feedback Survey (Reqd) 3/9 |
+| Mar. 3  | [Demo 3](lectures/presentations.md#spring-demos) (team) | Cloud Deployment Strategies | [Group Feedback Survey (Reqd)](https://docs.google.com/forms/d/e/1FAIpQLSc5nxv95db3I2FJJ_aUTwppRjS1ydMlRxTcNSF7Vaa1_snxvA/viewform?usp=header) 3/9 |
 | Mar. 10  | SPRING | BREAK |  |
 | Mar. 17 | Final Sprint Plan | Senior Focus Group  |  |
 | Mar. 24 | Status Update | Lab Office Hours    | [Sprint with Peer Code Review](lectures/presentations.md#spring-code-reviews) by 3/30  | 
