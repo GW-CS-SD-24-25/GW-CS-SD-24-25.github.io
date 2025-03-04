@@ -85,16 +85,16 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Feb. 17 | Status Update | [Presentation 4](lectures/presentations.md#presentation-4-skill-refinement): Skill Refinement |  | 
 | Feb. 24 | Status Update | Lab Office Hours (zoom) | [Sprint with Mentor Code Review](lectures/presentations.md#spring-code-reviews) by 3/2 |
 | Mar. 3  | [Demo 3](lectures/presentations.md#spring-demos) (team) | Cloud Deployment Strategies | [Group Feedback Survey (Reqd)](https://docs.google.com/forms/d/e/1FAIpQLSc5nxv95db3I2FJJ_aUTwppRjS1ydMlRxTcNSF7Vaa1_snxvA/viewform?usp=header) 3/9 |
-| Mar. 10  | SPRING | BREAK |  |
+| Mar. 10  | SPRING BREAK |  |  |
 | Mar. 17 | Final Sprint Plan | Senior Focus Group  |  |
 | Mar. 24 | Status Update | Lab Office Hours    | [Sprint with Peer Code Review](lectures/presentations.md#spring-code-reviews) by 3/30  | 
 | Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | Money management in the real world | Group Feedback (Opt) |
 | Apr. 7  | Demo 4 Feedback <br> Alumni Slide Review | [Practice Presentation](lectures/presentations.md#final-presentations) | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate)|
-| Apr. 14 |  [Final Demo](lectures/presentations.md#final-demo) (team) | Feedback for Practice Presentation (zoom) | April 19 Poster PDF Submission Due for  |  |
-| Apr. 21 | Optional instructor meeting | <b>  [Final Presentation](lectures/presentations.md#final-presentations)  </b>|[SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
+| Apr. 14 |  [Final Demo](lectures/presentations.md#final-demo) (team) | Feedback for Practice Presentation (zoom) | April 19 Poster PDF Submission Due |
+| Apr. 21 | Optional instructor meeting | <b>  [Final Presentation](lectures/presentations.md#final-presentations)  </b> | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
 | Apr. 28 | Classes End | Makeup Demos (No Lab) |  | 
 | May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Sunday May 11, 11:59PM | 
-| May 12  |   | Commencement Week  |[Graduation, hooray!!](https://commencement.gwu.edu/schedule)  | 
+| May 12  |   | Commencement Week  | [Graduation, hooray!!](https://commencement.gwu.edu/schedule)  | 
 
 </div> 
  
