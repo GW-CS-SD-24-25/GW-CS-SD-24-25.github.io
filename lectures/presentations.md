@@ -79,7 +79,24 @@ This is a demo of an "almost completed" project. We will assess whether you have
 The mock demo will be more like a presentation to the instruction team; it will serve as the blueprint for your demo, and your final project features. You should walk the audience through what you will demo - how the project looks to the user, how user interacts with it, features you will implement and demonstrate, and what architectural details you will demonstrate or discuss.  -->
 
 ## Final Presentations ##
-This is the final project presentation - and will be similar to Presentation 3 (the end of Fall semester presentation). Introduce your project and state what problem you are solving and what your project does (stick to a few slides and max of 2 minutes to convey this). Next discuss how the project works: Describe the overall architecture of your project – start with brief overview of the system, technical components, what types of technologies/libraries/APIs you used and how the pieces interact. We recommend using videos where possible, possibly with screenshots to highlight key interactions or features. Total Time: 8 minutes. The rubric is similar to Presentation 3 - equal parts weighted on speaking skills and the content. We will have guests attending, and some quests will be evaluating the presentations.
+This is the final project presentation - and will be similar to Presentation 3 (the end of Fall semester presentation). Your presentation should include these topics:
+
+Motivation:
+ - Describe the problem to be solved and motivate why it is useful/important/exciting
+ - Describe > 1 type of user who will make use of your project
+ - How is your project different from similar apps/approaches?
+
+Technical Achievements:
+ - Overview your implementation using diagrams, algorithms, etc. 
+ - Show an overall system diagram or set of diagrams to show how the project is structured and how components interact.
+ - Discusss the complexity of your algorithm. This doesn't necessarily mean Big O time complexity, but could also include a description of the type of problem you need to solve and why it requires algorithmic thinking.
+
+Demo:
+ - Demonstrate that your project is funcitonal. This can be screenshots or a pre-recorded video. 
+ - In general we do not suggest doing a live demo given the limited time and the need to present from the classroom computer instead of your own machine.
+ - The demo can either be a small portion of your presentation, or you may be able to intersperse it with the rest of your presentation (e.g., talk over what you are showing)
+
+Total Time: 8 minutes. You will be graded on both your speaking skills and the content. We will have guests attending, and some quests may help evaluate the presentations.
   - You will have a chance to give a practice version of your final presentation in class a few weeks before the official one.
 
 ## Final Demo ##
