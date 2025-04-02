@@ -93,7 +93,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Apr. 14 |  [Final Demo](lectures/presentations.md#final-demo) (team) | Feedback for Practice Presentation (zoom) | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) Poster PDF Submission Due 4/18 |
 | Apr. 21 | Optional instructor meeting | <b>  [Final Presentation](lectures/presentations.md#final-presentations)  </b> | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
 | Apr. 28 | Classes End | Makeup Demos (No Lab) |  | 
-| May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Sunday May 11, 11:59PM | 
+| May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Friday May 9, 11:59PM | 
 | May 12  |   | Commencement Week  | [Graduation, hooray!!](https://commencement.gwu.edu/schedule)  | 
 
 </div> 

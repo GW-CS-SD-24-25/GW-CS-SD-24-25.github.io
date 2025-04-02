@@ -104,9 +104,11 @@ This demo must show your final end to end working system. It will be a sit down 
 
 
 ## Final Package ##
-At the end of the semester you must upload the following to your team's github website. Your website should include:
+At the end of the semester you must upload the following to your team's github website and google drive. Your website should include:
   - A project description and bio of team members
   - Final Presentation Slides (PDF)
   - Senior Design showcase poster (PDF)
   - Writing 4 (PDF) 
   - Link to Github repository with all code
+
+Your google drive upload should include everything on the website plus a zipfile of your Github repo. You should upload to your team folder [here](https://drive.google.com/drive/u/0/folders/1d6vehQl2DRjVOn-aCnQAvCzEMSrSXnKO).
