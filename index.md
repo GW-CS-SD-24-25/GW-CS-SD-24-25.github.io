@@ -88,8 +88,8 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Mar. 10  | SPRING BREAK |  |  |
 | Mar. 17 | Final Sprint Plan | Senior Focus Group  |  |
 | Mar. 24 | Status Update | Lab Office Hours    | [Sprint with Peer Code Review](lectures/presentations.md#spring-code-reviews) by 3/30  | 
-| Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | Money management in the real world | - Group Feedback (Opt) <br> - Sign up for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) by 4/4 |
-| Apr. 7  | Demo 4 Feedback <br> Alumni Slide Review | [Practice Presentation](lectures/presentations.md#final-presentations) | |
+| Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | [[Lab Slides](lectures/lab_15.pdf)] <br> - Money management in the real world <br> - Final course logistics | - [Group Feedback (Opt)](https://forms.gle/kp4JAGKnxQqjGC9AA) <br> - Sign up for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) by 4/4 |
+| Apr. 7  | Demo 4 Feedback <br> Mentor Slide Review | [Practice Presentation](lectures/presentations.md#final-presentations) | |
 | Apr. 14 |  [Final Demo](lectures/presentations.md#final-demo) (team) | Feedback for Practice Presentation (zoom) | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) Poster PDF Submission Due 4/18 |
 | Apr. 21 | Optional instructor meeting | <b>  [Final Presentation](lectures/presentations.md#final-presentations)  </b> | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
 | Apr. 28 | Classes End | Makeup Demos (No Lab) |  | 
